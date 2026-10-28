@@ -1,12 +1,12 @@
 {
   "schemaVersion": 2,
-  "version": 3,
-  "updatedAt": "2026-10-28T10:58:16.773Z",
+  "version": 4,
+  "updatedAt": "2026-10-28T11:13:10.341Z",
   "scope": "worldwide-reference",
   "catalog": {
     "path": "catalog/all.json",
     "count": 2941,
-    "sha256": "742c1a00b5b5d5b6a64b47ea9c9018cf57e36d2c7bf247f17ab00f7556c9a6b6"
+    "sha256": "3a7a31d882caddeaecfada4768d2dd3825b61556db4a8db31a20758612dc6fc6"
   },
   "regions": {},
   "sources": {
@@ -35,5 +35,16 @@
   "details": {
     "path": "catalog/details.json",
     "sha256": "872f3d8cd284eae80bfedb52bb51e6afe4a8cc989d4073ad2c6d095fde500848"
+  },
+  "ordering": {
+    "path": "catalog/priority/middle-east.json",
+    "sha256": "21ab4b11fd5bf4884d11022a5ce1c0e2e2e5cb2e486507c49650bf28e50675d7",
+    "regions": [
+      "AE",
+      "SA",
+      "EG"
+    ],
+    "priorityCount": 747,
+    "withinGroup": "price-then-name"
   }
 }

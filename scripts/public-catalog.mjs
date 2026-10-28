@@ -1,6 +1,7 @@
 import fs from 'node:fs/promises';
 import { IMAGE_BASE_URL, imageExtension } from './images.mjs';
 import { serialize, checksum } from './catalog.mjs';
+import { prioritizeGifts, readCatalogPriority } from './catalog-order.mjs';
 
 const root = new URL('../', import.meta.url);
 export function imageFilename(gift, extension = 'webp') {
@@ -26,12 +27,13 @@ export async function publicCatalog(gifts) {
     }
     result.push({ giftId: gift.giftId, name: gift.name, points: gift.points, image });
   }
-  return result;
+  return prioritizeGifts(result, (await readCatalogPriority()).giftIds);
 }
 
 export async function publish(gifts, publicGifts, manifest) {
   const details = serialize(gifts), body = serialize(publicGifts);
   manifest.schemaVersion = 2;
+  manifest.ordering = (await readCatalogPriority()).metadata;
   manifest.catalog = { path: 'catalog/all.json', count: publicGifts.length, sha256: checksum(body) };
   manifest.details = { path: 'catalog/details.json', sha256: checksum(details) };
   manifest.images.publicBaseUrl = `${IMAGE_BASE_URL}images/`;
