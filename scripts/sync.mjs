@@ -1,6 +1,7 @@
 import fs from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import { normalize, providerGifts, merge, validate, serialize, checksum } from './catalog.mjs';
+import { mirrorImages } from './images.mjs';
 
 const root = new URL('../', import.meta.url);
 const read = async path => { try { return JSON.parse(await fs.readFile(new URL(path, root), 'utf8')); } catch (error) { if (error.code === 'ENOENT') return null; throw error; } };
@@ -28,16 +29,17 @@ try {
   const oldManifest = await read('manifest.json');
   const oldCount = oldManifest?.sources?.tiktools?.count;
   if (oldCount && incoming.length < oldCount * 0.8) throw new Error('Provider count fell by more than 20%; keeping published catalog');
-  const gifts = merge(previous, incoming);
+  const mirrored = await mirrorImages(merge(previous, incoming));
+  const gifts = mirrored.gifts;
   validate(gifts);
   const body = serialize(gifts), hash = checksum(body);
-  if (oldManifest?.catalog?.sha256 === hash) {
+  if (oldManifest?.catalog?.sha256 === hash && JSON.stringify(oldManifest.images) === JSON.stringify(mirrored.metadata)) {
     console.log(JSON.stringify({ status: 'unchanged', checkedAt: new Date().toISOString(), count: gifts.length }));
   } else {
     const manifest = { schemaVersion: 1, version: (oldManifest?.version ?? 0) + 1, updatedAt: new Date().toISOString(), scope: 'worldwide-reference',
       catalog: { path: 'catalog/all.json', count: gifts.length, sha256: hash }, regions: oldManifest?.regions ?? {},
       sources: { tiktools: { endpoint: 'https://api.tik.tools/webcast/gift_info', count: incoming.length }, legacy: { retainedOnly: gifts.filter(g => g.source === 'legacy').length, region: null } },
-      images: { hosting: 'upstream', note: 'Image URLs currently use upstream hosts; images are not yet mirrored to this repository.' } };
+      images: mirrored.metadata };
     // Publish metadata last; readers can validate the referenced file checksum.
     await fs.writeFile(new URL('catalog/all.json.tmp', root), body);
     await fs.rename(new URL('catalog/all.json.tmp', root), new URL('catalog/all.json', root));
