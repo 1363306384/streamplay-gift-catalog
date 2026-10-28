@@ -516,11 +516,27 @@
   },
   {
     "giftIds": [
+      "38009"
+    ],
+    "name": "اوشا وبابوس",
+    "points": 1,
+    "image": "gift-38009.webp"
+  },
+  {
+    "giftIds": [
       "106370"
     ],
     "name": "عبدالله",
     "points": 1,
     "image": "gift-106370.webp"
+  },
+  {
+    "giftIds": [
+      "422434"
+    ],
+    "name": "ملك المايك",
+    "points": 1,
+    "image": "gift-422434.webp"
   },
   {
     "giftIds": [
@@ -9634,11 +9650,12 @@
   },
   {
     "giftIds": [
+      "12875",
       "947618"
     ],
     "name": "Maple Leaf",
     "points": 1,
-    "image": "maple-leaf-947618.webp"
+    "image": "maple-leaf-12875.webp"
   },
   {
     "giftIds": [
@@ -12254,6 +12271,14 @@
   },
   {
     "giftIds": [
+      "38453"
+    ],
+    "name": "도도한 팔짱",
+    "points": 1,
+    "image": "gift-38453.webp"
+  },
+  {
+    "giftIds": [
       "70298"
     ],
     "name": "도현 여우",
@@ -12750,6 +12775,14 @@
   },
   {
     "giftIds": [
+      "37573"
+    ],
+    "name": "프린스의 고백",
+    "points": 1,
+    "image": "gift-37573.webp"
+  },
+  {
+    "giftIds": [
       "31545"
     ],
     "name": "핑크 아가",
@@ -12811,6 +12844,14 @@
     "name": "お嬢",
     "points": 1,
     "image": "gift-29869.webp"
+  },
+  {
+    "giftIds": [
+      "21381"
+    ],
+    "name": "かおりん単推し",
+    "points": 1,
+    "image": "gift-21381.webp"
   },
   {
     "giftIds": [
@@ -13106,6 +13147,14 @@
   },
   {
     "giftIds": [
+      "17646"
+    ],
+    "name": "Tiny Diny Mic",
+    "points": 5,
+    "image": "tiny-diny-mic-17646.webp"
+  },
+  {
+    "giftIds": [
       "10604"
     ],
     "name": "Tofu",
@@ -13331,6 +13380,14 @@
     "name": "Go Live!",
     "points": 10,
     "image": "go-live-951462.webp"
+  },
+  {
+    "giftIds": [
+      "1470823"
+    ],
+    "name": "Godzilla Fan",
+    "points": 10,
+    "image": "godzilla-fan-1470823.webp"
   },
   {
     "giftIds": [
@@ -13638,6 +13695,14 @@
     "name": "You’re the Best!",
     "points": 10,
     "image": "you-re-the-best-17603.webp"
+  },
+  {
+    "giftIds": [
+      "1462747"
+    ],
+    "name": "Aragusuku Satonushi",
+    "points": 15,
+    "image": "aragusuku-satonushi-1462747.webp"
   },
   {
     "giftIds": [
@@ -14272,6 +14337,14 @@
     "name": "Gamer Pass Otter",
     "points": 100,
     "image": "gamer-pass-otter-1045664.webp"
+  },
+  {
+    "giftIds": [
+      "1472793"
+    ],
+    "name": "Godzilla Stamp",
+    "points": 100,
+    "image": "godzilla-stamp-1472793.webp"
   },
   {
     "giftIds": [
@@ -15493,6 +15566,14 @@
   },
   {
     "giftIds": [
+      "1447527"
+    ],
+    "name": "Campfire",
+    "points": 388,
+    "image": "campfire-1447527.webp"
+  },
+  {
+    "giftIds": [
       "8392"
     ],
     "name": "Singing frogs",
@@ -16407,6 +16488,14 @@
   },
   {
     "giftIds": [
+      "6986"
+    ],
+    "name": "Autumn Leaves",
+    "points": 999,
+    "image": "autumn-leaves-6986.webp"
+  },
+  {
+    "giftIds": [
       "223804"
     ],
     "name": "Divine Flame",
@@ -17065,6 +17154,14 @@
   },
   {
     "giftIds": [
+      "1213681"
+    ],
+    "name": "Bida Bida",
+    "points": 1999,
+    "image": "bida-bida-1213681.webp"
+  },
+  {
+    "giftIds": [
       "12869"
     ],
     "name": "Boxing Gloves",
@@ -17217,6 +17314,14 @@
   },
   {
     "giftIds": [
+      "1462750"
+    ],
+    "name": "Shuri Castle Illumination",
+    "points": 2000,
+    "image": "shuri-castle-illumination-1462750.webp"
+  },
+  {
+    "giftIds": [
       "16516"
     ],
     "name": "Squeeze the Day",
@@ -17354,6 +17459,14 @@
     "name": "Unicorn",
     "points": 2499,
     "image": "unicorn-11859.webp"
+  },
+  {
+    "giftIds": [
+      "1473046"
+    ],
+    "name": "Godzilla Approaching",
+    "points": 2500,
+    "image": "godzilla-approaching-1473046.webp"
   },
   {
     "giftIds": [
@@ -17962,6 +18075,14 @@
   },
   {
     "giftIds": [
+      "1447530"
+    ],
+    "name": "MapleBear",
+    "points": 5000,
+    "image": "maplebear-1447530.webp"
+  },
+  {
+    "giftIds": [
       "32362"
     ],
     "name": "Pink Star Gun",
@@ -18304,6 +18425,14 @@
   },
   {
     "giftIds": [
+      "1473047"
+    ],
+    "name": "Escape from Godzilla",
+    "points": 8000,
+    "image": "escape-from-godzilla-1473047.webp"
+  },
+  {
+    "giftIds": [
       "1233335"
     ],
     "name": "Gala On",
@@ -18538,6 +18667,14 @@
   },
   {
     "giftIds": [
+      "1447533"
+    ],
+    "name": "Mt Halla in Autumn",
+    "points": 12000,
+    "image": "mt-halla-in-autumn-1447533.webp"
+  },
+  {
+    "giftIds": [
       "15751"
     ],
     "name": "Superstar",
@@ -18747,6 +18884,14 @@
     "name": "Go Big Stallion",
     "points": 15000,
     "image": "go-big-stallion-16203.webp"
+  },
+  {
+    "giftIds": [
+      "1473045"
+    ],
+    "name": "Godzilla Minus Zero",
+    "points": 15000,
+    "image": "godzilla-minus-zero-1473045.webp"
   },
   {
     "giftIds": [

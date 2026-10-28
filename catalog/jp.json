@@ -274,6 +274,15 @@
   },
   {
     "giftIds": [
+      "12875",
+      "947618"
+    ],
+    "name": "Maple Leaf",
+    "points": 1,
+    "image": "maple-leaf-12875.webp"
+  },
+  {
+    "giftIds": [
       "1167769"
     ],
     "name": "Mate Melody",
@@ -490,6 +499,14 @@
   },
   {
     "giftIds": [
+      "21381"
+    ],
+    "name": "かおりん単推し",
+    "points": 1,
+    "image": "gift-21381.webp"
+  },
+  {
+    "giftIds": [
       "31550"
     ],
     "name": "こうやレッド",
@@ -618,6 +635,14 @@
   },
   {
     "giftIds": [
+      "17646"
+    ],
+    "name": "Tiny Diny Mic",
+    "points": 5,
+    "image": "tiny-diny-mic-17646.webp"
+  },
+  {
+    "giftIds": [
       "118812"
     ],
     "name": "Divine Fingers",
@@ -719,6 +744,14 @@
     "name": "Fukkachan",
     "points": 10,
     "image": "fukkachan-13864.webp"
+  },
+  {
+    "giftIds": [
+      "1470823"
+    ],
+    "name": "Godzilla Fan",
+    "points": 10,
+    "image": "godzilla-fan-1470823.webp"
   },
   {
     "giftIds": [
@@ -912,6 +945,14 @@
     "name": "Ultra Fan",
     "points": 10,
     "image": "ultra-fan-1182805.webp"
+  },
+  {
+    "giftIds": [
+      "1462747"
+    ],
+    "name": "Aragusuku Satonushi",
+    "points": 15,
+    "image": "aragusuku-satonushi-1462747.webp"
   },
   {
     "giftIds": [
@@ -1384,6 +1425,14 @@
     "name": "Gate to Treasure",
     "points": 100,
     "image": "gate-to-treasure-637996.webp"
+  },
+  {
+    "giftIds": [
+      "1472793"
+    ],
+    "name": "Godzilla Stamp",
+    "points": 100,
+    "image": "godzilla-stamp-1472793.webp"
   },
   {
     "giftIds": [
@@ -2765,6 +2814,14 @@
     "name": "Vinyl Flip",
     "points": 349,
     "image": "vinyl-flip-16748.webp"
+  },
+  {
+    "giftIds": [
+      "1447527"
+    ],
+    "name": "Campfire",
+    "points": 388,
+    "image": "campfire-1447527.webp"
   },
   {
     "giftIds": [
@@ -4231,6 +4288,14 @@
   },
   {
     "giftIds": [
+      "6986"
+    ],
+    "name": "Autumn Leaves",
+    "points": 999,
+    "image": "autumn-leaves-6986.webp"
+  },
+  {
+    "giftIds": [
       "15205",
       "14770"
     ],
@@ -4884,6 +4949,14 @@
   },
   {
     "giftIds": [
+      "1213681"
+    ],
+    "name": "Bida Bida",
+    "points": 1999,
+    "image": "bida-bida-1213681.webp"
+  },
+  {
+    "giftIds": [
       "6862"
     ],
     "name": "Cooper Flies Home",
@@ -4948,6 +5021,14 @@
     "name": "Club Music",
     "points": 2000,
     "image": "club-music-10423.webp"
+  },
+  {
+    "giftIds": [
+      "1462750"
+    ],
+    "name": "Shuri Castle Illumination",
+    "points": 2000,
+    "image": "shuri-castle-illumination-1462750.webp"
   },
   {
     "giftIds": [
@@ -5061,6 +5142,14 @@
     "name": "FANDOM Cheer",
     "points": 2500,
     "image": "fandom-cheer-60075.webp"
+  },
+  {
+    "giftIds": [
+      "1473046"
+    ],
+    "name": "Godzilla Approaching",
+    "points": 2500,
+    "image": "godzilla-approaching-1473046.webp"
   },
   {
     "giftIds": [
@@ -5628,6 +5717,14 @@
   },
   {
     "giftIds": [
+      "1447530"
+    ],
+    "name": "MapleBear",
+    "points": 5000,
+    "image": "maplebear-1447530.webp"
+  },
+  {
+    "giftIds": [
       "973116"
     ],
     "name": "Mystic Rod",
@@ -5938,6 +6035,14 @@
   },
   {
     "giftIds": [
+      "1473047"
+    ],
+    "name": "Escape from Godzilla",
+    "points": 8000,
+    "image": "escape-from-godzilla-1473047.webp"
+  },
+  {
+    "giftIds": [
       "60076"
     ],
     "name": "Ultimate FANDOM",
@@ -6041,6 +6146,14 @@
     "name": "Hot Rods",
     "points": 12000,
     "image": "hot-rods-1322366.webp"
+  },
+  {
+    "giftIds": [
+      "1447533"
+    ],
+    "name": "Mt Halla in Autumn",
+    "points": 12000,
+    "image": "mt-halla-in-autumn-1447533.webp"
   },
   {
     "giftIds": [
@@ -6262,6 +6375,14 @@
     "name": "Future Journey",
     "points": 15000,
     "image": "future-journey-10670.webp"
+  },
+  {
+    "giftIds": [
+      "1473045"
+    ],
+    "name": "Godzilla Minus Zero",
+    "points": 15000,
+    "image": "godzilla-minus-zero-1473045.webp"
   },
   {
     "giftIds": [
@@ -9352,14 +9473,6 @@
   },
   {
     "giftIds": [
-      "947618"
-    ],
-    "name": "Maple Leaf",
-    "points": 1,
-    "image": "maple-leaf-947618.webp"
-  },
-  {
-    "giftIds": [
       "7032"
     ],
     "name": "Maracas",
@@ -11702,6 +11815,14 @@
   },
   {
     "giftIds": [
+      "38009"
+    ],
+    "name": "اوشا وبابوس",
+    "points": 1,
+    "image": "gift-38009.webp"
+  },
+  {
+    "giftIds": [
       "427348"
     ],
     "name": "حاجی سیاه سفید",
@@ -11811,6 +11932,14 @@
     "name": "مكس الذهبي",
     "points": 1,
     "image": "gift-53091.webp"
+  },
+  {
+    "giftIds": [
+      "422434"
+    ],
+    "name": "ملك المايك",
+    "points": 1,
+    "image": "gift-422434.webp"
   },
   {
     "giftIds": [
@@ -11963,6 +12092,14 @@
     "name": "데헷",
     "points": 1,
     "image": "gift-90782.webp"
+  },
+  {
+    "giftIds": [
+      "38453"
+    ],
+    "name": "도도한 팔짱",
+    "points": 1,
+    "image": "gift-38453.webp"
   },
   {
     "giftIds": [
@@ -12459,6 +12596,14 @@
     "name": "푸르미 방긋",
     "points": 1,
     "image": "gift-166521.webp"
+  },
+  {
+    "giftIds": [
+      "37573"
+    ],
+    "name": "프린스의 고백",
+    "points": 1,
+    "image": "gift-37573.webp"
   },
   {
     "giftIds": [
