@@ -11,7 +11,7 @@ Streamplay 自己维护的 TikTok 礼物参考目录。目录按礼物 ID 合并
 - `catalog/regions/`：地区目录预留结构；初始版本没有虚构地区数据。
 - `images/` 保存图片：公开目录使用可读的“名称-ID”文件名；同时保留 SHA-256 文件，供增量同步校验和兼容先前发布的图片链接。Git 对相同图片内容共用对象。
 - `catalog/image-index.json` 保存上游地址到本地图片的映射、大小和校验值，供后续同步增量复用。
-- 当前只提供手动同步工具；**尚未启用定时任务、部署站点或修改 Studio 接口**。
+- `.github/workflows/update-catalog.yml` 提供 GitHub Actions 定时同步和手动运行入口；需配置仓库 Actions Secret `TIKTOOLS_API_KEY` 才能成功执行。本仓库不修改 Studio 代码。
 
 公开 JSON 示例：
 
@@ -47,7 +47,17 @@ npm run sync
 
 后续可以通过 GitHub Pages 或自有域名发布本仓库的静态文件。消费者先读 `manifest.json`，再读其中的目录路径，校验 SHA-256；若不匹配则重试并保留本地上一版，不能清空目录。Git 提交提供历史回退依据。
 
-建议后续定时同步全量库每 6 小时、实际使用地区每小时一次，凭据使用 GitHub Secrets。定时工作流单独接入，失败不发布，成功且内容变化时才提交。
+## 定时同步
+
+工作流每 6 小时执行一次，时间为 UTC 00:23、06:23、12:23、18:23，即迪拜时间 **04:23、10:23、16:23、22:23**。GitHub 调度可能延迟，不应把它当作实时更新保证。
+
+在仓库 Settings → Secrets and variables → Actions 配置 `TIKTOOLS_API_KEY`。只保存可读取正式全量目录的 TikTools Key；不提交到 JSON、源码、日志或工作流文件。
+
+执行顺序为：校验旧目录 → 获取 TikTools 全量目录 → 复用已有图片并下载新图片 → 生成四字段 JSON 并应用已保存的 AE 优先顺序 → 全量校验 → 有变化才提交和推送。工作流串行执行；失败不推送，线上保留上一版，不强制覆盖他人的提交。密钥仅传入需要它的步骤。
+
+Actions → Update gift catalog → Run workflow 可手动更新，勾选 `dry_run` 可验证但不提交。运行摘要显示版本和数量，失败由 GitHub Actions 标记；通知使用 GitHub 账户已有设置。
+
+全量数据及新增图片会定时同步；**AE 优先 ID 快照目前仍是单独采集的静态快照，本任务不自动刷新地区目录**。公开仓库长期无活动时，GitHub 可能停用定时工作流，需在 Actions 检查并重新启用。
 
 ## Studio 后续接入边界
 

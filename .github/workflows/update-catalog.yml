@@ -1,0 +1,84 @@
+name: Update gift catalog
+
+on:
+  schedule:
+    - cron: '23 */6 * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Validate the update without committing or pushing'
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+concurrency:
+  group: gift-catalog-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+    steps:
+      - name: Check out published catalog
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          ref: main
+          fetch-depth: 1
+
+      - name: Set up Node.js
+        uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
+        with:
+          node-version: '22'
+
+      - name: Test sync rules and validate current publication
+        run: |
+          npm test
+          npm run validate
+
+      - name: Require provider credential
+        env:
+          TIKTOOLS_API_KEY: ${{ secrets.TIKTOOLS_API_KEY }}
+        run: |
+          if [ -z "$TIKTOOLS_API_KEY" ]; then
+            echo '::error::Configure the TIKTOOLS_API_KEY repository Actions secret before running updates.'
+            exit 1
+          fi
+
+      - name: Fetch provider metadata and mirror new images
+        env:
+          TIKTOOLS_API_KEY: ${{ secrets.TIKTOOLS_API_KEY }}
+        run: npm run sync
+
+      - name: Validate complete update before publishing
+        run: |
+          npm run validate
+          git diff --check
+
+      - name: Record update summary
+        run: |
+          node --input-type=module <<'JS' >> "$GITHUB_STEP_SUMMARY"
+          import fs from 'node:fs';
+          const manifest = JSON.parse(fs.readFileSync('manifest.json', 'utf8'));
+          console.log('Gift catalog validated.');
+          console.log(`- Version: ${manifest.version}`);
+          console.log(`- Gifts: ${manifest.catalog.count}`);
+          console.log(`- Unique images: ${manifest.images.count}`);
+          console.log(`- Priority regions: ${(manifest.ordering?.regions ?? []).join(', ')}`);
+          console.log('Only changed catalog and image files will be committed.');
+          JS
+
+      - name: Commit and publish changes
+        if: ${{ !inputs.dry_run }}
+        run: |
+          git add catalog/all.json catalog/details.json catalog/image-index.json manifest.json images/
+          if git diff --cached --quiet; then
+            echo 'Catalog unchanged; no commit needed.'
+            exit 0
+          fi
+          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Update gift catalog and images'
+          git push origin HEAD:main
