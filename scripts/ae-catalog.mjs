@@ -1,6 +1,18 @@
-import { id, serialize } from './catalog.mjs';
+import { id, serialize, normalize } from './catalog.mjs';
 
 export const AE_ENDPOINT = 'https://api.tik.tools/webcast/gifts_by_country?country=AE';
+
+export function aeAdditions(payload, gifts) {
+  const known = new Set(gifts.map(g => g.giftId)), additions = new Map();
+  for (const row of payload?.data?.gifts ?? []) {
+    const giftId = id(row?.id ?? row?.giftId);
+    if (!giftId || known.has(giftId)) continue;
+    const gift = normalize(row, 'tiktools');
+    if (!gift || !gift.priceKnown || !gift.giftImageUrl) throw new Error('New AE gift lacks complete metadata');
+    additions.set(giftId, gift);
+  }
+  return [...additions.values()];
+}
 
 export function prepareAeCatalog(payload, previous, gifts) {
   if (!payload || payload.error || payload.success === false || (payload.status_code !== undefined && String(payload.status_code) !== '0')) throw new Error('Invalid AE response');

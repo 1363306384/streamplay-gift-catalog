@@ -104,3 +104,15 @@ test('AE membership updates and reorders publication; failed or invalid refresh 
   assert.equal(await f.read('catalog/priority/ae.json'),before);
   assert.equal(JSON.parse(await f.read('catalog/all.json'))[0].name,'Gift 2 updated');
 });
+
+test('complete new AE gift absent from the global response is mirrored and included in both catalogs', async t => {
+  const f = await fixture(t);
+  const rows = [{id:'1',name:'Known',diamond_count:1,icon:'https://p16-webcast.tiktokcdn.com/icon.webp'}];
+  assert.equal((await f.run(rows)).status,0);
+  const ae = {country:'AE',data:{gifts:[{id:'1'}, {id:'3',name:'New AE gift',diamond_count:2,icon_url:'https://p16-webcast.tiktokcdn.com/icon.webp'}]}};
+  const result = await f.run(rows,{AE_PAYLOAD:JSON.stringify(ae)});
+  assert.equal(result.status,0,result.stderr);
+  assert.match(result.stdout,/aeStatus":"ready/);
+  assert.deepEqual(JSON.parse(await f.read('catalog/priority/ae.json')).giftIds,['1','3']);
+  assert.equal(JSON.parse(await f.read('catalog/all.json')).find(g=>g.giftId==='3').image,'new-ae-gift-3.webp');
+});

@@ -4,7 +4,7 @@ import { normalize, providerGifts, merge, validate, serialize, checksum } from '
 import { mirrorImages } from './images.mjs';
 import { publicCatalog, publish } from './public-catalog.mjs';
 import { readCatalogPriority } from './catalog-order.mjs';
-import { AE_ENDPOINT, prepareAeCatalog } from './ae-catalog.mjs';
+import { AE_ENDPOINT, prepareAeCatalog, aeAdditions } from './ae-catalog.mjs';
 
 const root = new URL('../', import.meta.url);
 const read = async path => { try { return JSON.parse(await fs.readFile(new URL(path, root), 'utf8')); } catch (error) { if (error.code === 'ENOENT') return null; throw error; } };
@@ -35,8 +35,12 @@ try {
   const aePath = 'catalog/priority/ae.json';
   const previousAe = await read(aePath);
   let nextAe = previousAe;
+  let combined = merge(previous, incoming);
   try {
-    nextAe = prepareAeCatalog(await fetchJson(AE_ENDPOINT, { 'x-api-key': key }), previousAe, merge(previous, incoming));
+    const aePayload = await fetchJson(AE_ENDPOINT, { 'x-api-key': key });
+    const candidate = merge(combined, aeAdditions(aePayload, combined));
+    nextAe = prepareAeCatalog(aePayload, previousAe, candidate);
+    combined = candidate;
     console.log(JSON.stringify({ aeStatus:'ready', count:nextAe.giftIds.length, checkedAt:new Date().toISOString() }));
   } catch {
     if (!previousAe?.giftIds?.length) throw new Error('Catalog AE update failed and no previous AE list exists');
@@ -45,7 +49,7 @@ try {
     console.log(JSON.stringify({ aeStatus:'retained', count:previousAe.giftIds.length }));
     if (process.env.GITHUB_ACTIONS === 'true') console.warn('::warning::AE refresh failed; previous AE list retained. See run summary.');
   }
-  const mirrored = await mirrorImages(merge(previous, incoming));
+  const mirrored = await mirrorImages(combined);
   const gifts = mirrored.gifts;
   validate(gifts);
   // Only stage region data once the full catalog and every image are ready.
