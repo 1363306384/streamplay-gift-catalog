@@ -1,29 +1,17 @@
 {
   "schemaVersion": 1,
-  "label": "Middle East priority",
+  "label": "United Arab Emirates priority",
   "regions": [
-    "AE",
-    "SA",
-    "EG"
+    "AE"
   ],
   "scope": "regional-catalog-membership-not-exclusive",
-  "source": "Euler /webcast/gifts?region=...&webcast_language=en",
-  "checkedAt": "2026-10-28T11:12:03.671Z",
+  "source": "Euler /webcast/gifts?region=AE&webcast_language=en",
+  "checkedAt": "2026-10-28T11:16:36.809Z",
   "samples": [
     {
       "region": "AE",
       "count": 747,
       "matchedCount": 747
-    },
-    {
-      "region": "SA",
-      "count": 746,
-      "matchedCount": 746
-    },
-    {
-      "region": "EG",
-      "count": 746,
-      "matchedCount": 746
     }
   ],
   "giftIds": [

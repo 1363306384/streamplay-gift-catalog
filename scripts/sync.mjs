@@ -3,6 +3,7 @@ import { fileURLToPath } from 'node:url';
 import { normalize, providerGifts, merge, validate, serialize, checksum } from './catalog.mjs';
 import { mirrorImages } from './images.mjs';
 import { publicCatalog, publish } from './public-catalog.mjs';
+import { readCatalogPriority } from './catalog-order.mjs';
 
 const root = new URL('../', import.meta.url);
 const read = async path => { try { return JSON.parse(await fs.readFile(new URL(path, root), 'utf8')); } catch (error) { if (error.code === 'ENOENT') return null; throw error; } };
@@ -36,7 +37,7 @@ try {
   const publicGifts = await publicCatalog(gifts);
   const hash = checksum(serialize(publicGifts));
   const metadata = { ...mirrored.metadata, publicBaseUrl: `${mirrored.metadata.baseUrl}images/`, publicFileCount: publicGifts.filter(g => g.image).length };
-  if (oldManifest?.catalog?.sha256 === hash && oldManifest?.details?.sha256 === checksum(serialize(gifts)) && JSON.stringify(oldManifest.images) === JSON.stringify(metadata)) {
+  if (oldManifest?.catalog?.sha256 === hash && oldManifest?.details?.sha256 === checksum(serialize(gifts)) && JSON.stringify(oldManifest.images) === JSON.stringify(metadata) && JSON.stringify(oldManifest.ordering) === JSON.stringify((await readCatalogPriority()).metadata)) {
     console.log(JSON.stringify({ status: 'unchanged', checkedAt: new Date().toISOString(), count: gifts.length }));
   } else {
     const manifest = { schemaVersion: 1, version: (oldManifest?.version ?? 0) + 1, updatedAt: new Date().toISOString(), scope: 'worldwide-reference',

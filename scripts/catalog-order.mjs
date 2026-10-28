@@ -9,7 +9,7 @@ export function prioritizeGifts(gifts, giftIds) {
 }
 
 export async function readCatalogPriority() {
-  const path = 'catalog/priority/middle-east.json';
+  const path = 'catalog/priority/ae.json';
   try {
     const text = await fs.readFile(new URL(`../${path}`, import.meta.url), 'utf8');
     const data = JSON.parse(text);
