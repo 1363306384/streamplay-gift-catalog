@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "version": 5,
-  "updatedAt": "2026-10-28T11:16:57.023Z",
+  "version": 6,
+  "updatedAt": "2026-10-28T11:54:49.349Z",
   "scope": "worldwide-reference",
   "catalog": {
     "path": "catalog/all.json",
@@ -32,10 +32,6 @@
     "publicBaseUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/",
     "publicFileCount": 2941
   },
-  "details": {
-    "path": "catalog/details.json",
-    "sha256": "872f3d8cd284eae80bfedb52bb51e6afe4a8cc989d4073ad2c6d095fde500848"
-  },
   "ordering": {
     "path": "catalog/priority/ae.json",
     "sha256": "38ea4ec65a7978378c41c6c8854315d69879bae27543cf405c25da14ede2805c",
@@ -44,5 +40,9 @@
     ],
     "priorityCount": 747,
     "withinGroup": "price-then-name"
+  },
+  "details": {
+    "path": "catalog/details.json",
+    "sha256": "7bd4a28fb84feaf6b548b0767ce6951a7ee3cc3bd6e4d61e1c7d5b02bd16d15b"
   }
 }

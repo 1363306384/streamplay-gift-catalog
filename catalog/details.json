@@ -25516,7 +25516,7 @@
     "priceKnown": true,
     "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/23df548d65684d0bce9cfc9cb2e01a5b76d2cdc06f8ed30235be16872ee531b0.webp",
     "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/23df548d65684d0bce9cfc9cb2e01a5b76d2cdc06f8ed30235be16872ee531b0.webp",
-    "active": false,
+    "active": true,
     "source": "tiktools"
   },
   {
@@ -28716,7 +28716,7 @@
     "priceKnown": true,
     "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/ced2ddfeab5c8f62457c324c9eb092cf9e5d75fa99f1050104b021bd56e97b0e.webp",
     "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/ced2ddfeab5c8f62457c324c9eb092cf9e5d75fa99f1050104b021bd56e97b0e.webp",
-    "active": true,
+    "active": false,
     "source": "tiktools"
   },
   {
