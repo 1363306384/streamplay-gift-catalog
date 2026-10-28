@@ -1,11 +1,25 @@
 import fs from 'node:fs/promises';
 import { validate, checksum } from './catalog.mjs';
 import { IMAGE_BASE_URL, imagePathValid, imageExtension } from './images.mjs';
+import { imageFilename } from './public-catalog.mjs';
 const root = new URL('../', import.meta.url);
 const text = await fs.readFile(new URL('catalog/all.json', root), 'utf8');
-const gifts = JSON.parse(text), manifest = JSON.parse(await fs.readFile(new URL('manifest.json', root), 'utf8'));
+const publicGifts = JSON.parse(text), manifest = JSON.parse(await fs.readFile(new URL('manifest.json', root), 'utf8'));
+const detailText = await fs.readFile(new URL(manifest.details.path, root), 'utf8');
+if (checksum(detailText) !== manifest.details.sha256) throw new Error('Details checksum mismatch');
+const gifts = JSON.parse(detailText);
 validate(gifts);
-if (manifest.catalog.count !== gifts.length || manifest.catalog.sha256 !== checksum(text)) throw new Error('Manifest does not match catalog');
+if (manifest.catalog.count !== gifts.length || publicGifts.length !== gifts.length || manifest.catalog.sha256 !== checksum(text)) throw new Error('Manifest does not match catalog');
+for (let i = 0; i < gifts.length; i++) {
+  const gift = gifts[i], pub = publicGifts[i];
+  if (JSON.stringify(Object.keys(pub)) !== JSON.stringify(['giftId', 'name', 'points', 'image']) || pub.giftId !== gift.giftId || pub.name !== gift.name || pub.points !== gift.points) throw new Error('Public catalog must contain exactly four matching fields');
+  if (gift.giftImageUrl) {
+    const canonical = await fs.readFile(new URL(gift.giftImageUrl.slice(IMAGE_BASE_URL.length), root));
+    if (pub.image !== imageFilename(gift, imageExtension(canonical))) throw new Error('Public image filename mismatch');
+    const alias = await fs.readFile(new URL(`images/${pub.image}`, root));
+    if (!alias.equals(canonical)) throw new Error('Public image does not match source');
+  } else if (pub.image !== '') throw new Error('Unexpected image filename');
+}
 if (manifest.images.hosting === 'github') {
   const indexText = await fs.readFile(new URL('catalog/image-index.json', root), 'utf8');
   if (checksum(indexText) !== manifest.images.index.sha256) throw new Error('Image index checksum mismatch');

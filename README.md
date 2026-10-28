@@ -4,14 +4,26 @@ Streamplay 自己维护的 TikTok 礼物参考目录。目录按礼物 ID 合并
 
 ## 当前范围
 
-- `catalog/all.json`：跨地区礼物参考库。不是某个直播间当前可以送出的礼物清单。
+- `catalog/all.json`：公开的四字段礼物目录，只有 `giftId`、`name`、`points`、`image`；`image` 是类似 `a-shard-of-hope-59881.webp` 的文件名。这是跨地区礼物参考库，不是某个直播间当前可以送出的礼物清单。
+- `catalog/details.json`：同步维护资料，保留价格是否已知、来源和状态，不给公开四字段目录增加字段。
 - `manifest.json`：目录版本、内容更新时间、总数、SHA-256 和已发布地区。
 - `catalog/regions/`：地区目录预留结构；初始版本没有虚构地区数据。
-- `images/` 保存实际图片文件，以内容 SHA-256 命名；相同内容只保存一份。目录的 `image` 和 `giftImageUrl` 指向本仓库的 GitHub Raw 地址。
+- `images/` 保存图片：公开目录使用可读的“名称-ID”文件名；同时保留 SHA-256 文件，供增量同步校验和兼容先前发布的图片链接。Git 对相同图片内容共用对象。
 - `catalog/image-index.json` 保存上游地址到本地图片的映射、大小和校验值，供后续同步增量复用。
 - 当前只提供手动同步工具；**尚未启用定时任务、部署站点或修改 Studio 接口**。
 
-JSON 使用 Studio 的 `giftId`、`name`、`points`、`priceKnown`、`image`、`giftImageUrl` 字段。未知价格为 `points: null, priceKnown: false`，不能当免费礼物计价。`active: null` 表示来源未提供明确状态，不能当作已下架。
+公开 JSON 示例：
+
+```json
+{
+  "giftId": "59881",
+  "name": "A Shard of Hope",
+  "points": 1,
+  "image": "a-shard-of-hope-59881.webp"
+}
+```
+
+图片地址使用 `manifest.json` 中的 `images.publicBaseUrl` 加上 `image` 文件名。Studio 后续接入时需同时修改旧的图片地址前缀，否则文件名仍会被拼接到旧域名。价格未知时 `points: null`，不能当免费礼物计价；完整维护资料中的 `priceKnown: false` 表示待补价。`active: null` 表示来源未提供明确状态，不能当作已下架。
 
 ## 手动同步
 

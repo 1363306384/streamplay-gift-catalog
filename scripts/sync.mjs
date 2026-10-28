@@ -2,6 +2,7 @@ import fs from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import { normalize, providerGifts, merge, validate, serialize, checksum } from './catalog.mjs';
 import { mirrorImages } from './images.mjs';
+import { publicCatalog, publish } from './public-catalog.mjs';
 
 const root = new URL('../', import.meta.url);
 const read = async path => { try { return JSON.parse(await fs.readFile(new URL(path, root), 'utf8')); } catch (error) { if (error.code === 'ENOENT') return null; throw error; } };
@@ -16,7 +17,8 @@ async function fetchJson(endpoint, headers = {}) {
 try {
   const key = process.env.TIKTOOLS_API_KEY?.trim();
   if (!key) throw new Error('Set TIKTOOLS_API_KEY in the environment');
-  let previous = await read('catalog/all.json') ?? [];
+  const oldManifest = await read('manifest.json');
+  let previous = await read(oldManifest?.details?.path ?? 'catalog/all.json') ?? [];
   if (previous.length) validate(previous);
   // Only the initial migration reads the old source; subsequent syncs are independent of it.
   if (process.argv.includes('--bootstrap-legacy')) {
@@ -26,24 +28,23 @@ try {
     previous = merge([], legacy.map(row => normalize(row, 'legacy')).filter(Boolean));
   }
   const incoming = merge([], providerGifts(await fetchJson('https://api.tik.tools/webcast/gift_info', { 'x-api-key': key })));
-  const oldManifest = await read('manifest.json');
   const oldCount = oldManifest?.sources?.tiktools?.count;
   if (oldCount && incoming.length < oldCount * 0.8) throw new Error('Provider count fell by more than 20%; keeping published catalog');
   const mirrored = await mirrorImages(merge(previous, incoming));
   const gifts = mirrored.gifts;
   validate(gifts);
-  const body = serialize(gifts), hash = checksum(body);
-  if (oldManifest?.catalog?.sha256 === hash && JSON.stringify(oldManifest.images) === JSON.stringify(mirrored.metadata)) {
+  const publicGifts = await publicCatalog(gifts);
+  const hash = checksum(serialize(publicGifts));
+  const metadata = { ...mirrored.metadata, publicBaseUrl: `${mirrored.metadata.baseUrl}images/`, publicFileCount: publicGifts.filter(g => g.image).length };
+  if (oldManifest?.catalog?.sha256 === hash && oldManifest?.details?.sha256 === checksum(serialize(gifts)) && JSON.stringify(oldManifest.images) === JSON.stringify(metadata)) {
     console.log(JSON.stringify({ status: 'unchanged', checkedAt: new Date().toISOString(), count: gifts.length }));
   } else {
     const manifest = { schemaVersion: 1, version: (oldManifest?.version ?? 0) + 1, updatedAt: new Date().toISOString(), scope: 'worldwide-reference',
       catalog: { path: 'catalog/all.json', count: gifts.length, sha256: hash }, regions: oldManifest?.regions ?? {},
       sources: { tiktools: { endpoint: 'https://api.tik.tools/webcast/gift_info', count: incoming.length }, legacy: { retainedOnly: gifts.filter(g => g.source === 'legacy').length, region: null } },
-      images: mirrored.metadata };
+      images: metadata };
     // Publish metadata last; readers can validate the referenced file checksum.
-    await fs.writeFile(new URL('catalog/all.json.tmp', root), body);
-    await fs.rename(new URL('catalog/all.json.tmp', root), new URL('catalog/all.json', root));
-    await fs.writeFile(new URL('manifest.json', root), serialize(manifest));
+    await publish(gifts, publicGifts, manifest);
     console.log(JSON.stringify({ status: 'updated', version: manifest.version, count: gifts.length, providerCount: incoming.length, root: fileURLToPath(root) }));
   }
 } catch (error) {
