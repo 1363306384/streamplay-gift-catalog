@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "version": 1,
+  "updatedAt": "2026-10-28T10:47:30.980Z",
+  "scope": "worldwide-reference",
+  "catalog": {
+    "path": "catalog/all.json",
+    "count": 2941,
+    "sha256": "b006981461ef6202f7009a1ea596491e301639515d531bcefa7ca6429ab6a893"
+  },
+  "regions": {},
+  "sources": {
+    "tiktools": {
+      "endpoint": "https://api.tik.tools/webcast/gift_info",
+      "count": 2940
+    },
+    "legacy": {
+      "retainedOnly": 1,
+      "region": null
+    }
+  },
+  "images": {
+    "hosting": "upstream",
+    "note": "Image URLs currently use upstream hosts; images are not yet mirrored to this repository."
+  }
+}
