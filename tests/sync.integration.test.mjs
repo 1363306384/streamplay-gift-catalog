@@ -28,6 +28,10 @@ async function fixture(t) {
         if (process.env.FAIL_IMAGE === '1') return new Response('failed', {status:503});
         return new Response(Buffer.from('${webp}', 'hex'), {headers:{'content-type':'image/webp'}});
       }
+      if (url === 'https://api.tik.tools/webcast/gifts_by_country?country=AE') {
+        if (process.env.AE_HTTP_FAIL === '1') return new Response('failed', {status:503});
+        return new Response(process.env.AE_PAYLOAD ?? JSON.stringify({status_code:0,country:'AE',data:{gifts:[{id:'1'}]}}), {headers:{'content-type':'application/json'}});
+      }
       throw Error('Unexpected request');
     };
   `);
@@ -63,13 +67,40 @@ test('sample, empty, sudden shrink and failed image downloads never replace publ
   const row = id => ({id:String(id),name:'Gift '+id,diamond_count:1,icon:'https://p16-webcast.tiktokcdn.com/icon.webp'});
   assert.equal((await f.run([1,2,3,4,5].map(row))).status,0);
   const before = await f.read('catalog/all.json'), manifest = await f.read('manifest.json');
+  const aeBefore = await f.read('catalog/priority/ae.json');
   for (const payload of [{source:'sample',data:{gifts:[row(1)]}},{status_code:0,data:{gifts:[]}},[row(1)]]) {
     assert.notEqual((await f.run(payload)).status,0);
     assert.equal(await f.read('catalog/all.json'),before);
     assert.equal(await f.read('manifest.json'),manifest);
   }
   const changed = [1,2,3,4,5].map(id=>({...row(id),icon:'https://p16-webcast.tiktokcdn.com/missing.webp'}));
-  assert.notEqual((await f.run(changed)).status,0);
+  assert.notEqual((await f.run(changed, {AE_PAYLOAD:JSON.stringify({country:'AE',data:{gifts:[{id:'2'}]}})})).status,0);
   assert.equal(await f.read('catalog/all.json'),before);
   assert.equal(await f.read('manifest.json'),manifest);
+  assert.equal(await f.read('catalog/priority/ae.json'),aeBefore);
+});
+
+test('AE membership updates and reorders publication; failed or invalid refresh preserves exact prior AE file', async t => {
+  const f = await fixture(t);
+  const rows = [1,2].map(id=>({id:String(id),name:'Gift '+id,diamond_count:id,icon:'https://p16-webcast.tiktokcdn.com/icon.webp'}));
+  assert.equal((await f.run(rows)).status,0);
+  const valid = {status_code:0,country:'AE',data:{gifts:[{id:'2'}]}};
+  assert.equal((await f.run(rows,{AE_PAYLOAD:JSON.stringify(valid)})).status,0);
+  assert.deepEqual(JSON.parse(await f.read('catalog/all.json')).map(g=>g.giftId),['2','1']);
+  const before = await f.read('catalog/priority/ae.json');
+  for (const payload of [
+    {...valid,source:'sample'}, {...valid,is_sample:true}, {...valid,country:'US'},
+    {...valid,data:{gifts:[]}}, {...valid,data:{gifts:[{id:'999'}]}}, {...valid,data:{gifts:[{id:'bad'}]}}, {...valid,status_code:1}
+  ]) {
+    const result = await f.run(rows,{AE_PAYLOAD:JSON.stringify(payload)});
+    assert.equal(result.status,0,result.stderr);
+    assert.match(result.stdout,/aeStatus":"retained/);
+    assert.equal(await f.read('catalog/priority/ae.json'),before);
+  }
+  const changed = rows.map(row=>({...row,name:row.name+' updated'}));
+  const result = await f.run(changed,{AE_HTTP_FAIL:'1'});
+  assert.equal(result.status,0);
+  assert.match(result.stdout,/aeStatus":"retained/);
+  assert.equal(await f.read('catalog/priority/ae.json'),before);
+  assert.equal(JSON.parse(await f.read('catalog/all.json'))[0].name,'Gift 2 updated');
 });

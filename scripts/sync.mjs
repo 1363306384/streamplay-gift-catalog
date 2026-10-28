@@ -4,6 +4,7 @@ import { normalize, providerGifts, merge, validate, serialize, checksum } from '
 import { mirrorImages } from './images.mjs';
 import { publicCatalog, publish } from './public-catalog.mjs';
 import { readCatalogPriority } from './catalog-order.mjs';
+import { AE_ENDPOINT, prepareAeCatalog } from './ae-catalog.mjs';
 
 const root = new URL('../', import.meta.url);
 const read = async path => { try { return JSON.parse(await fs.readFile(new URL(path, root), 'utf8')); } catch (error) { if (error.code === 'ENOENT') return null; throw error; } };
@@ -31,9 +32,28 @@ try {
   const incoming = merge([], providerGifts(await fetchJson('https://api.tik.tools/webcast/gift_info', { 'x-api-key': key })));
   const oldCount = oldManifest?.sources?.tiktools?.count;
   if (oldCount && incoming.length < oldCount * 0.8) throw new Error('Provider count fell by more than 20%; keeping published catalog');
+  const aePath = 'catalog/priority/ae.json';
+  const previousAe = await read(aePath);
+  let nextAe = previousAe;
+  try {
+    nextAe = prepareAeCatalog(await fetchJson(AE_ENDPOINT, { 'x-api-key': key }), previousAe, merge(previous, incoming));
+    console.log(JSON.stringify({ aeStatus:'ready', count:nextAe.giftIds.length, checkedAt:new Date().toISOString() }));
+  } catch {
+    if (!previousAe?.giftIds?.length) throw new Error('Catalog AE update failed and no previous AE list exists');
+    // Do not expose provider payloads, signed URLs, or credentials in public CI logs.
+    console.warn('AE catalog unavailable or invalid; retaining previous AE list.');
+    console.log(JSON.stringify({ aeStatus:'retained', count:previousAe.giftIds.length }));
+    if (process.env.GITHUB_ACTIONS === 'true') console.warn('::warning::AE refresh failed; previous AE list retained. See run summary.');
+  }
   const mirrored = await mirrorImages(merge(previous, incoming));
   const gifts = mirrored.gifts;
   validate(gifts);
+  // Only stage region data once the full catalog and every image are ready.
+  if (nextAe !== previousAe) {
+    await fs.mkdir(new URL('catalog/priority/', root), { recursive:true });
+    await fs.writeFile(new URL(`${aePath}.tmp`, root), serialize(nextAe));
+    await fs.rename(new URL(`${aePath}.tmp`, root), new URL(aePath, root));
+  }
   const publicGifts = await publicCatalog(gifts);
   const hash = checksum(serialize(publicGifts));
   const metadata = { ...mirrored.metadata, publicBaseUrl: `${mirrored.metadata.baseUrl}images/`, publicFileCount: publicGifts.filter(g => g.image).length };

@@ -49,7 +49,7 @@ jobs:
             exit 1
           fi
 
-      - name: Fetch provider metadata and mirror new images
+      - name: Refresh full and AE catalogs and mirror new images
         env:
           TIKTOOLS_API_KEY: ${{ secrets.TIKTOOLS_API_KEY }}
         run: npm run sync
@@ -69,13 +69,17 @@ jobs:
           console.log(`- Gifts: ${manifest.catalog.count}`);
           console.log(`- Unique images: ${manifest.images.count}`);
           console.log(`- Priority regions: ${(manifest.ordering?.regions ?? []).join(', ')}`);
+          const ae = JSON.parse(fs.readFileSync('catalog/priority/ae.json', 'utf8'));
+          console.log(`- AE gifts: ${ae.giftIds.length}`);
+          console.log(`- AE snapshot time: ${ae.checkedAt ?? 'unknown'}`);
+          console.log('AE request status is reported as aeStatus=ready or aeStatus=retained in the sync log. Failures keep the previous AE snapshot and emit a warning.');
           console.log('Only changed catalog and image files will be committed.');
           JS
 
       - name: Commit and publish changes
         if: ${{ !inputs.dry_run }}
         run: |
-          git add catalog/all.json catalog/details.json catalog/image-index.json manifest.json images/
+          git add catalog/all.json catalog/details.json catalog/image-index.json catalog/priority/ae.json manifest.json images/
           if git diff --cached --quiet; then
             echo 'Catalog unchanged; no commit needed.'
             exit 0
