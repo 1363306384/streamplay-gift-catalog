@@ -72,3 +72,12 @@ Actions → Update gift catalog → Run workflow 可手动更新，勾选 `dry_r
 全量数据通过 TikTools 的 `/webcast/gift_info` 获取；初始迁移保留原静态目录独有的条目。具体数量以 `manifest.json` 为准。
 
 礼物名称、图片及其他 TikTok 资源的权利属于相应权利人。本项目不是 TikTok 官方目录，也不对第三方礼物素材授予使用许可。
+
+## Grouped full catalogs by display priority
+
+- `catalog/ae.json`: UAE gift groups first, then the rest of the full catalog.
+- `catalog/jp.json`: Japan gift groups first, then the rest of the full catalog.
+
+Each entry has `giftIds` (an array, including single-ID groups), `name`, `points`, and `image`. Groups require the same exact trimmed name, coin value, and image content hash. Different prices or images remain separate. Every ID from `catalog/all.json` occurs exactly once in each export. Region membership affects order only; it never filters out an ID. Images reuse the existing `images/` directory.
+
+The six-hour update workflow regenerates these exports after the normal catalog sync. Regional IDs absent from the published full catalog are reported by the generator and are not fabricated or silently added to the original catalog. Existing clients must add array-based binding support before using these new files; `catalog/all.json` retains its existing format.

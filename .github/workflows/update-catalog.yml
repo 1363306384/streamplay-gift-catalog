@@ -59,6 +59,11 @@ jobs:
           npm run validate
           git diff --check
 
+      - name: Generate grouped AE and JP full catalogs
+        env:
+          TIKTOOLS_API_KEY: ${{ secrets.TIKTOOLS_API_KEY }}
+        run: node scripts/regional-catalogs.mjs
+
       - name: Record update summary
         run: |
           node --input-type=module <<'JS' >> "$GITHUB_STEP_SUMMARY"
@@ -79,7 +84,7 @@ jobs:
       - name: Commit and publish changes
         if: ${{ !inputs.dry_run }}
         run: |
-          git add catalog/all.json catalog/details.json catalog/image-index.json catalog/priority/ae.json manifest.json images/
+          git add catalog/all.json catalog/details.json catalog/image-index.json catalog/priority/ae.json catalog/ae.json catalog/jp.json manifest.json images/
           if git diff --cached --quiet; then
             echo 'Catalog unchanged; no commit needed.'
             exit 0
