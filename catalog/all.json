@@ -402,6 +402,12 @@
     "image": "gift-422434.webp"
   },
   {
+    "giftId": "244178",
+    "name": "منيف الأخضر",
+    "points": 1,
+    "image": "gift-244178.webp"
+  },
+  {
     "giftId": "9139",
     "name": "Team Bracelet",
     "points": 2,
@@ -3804,6 +3810,12 @@
     "image": "sage-s-coinbot-14791.webp"
   },
   {
+    "giftId": "1479226",
+    "name": "Spooky Rock",
+    "points": 2200,
+    "image": "spooky-rock-1479226.webp"
+  },
+  {
     "giftId": "1137787",
     "name": "Starforge Emblem",
     "points": 2200,
@@ -4018,6 +4030,12 @@
     "name": "Sea Tom",
     "points": 3088,
     "image": "sea-tom-56611.webp"
+  },
+  {
+    "giftId": "1479429",
+    "name": "Halloween Idol",
+    "points": 3200,
+    "image": "halloween-idol-1479429.webp"
   },
   {
     "giftId": "52619",
@@ -7212,6 +7230,12 @@
     "image": "marian-inima-1397797.webp"
   },
   {
+    "giftId": "155113",
+    "name": "Martina Chic",
+    "points": 1,
+    "image": "martina-chic-155113.webp"
+  },
+  {
     "giftId": "173671",
     "name": "Martinka",
     "points": 1,
@@ -7336,6 +7360,12 @@
     "name": "Mint Chat",
     "points": 1,
     "image": "mint-chat-1239570.webp"
+  },
+  {
+    "giftId": "37872",
+    "name": "Mirada Tierna",
+    "points": 1,
+    "image": "mirada-tierna-37872.webp"
   },
   {
     "giftId": "38555",
@@ -8490,6 +8520,12 @@
     "image": "team-nina-165981.webp"
   },
   {
+    "giftId": "21492",
+    "name": "Team Slay",
+    "points": 1,
+    "image": "team-slay-21492.webp"
+  },
+  {
     "giftId": "275850",
     "name": "TeamRay",
     "points": 1,
@@ -8638,6 +8674,12 @@
     "name": "Virgo",
     "points": 1,
     "image": "virgo-215827.webp"
+  },
+  {
+    "giftId": "29862",
+    "name": "Vitin V10",
+    "points": 1,
+    "image": "vitin-v10-29862.webp"
   },
   {
     "giftId": "1093760",
