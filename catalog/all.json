@@ -186,6 +186,12 @@
     "image": "ksa-7454.webp"
   },
   {
+    "giftId": "1462838",
+    "name": "Little Acorn",
+    "points": 1,
+    "image": "little-acorn-1462838.webp"
+  },
+  {
     "giftId": "16358",
     "name": "Love Egypt",
     "points": 1,
@@ -384,10 +390,22 @@
     "image": "yellow-lightning-59512.webp"
   },
   {
+    "giftId": "39220",
+    "name": "أناقة الذهب",
+    "points": 1,
+    "image": "gift-39220.webp"
+  },
+  {
     "giftId": "38009",
     "name": "اوشا وبابوس",
     "points": 1,
     "image": "gift-38009.webp"
+  },
+  {
+    "giftId": "158479",
+    "name": "ربعي يلا",
+    "points": 1,
+    "image": "gift-158479.webp"
   },
   {
     "giftId": "106370",
@@ -1128,6 +1146,12 @@
     "image": "mishka-bear-5566.webp"
   },
   {
+    "giftId": "1462840",
+    "name": "Mountain Baby",
+    "points": 100,
+    "image": "mountain-baby-1462840.webp"
+  },
+  {
     "giftId": "59317",
     "name": "Power Chip",
     "points": 100,
@@ -1564,6 +1588,12 @@
     "name": "Baglama",
     "points": 200,
     "image": "baglama-170277.webp"
+  },
+  {
+    "giftId": "1462842",
+    "name": "Cute Bunny",
+    "points": 200,
+    "image": "cute-bunny-1462842.webp"
   },
   {
     "giftId": "17228",
@@ -2850,6 +2880,12 @@
     "image": "bunny-crown-16637.webp"
   },
   {
+    "giftId": "1462843",
+    "name": "Chubby Hamster",
+    "points": 500,
+    "image": "chubby-hamster-1462843.webp"
+  },
+  {
     "giftId": "1298065",
     "name": "Cosmic DJ",
     "points": 500,
@@ -3772,6 +3808,12 @@
     "name": "Club Music",
     "points": 2000,
     "image": "club-music-10423.webp"
+  },
+  {
+    "giftId": "17211",
+    "name": "Maple Fireworks",
+    "points": 2000,
+    "image": "maple-fireworks-17211.webp"
   },
   {
     "giftId": "17952",
@@ -5262,6 +5304,18 @@
     "image": "alba-glow-1141223.webp"
   },
   {
+    "giftId": "157655",
+    "name": "Alex baran",
+    "points": 1,
+    "image": "alex-baran-157655.webp"
+  },
+  {
+    "giftId": "842318",
+    "name": "Alien 502",
+    "points": 1,
+    "image": "alien-502-842318.webp"
+  },
+  {
     "giftId": "15579",
     "name": "Alien Pet",
     "points": 1,
@@ -5634,6 +5688,12 @@
     "image": "blue-heart-11365.webp"
   },
   {
+    "giftId": "36972",
+    "name": "Bodenlos",
+    "points": 1,
+    "image": "bodenlos-36972.webp"
+  },
+  {
     "giftId": "65367",
     "name": "Bonkers Tracy",
     "points": 1,
@@ -5682,6 +5742,12 @@
     "image": "broah-1136714.webp"
   },
   {
+    "giftId": "175915",
+    "name": "Bruksi Brokuł",
+    "points": 1,
+    "image": "bruksi-broku-175915.webp"
+  },
+  {
     "giftId": "224807",
     "name": "BTK",
     "points": 1,
@@ -5692,6 +5758,12 @@
     "name": "Burrito buds",
     "points": 1,
     "image": "burrito-buds-23241.webp"
+  },
+  {
+    "giftId": "114011",
+    "name": "Buziak Madzi",
+    "points": 1,
+    "image": "buziak-madzi-114011.webp"
   },
   {
     "giftId": "36412",
@@ -6138,6 +6210,12 @@
     "image": "dolce-vita-16381.webp"
   },
   {
+    "giftId": "1404968",
+    "name": "DONA ONÇA",
+    "points": 1,
+    "image": "dona-onca-1404968.webp"
+  },
+  {
     "giftId": "45797",
     "name": "Donut Victory",
     "points": 1,
@@ -6202,6 +6280,12 @@
     "name": "Enokii 기타",
     "points": 1,
     "image": "enokii-25923.webp"
+  },
+  {
+    "giftId": "143816",
+    "name": "Equip2pontes",
+    "points": 1,
+    "image": "equip2pontes-143816.webp"
   },
   {
     "giftId": "450301",
@@ -6354,10 +6438,22 @@
     "image": "frebaebae-pink-24400.webp"
   },
   {
+    "giftId": "52864",
+    "name": "Fredis Leone",
+    "points": 1,
+    "image": "fredis-leone-52864.webp"
+  },
+  {
     "giftId": "15046",
     "name": "Fried",
     "points": 1,
     "image": "fried-15046.webp"
+  },
+  {
+    "giftId": "35660",
+    "name": "Fringzy",
+    "points": 1,
+    "image": "fringzy-35660.webp"
   },
   {
     "giftId": "101834",
@@ -6594,6 +6690,12 @@
     "image": "hello-17602.webp"
   },
   {
+    "giftId": "41458",
+    "name": "Hellovers",
+    "points": 1,
+    "image": "hellovers-41458.webp"
+  },
+  {
     "giftId": "1061704",
     "name": "Heloo",
     "points": 1,
@@ -6804,6 +6906,12 @@
     "image": "jussyer-vermelho-26796.webp"
   },
   {
+    "giftId": "97439",
+    "name": "Jutt",
+    "points": 1,
+    "image": "jutt-97439.webp"
+  },
+  {
     "giftId": "592635",
     "name": "Kaos Çiko",
     "points": 1,
@@ -6970,6 +7078,12 @@
     "name": "Lícia Fist",
     "points": 1,
     "image": "licia-fist-530995.webp"
+  },
+  {
+    "giftId": "37064",
+    "name": "Liebe",
+    "points": 1,
+    "image": "liebe-37064.webp"
   },
   {
     "giftId": "5550",
@@ -7146,6 +7260,12 @@
     "image": "magarazian-25701.webp"
   },
   {
+    "giftId": "35401",
+    "name": "Maître du Suspense",
+    "points": 1,
+    "image": "maitre-du-suspense-35401.webp"
+  },
+  {
     "giftId": "34360",
     "name": "Maître du Temps",
     "points": 1,
@@ -7306,6 +7426,12 @@
     "name": "Meow Squad",
     "points": 1,
     "image": "meow-squad-344815.webp"
+  },
+  {
+    "giftId": "20298",
+    "name": "Mery Galáctica",
+    "points": 1,
+    "image": "mery-galactica-20298.webp"
   },
   {
     "giftId": "81388",
@@ -7576,6 +7702,12 @@
     "name": "O INEVITÁVEL",
     "points": 1,
     "image": "o-inevitavel-1322297.webp"
+  },
+  {
+    "giftId": "20909",
+    "name": "Oana Samurai",
+    "points": 1,
+    "image": "oana-samurai-20909.webp"
   },
   {
     "giftId": "33330",
@@ -8046,6 +8178,12 @@
     "image": "rossy-carinosa-48005.webp"
   },
   {
+    "giftId": "98456",
+    "name": "Roxana",
+    "points": 1,
+    "image": "roxana-98456.webp"
+  },
+  {
     "giftId": "81573",
     "name": "Rui famaily",
     "points": 1,
@@ -8428,6 +8566,12 @@
     "name": "Syn King Арыстаны",
     "points": 1,
     "image": "syn-king-49982.webp"
+  },
+  {
+    "giftId": "993650",
+    "name": "SZTORIADÓ Pop",
+    "points": 1,
+    "image": "sztoriado-pop-993650.webp"
   },
   {
     "giftId": "31221",
@@ -9106,6 +9250,12 @@
     "name": "مكس الذهبي",
     "points": 1,
     "image": "gift-53091.webp"
+  },
+  {
+    "giftId": "51878",
+    "name": "نجمة ذهبية",
+    "points": 1,
+    "image": "gift-51878.webp"
   },
   {
     "giftId": "93102",
