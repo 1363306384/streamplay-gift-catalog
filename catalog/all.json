@@ -5340,6 +5340,12 @@
     "image": "angel-marie-54361.webp"
   },
   {
+    "giftId": "32335",
+    "name": "Ángel Travieso",
+    "points": 1,
+    "image": "angel-travieso-32335.webp"
+  },
+  {
     "giftId": "99830",
     "name": "Angelito Jhon",
     "points": 1,
@@ -6786,6 +6792,12 @@
     "image": "kaos-ciko-592635.webp"
   },
   {
+    "giftId": "24293",
+    "name": "Kaycee Steam",
+    "points": 1,
+    "image": "kaycee-steam-24293.webp"
+  },
+  {
     "giftId": "51435",
     "name": "Keth Smile",
     "points": 1,
@@ -6850,6 +6862,12 @@
     "name": "Kutya",
     "points": 1,
     "image": "kutya-889728.webp"
+  },
+  {
+    "giftId": "215123",
+    "name": "Kylee Static",
+    "points": 1,
+    "image": "kylee-static-215123.webp"
   },
   {
     "giftId": "24054",
@@ -7432,6 +7450,12 @@
     "name": "Natalaaa",
     "points": 1,
     "image": "natalaaa-169501.webp"
+  },
+  {
+    "giftId": "30634",
+    "name": "Natalia Bunny",
+    "points": 1,
+    "image": "natalia-bunny-30634.webp"
   },
   {
     "giftId": "635916",
@@ -8248,6 +8272,12 @@
     "name": "Spider S4",
     "points": 1,
     "image": "spider-s4-64067.webp"
+  },
+  {
+    "giftId": "9541",
+    "name": "Squirrel",
+    "points": 1,
+    "image": "squirrel-9541.webp"
   },
   {
     "giftId": "12920",
@@ -15544,6 +15574,12 @@
     "name": "Carousel",
     "points": 1999,
     "image": "carousel-17166.webp"
+  },
+  {
+    "giftId": "16917",
+    "name": "Catch the Harvest",
+    "points": 1999,
+    "image": "catch-the-harvest-16917.webp"
   },
   {
     "giftId": "17546",

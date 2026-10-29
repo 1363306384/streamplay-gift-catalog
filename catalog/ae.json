@@ -7348,6 +7348,14 @@
   },
   {
     "giftIds": [
+      "32335"
+    ],
+    "name": "Ángel Travieso",
+    "points": 1,
+    "image": "angel-travieso-32335.webp"
+  },
+  {
+    "giftIds": [
       "99830"
     ],
     "name": "Angelito Jhon",
@@ -9177,6 +9185,14 @@
   },
   {
     "giftIds": [
+      "24293"
+    ],
+    "name": "Kaycee Steam",
+    "points": 1,
+    "image": "kaycee-steam-24293.webp"
+  },
+  {
+    "giftIds": [
       "51435"
     ],
     "name": "Keth Smile",
@@ -9262,6 +9278,14 @@
     "name": "Kutya",
     "points": 1,
     "image": "kutya-889728.webp"
+  },
+  {
+    "giftIds": [
+      "215123"
+    ],
+    "name": "Kylee Static",
+    "points": 1,
+    "image": "kylee-static-215123.webp"
   },
   {
     "giftIds": [
@@ -10024,6 +10048,14 @@
     "name": "Natalaaa",
     "points": 1,
     "image": "natalaaa-169501.webp"
+  },
+  {
+    "giftIds": [
+      "30634"
+    ],
+    "name": "Natalia Bunny",
+    "points": 1,
+    "image": "natalia-bunny-30634.webp"
   },
   {
     "giftIds": [
@@ -11078,11 +11110,12 @@
   },
   {
     "giftIds": [
+      "9541",
       "12920"
     ],
     "name": "Squirrel",
     "points": 1,
-    "image": "squirrel-12920.webp"
+    "image": "squirrel-9541.webp"
   },
   {
     "giftIds": [
@@ -17179,12 +17212,13 @@
   },
   {
     "giftIds": [
+      "16917",
       "17546",
       "17550"
     ],
     "name": "Catch the Harvest",
     "points": 1999,
-    "image": "catch-the-harvest-17546.webp"
+    "image": "catch-the-harvest-16917.webp"
   },
   {
     "giftIds": [
