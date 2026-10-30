@@ -16166,7 +16166,7 @@
     "priceKnown": true,
     "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/50c1568e6b5e1d265ce635e2d3b8033d66225e1acd61872ed501d118ccad4594.webp",
     "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/50c1568e6b5e1d265ce635e2d3b8033d66225e1acd61872ed501d118ccad4594.webp",
-    "active": true,
+    "active": false,
     "source": "tiktools"
   },
   {
@@ -17637,6 +17637,16 @@
     "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/da4aa55650ad5ad25a73c586d5cef5aeddab62278c1d93cfa30d78d8915c606f.webp",
     "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/da4aa55650ad5ad25a73c586d5cef5aeddab62278c1d93cfa30d78d8915c606f.webp",
     "active": false,
+    "source": "tiktools"
+  },
+  {
+    "giftId": "39512",
+    "name": "행복한 단짝",
+    "points": 1,
+    "priceKnown": true,
+    "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/e68611905ebd7e0df4217c3366aa5e3a30fc9263babe636b9aafd33379aadf48.webp",
+    "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/e68611905ebd7e0df4217c3366aa5e3a30fc9263babe636b9aafd33379aadf48.webp",
+    "active": true,
     "source": "tiktools"
   },
   {
@@ -20876,7 +20886,7 @@
     "priceKnown": true,
     "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/ad31b2352ad682081f62ae9a34c53e7deac8be05adbcd2ff6ecc1c7e6be74fa7.webp",
     "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/ad31b2352ad682081f62ae9a34c53e7deac8be05adbcd2ff6ecc1c7e6be74fa7.webp",
-    "active": true,
+    "active": false,
     "source": "tiktools"
   },
   {
@@ -21664,8 +21674,8 @@
     "name": "Match Master",
     "points": 500,
     "priceKnown": true,
-    "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/9739691d76ef937d97240b5398e4e5d0168a73ee1d10e5f902c77ec883d83742.webp",
-    "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/9739691d76ef937d97240b5398e4e5d0168a73ee1d10e5f902c77ec883d83742.webp",
+    "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/9a9a2928370a31f1f1e1eb6b041edc03f1d1dcf8279b8f11e6fb7c14c1d773ce.webp",
+    "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/9a9a2928370a31f1f1e1eb6b041edc03f1d1dcf8279b8f11e6fb7c14c1d773ce.webp",
     "active": true,
     "source": "tiktools"
   },
@@ -21684,8 +21694,8 @@
     "name": "Match Maniac",
     "points": 2999,
     "priceKnown": true,
-    "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/ed19c831d511b4d437aab5132d897e91c6089d0f9ad9380cffed5a5b5fe0f780.webp",
-    "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/ed19c831d511b4d437aab5132d897e91c6089d0f9ad9380cffed5a5b5fe0f780.webp",
+    "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/7dc97af6b18feae71235a09362be3370b05ef70ca6229d15131d6f60cdbfb5db.webp",
+    "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/7dc97af6b18feae71235a09362be3370b05ef70ca6229d15131d6f60cdbfb5db.webp",
     "active": true,
     "source": "tiktools"
   },
@@ -24130,6 +24140,16 @@
     "source": "tiktools"
   },
   {
+    "giftId": "439255",
+    "name": "XآرتستX",
+    "points": 1,
+    "priceKnown": true,
+    "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/9423998d68b214b41748685ce16f883b688544cb93646091017724de82d72d3f.webp",
+    "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/9423998d68b214b41748685ce16f883b688544cb93646091017724de82d72d3f.webp",
+    "active": true,
+    "source": "tiktools"
+  },
+  {
     "giftId": "440687",
     "name": "Kindom of Night",
     "points": 899,
@@ -25956,6 +25976,16 @@
     "priceKnown": true,
     "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/2d31dffc80da4f75b660a9ed5935cd15aa96cc85135e165208955cddbd0fa8b9.webp",
     "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/2d31dffc80da4f75b660a9ed5935cd15aa96cc85135e165208955cddbd0fa8b9.webp",
+    "active": true,
+    "source": "tiktools"
+  },
+  {
+    "giftId": "1035752",
+    "name": "حصان الدوسري",
+    "points": 1,
+    "priceKnown": true,
+    "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/d43ebf2995ae7e2f9c485efbb441c306dfe3ce37ebc7f70a69b80b423ae3f7a1.webp",
+    "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/d43ebf2995ae7e2f9c485efbb441c306dfe3ce37ebc7f70a69b80b423ae3f7a1.webp",
     "active": true,
     "source": "tiktools"
   },
@@ -28126,6 +28156,16 @@
     "priceKnown": true,
     "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/85fd122b3442e75ffd586cbe71b60fcfd3c8fd777e3cc6d51b4eed316606df38.webp",
     "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/85fd122b3442e75ffd586cbe71b60fcfd3c8fd777e3cc6d51b4eed316606df38.webp",
+    "active": false,
+    "source": "tiktools"
+  },
+  {
+    "giftId": "1315701",
+    "name": "밀키스",
+    "points": 1,
+    "priceKnown": true,
+    "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/01465007b82e51cc24728dd0ca296376bd12f7a5e57b71a19919f53b85500467.webp",
+    "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/01465007b82e51cc24728dd0ca296376bd12f7a5e57b71a19919f53b85500467.webp",
     "active": false,
     "source": "tiktools"
   },
