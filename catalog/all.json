@@ -414,6 +414,12 @@
     "image": "gift-106370.webp"
   },
   {
+    "giftId": "99665",
+    "name": "كتكوتة",
+    "points": 1,
+    "image": "gift-99665.webp"
+  },
+  {
     "giftId": "422434",
     "name": "ملك المايك",
     "points": 1,
@@ -1492,6 +1498,12 @@
     "name": "Party Pony",
     "points": 199,
     "image": "party-pony-48225.webp"
+  },
+  {
+    "giftId": "1402973",
+    "name": "Peeka-Bro",
+    "points": 199,
+    "image": "peeka-bro-1402973.webp"
   },
   {
     "giftId": "170508",
@@ -3276,6 +3288,12 @@
     "image": "sax-appeal-657024.webp"
   },
   {
+    "giftId": "1402975",
+    "name": "Which Bro?",
+    "points": 799,
+    "image": "which-bro-1402975.webp"
+  },
+  {
     "giftId": "118817",
     "name": "Epic Pianist",
     "points": 800,
@@ -3900,6 +3918,12 @@
     "image": "fandom-cheer-60075.webp"
   },
   {
+    "giftId": "1402977",
+    "name": "Wanted a Treat?",
+    "points": 2599,
+    "image": "wanted-a-treat-1402977.webp"
+  },
+  {
     "giftId": "139586",
     "name": "Celebration Tape",
     "points": 2800,
@@ -4512,6 +4536,12 @@
     "image": "majestic-hearts-17961.webp"
   },
   {
+    "giftId": "5285",
+    "name": "Dubai",
+    "points": 7499,
+    "image": "dubai-5285.webp"
+  },
+  {
     "giftId": "10741",
     "name": "Dune Car",
     "points": 7700,
@@ -4570,6 +4600,12 @@
     "name": "Desert Glory",
     "points": 9999,
     "image": "desert-glory-17222.webp"
+  },
+  {
+    "giftId": "1402980",
+    "name": "You Are Wanted!",
+    "points": 9999,
+    "image": "you-are-wanted-1402980.webp"
   },
   {
     "giftId": "973132",
@@ -6120,6 +6156,12 @@
     "image": "dark-charm-54763.webp"
   },
   {
+    "giftId": "1343927",
+    "name": "Dasha",
+    "points": 1,
+    "image": "dasha-1343927.webp"
+  },
+  {
     "giftId": "32883",
     "name": "Deni Blondie",
     "points": 1,
@@ -6786,6 +6828,12 @@
     "image": "it-s-corn-7096.webp"
   },
   {
+    "giftId": "40395",
+    "name": "Iulia Jul",
+    "points": 1,
+    "image": "iulia-jul-40395.webp"
+  },
+  {
     "giftId": "41479",
     "name": "Jack Habibi",
     "points": 1,
@@ -6916,6 +6964,12 @@
     "name": "Kaos Çiko",
     "points": 1,
     "image": "kaos-ciko-592635.webp"
+  },
+  {
+    "giftId": "1285368",
+    "name": "KarcsiTEAM",
+    "points": 1,
+    "image": "karcsiteam-1285368.webp"
   },
   {
     "giftId": "24293",
@@ -7234,6 +7288,12 @@
     "name": "M Strong",
     "points": 1,
     "image": "m-strong-676780.webp"
+  },
+  {
+    "giftId": "28636",
+    "name": "Ma-Saレッド",
+    "points": 1,
+    "image": "ma-sa-28636.webp"
   },
   {
     "giftId": "236489",
@@ -7830,6 +7890,12 @@
     "image": "pazur-jaguara-263628.webp"
   },
   {
+    "giftId": "32339",
+    "name": "Peanut Panic",
+    "points": 1,
+    "image": "peanut-panic-32339.webp"
+  },
+  {
     "giftId": "30733",
     "name": "Pescador",
     "points": 1,
@@ -8220,6 +8286,12 @@
     "image": "sampo-412189.webp"
   },
   {
+    "giftId": "88306",
+    "name": "Samsoniiiiteuuuu",
+    "points": 1,
+    "image": "samsoniiiiteuuuu-88306.webp"
+  },
+  {
     "giftId": "61256",
     "name": "Sarah en Violet",
     "points": 1,
@@ -8520,6 +8592,12 @@
     "image": "steven-wingman-16102.webp"
   },
   {
+    "giftId": "39247",
+    "name": "Stolzer Krieger",
+    "points": 1,
+    "image": "stolzer-krieger-39247.webp"
+  },
+  {
     "giftId": "425027",
     "name": "Suada Muca Baby",
     "points": 1,
@@ -8808,6 +8886,12 @@
     "image": "vega-steak-513389.webp"
   },
   {
+    "giftId": "187963",
+    "name": "Vigaro en Vuelo",
+    "points": 1,
+    "image": "vigaro-en-vuelo-187963.webp"
+  },
+  {
     "giftId": "361245",
     "name": "Viky",
     "points": 1,
@@ -8842,6 +8926,12 @@
     "name": "Volcán 305",
     "points": 1,
     "image": "volcan-305-183495.webp"
+  },
+  {
+    "giftId": "247127",
+    "name": "VOVOFTN",
+    "points": 1,
+    "image": "vovoftn-247127.webp"
   },
   {
     "giftId": "1258590",
@@ -9796,6 +9886,12 @@
     "name": "후드티 브이",
     "points": 1,
     "image": "gift-37417.webp"
+  },
+  {
+    "giftId": "32748",
+    "name": "ウニちゃんブラック",
+    "points": 1,
+    "image": "gift-32748.webp"
   },
   {
     "giftId": "29869",
@@ -12082,6 +12178,12 @@
     "name": "No Comp",
     "points": 199,
     "image": "no-comp-1338391.webp"
+  },
+  {
+    "giftId": "1314402",
+    "name": "NUTS",
+    "points": 199,
+    "image": "nuts-1314402.webp"
   },
   {
     "giftId": "1326898",

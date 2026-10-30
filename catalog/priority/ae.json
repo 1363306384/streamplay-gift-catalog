@@ -6,18 +6,19 @@
   ],
   "scope": "regional-catalog-membership-not-exclusive",
   "source": "https://api.tik.tools/webcast/gifts_by_country?country=AE",
-  "checkedAt": "2026-10-29T22:51:18.649Z",
+  "checkedAt": "2026-10-30T06:01:22.853Z",
   "samples": [
     {
       "region": "AE",
-      "count": 872,
-      "matchedCount": 872
+      "count": 878,
+      "matchedCount": 878
     }
   ],
   "giftIds": [
     "5269",
     "5282",
     "5284",
+    "5285",
     "5287",
     "5300",
     "5338",
@@ -588,6 +589,7 @@
     "62817",
     "62818",
     "62819",
+    "99665",
     "101198",
     "101384",
     "101857",
@@ -863,6 +865,10 @@
     "1377331",
     "1377335",
     "1377342",
+    "1402973",
+    "1402975",
+    "1402977",
+    "1402980",
     "1406495",
     "1406605",
     "1428884",

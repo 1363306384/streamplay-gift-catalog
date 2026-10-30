@@ -274,6 +274,14 @@
   },
   {
     "giftIds": [
+      "28636"
+    ],
+    "name": "Ma-Saレッド",
+    "points": 1,
+    "image": "ma-sa-28636.webp"
+  },
+  {
+    "giftIds": [
       "1167779"
     ],
     "name": "Mantap",
@@ -1879,6 +1887,14 @@
     "name": "Party Pony",
     "points": 199,
     "image": "party-pony-48225.webp"
+  },
+  {
+    "giftIds": [
+      "1402973"
+    ],
+    "name": "Peeka-Bro",
+    "points": 199,
+    "image": "peeka-bro-1402973.webp"
   },
   {
     "giftIds": [
@@ -4256,6 +4272,14 @@
   },
   {
     "giftIds": [
+      "1402975"
+    ],
+    "name": "Which Bro?",
+    "points": 799,
+    "image": "which-bro-1402975.webp"
+  },
+  {
+    "giftIds": [
       "118817"
     ],
     "name": "Epic Pianist",
@@ -5201,6 +5225,14 @@
   },
   {
     "giftIds": [
+      "1402977"
+    ],
+    "name": "Wanted a Treat?",
+    "points": 2599,
+    "image": "wanted-a-treat-1402977.webp"
+  },
+  {
+    "giftIds": [
       "139586"
     ],
     "name": "Celebration Tape",
@@ -6128,6 +6160,14 @@
     "name": "Leon and Lili",
     "points": 9699,
     "image": "leon-and-lili-8916.webp"
+  },
+  {
+    "giftIds": [
+      "1402980"
+    ],
+    "name": "You Are Wanted!",
+    "points": 9999,
+    "image": "you-are-wanted-1402980.webp"
   },
   {
     "giftIds": [
@@ -8103,6 +8143,14 @@
   },
   {
     "giftIds": [
+      "1343927"
+    ],
+    "name": "Dasha",
+    "points": 1,
+    "image": "dasha-1343927.webp"
+  },
+  {
+    "giftIds": [
       "32883"
     ],
     "name": "Deni Blondie",
@@ -8944,6 +8992,14 @@
   },
   {
     "giftIds": [
+      "40395"
+    ],
+    "name": "Iulia Jul",
+    "points": 1,
+    "image": "iulia-jul-40395.webp"
+  },
+  {
+    "giftIds": [
       "41479"
     ],
     "name": "Jack Habibi",
@@ -9125,6 +9181,14 @@
     "name": "Kaos Çiko",
     "points": 1,
     "image": "kaos-ciko-592635.webp"
+  },
+  {
+    "giftIds": [
+      "1285368"
+    ],
+    "name": "KarcsiTEAM",
+    "points": 1,
+    "image": "karcsiteam-1285368.webp"
   },
   {
     "giftIds": [
@@ -10329,6 +10393,14 @@
   },
   {
     "giftIds": [
+      "32339"
+    ],
+    "name": "Peanut Panic",
+    "points": 1,
+    "image": "peanut-panic-32339.webp"
+  },
+  {
+    "giftIds": [
       "30733"
     ],
     "name": "Pescador",
@@ -10829,6 +10901,14 @@
   },
   {
     "giftIds": [
+      "88306"
+    ],
+    "name": "Samsoniiiiteuuuu",
+    "points": 1,
+    "image": "samsoniiiiteuuuu-88306.webp"
+  },
+  {
+    "giftIds": [
       "61256"
     ],
     "name": "Sarah en Violet",
@@ -11215,6 +11295,14 @@
   },
   {
     "giftIds": [
+      "39247"
+    ],
+    "name": "Stolzer Krieger",
+    "points": 1,
+    "image": "stolzer-krieger-39247.webp"
+  },
+  {
+    "giftIds": [
       "425027"
     ],
     "name": "Suada Muca Baby",
@@ -11591,6 +11679,14 @@
   },
   {
     "giftIds": [
+      "187963"
+    ],
+    "name": "Vigaro en Vuelo",
+    "points": 1,
+    "image": "vigaro-en-vuelo-187963.webp"
+  },
+  {
+    "giftIds": [
       "361245"
     ],
     "name": "Viky",
@@ -11636,6 +11732,14 @@
     "name": "Volcán 305",
     "points": 1,
     "image": "volcan-305-183495.webp"
+  },
+  {
+    "giftIds": [
+      "247127"
+    ],
+    "name": "VOVOFTN",
+    "points": 1,
+    "image": "vovoftn-247127.webp"
   },
   {
     "giftIds": [
@@ -12181,6 +12285,14 @@
     "name": "غضنفر رابض",
     "points": 1,
     "image": "gift-423836.webp"
+  },
+  {
+    "giftIds": [
+      "99665"
+    ],
+    "name": "كتكوتة",
+    "points": 1,
+    "image": "gift-99665.webp"
   },
   {
     "giftIds": [
@@ -12949,6 +13061,14 @@
     "name": "후드티 브이",
     "points": 1,
     "image": "gift-37417.webp"
+  },
+  {
+    "giftIds": [
+      "32748"
+    ],
+    "name": "ウニちゃんブラック",
+    "points": 1,
+    "image": "gift-32748.webp"
   },
   {
     "giftIds": [
@@ -15086,6 +15206,14 @@
     "name": "No Comp",
     "points": 199,
     "image": "no-comp-1338391.webp"
+  },
+  {
+    "giftIds": [
+      "1314402"
+    ],
+    "name": "NUTS",
+    "points": 199,
+    "image": "nuts-1314402.webp"
   },
   {
     "giftIds": [
@@ -18596,6 +18724,14 @@
     "name": "Varsity Squad",
     "points": 7000,
     "image": "varsity-squad-1232788.webp"
+  },
+  {
+    "giftIds": [
+      "5285"
+    ],
+    "name": "Dubai",
+    "points": 7499,
+    "image": "dubai-5285.webp"
   },
   {
     "giftIds": [
