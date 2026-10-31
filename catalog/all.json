@@ -192,6 +192,12 @@
     "image": "ksa-7454.webp"
   },
   {
+    "giftId": "27773",
+    "name": "Lara Leopard",
+    "points": 1,
+    "image": "lara-leopard-27773.webp"
+  },
+  {
     "giftId": "1462838",
     "name": "Little Acorn",
     "points": 1,
@@ -2238,6 +2244,12 @@
     "image": "retro-melody-110508.webp"
   },
   {
+    "giftId": "1473067",
+    "name": "Rock Demon",
+    "points": 349,
+    "image": "rock-demon-1473067.webp"
+  },
+  {
     "giftId": "18608",
     "name": "Rocking Shroom",
     "points": 349,
@@ -2776,6 +2788,12 @@
     "name": "Cupid Koala",
     "points": 450,
     "image": "cupid-koala-19306.webp"
+  },
+  {
+    "giftId": "1473068",
+    "name": "Diva Feathers",
+    "points": 450,
+    "image": "diva-feathers-1473068.webp"
   },
   {
     "giftId": "1298057",
@@ -5310,6 +5328,12 @@
     "image": "4m-30225.webp"
   },
   {
+    "giftId": "117115",
+    "name": "A Rainha",
+    "points": 1,
+    "image": "a-rainha-117115.webp"
+  },
+  {
     "giftId": "136888",
     "name": "AAA",
     "points": 1,
@@ -5842,6 +5866,12 @@
     "name": "Buziak Madzi",
     "points": 1,
     "image": "buziak-madzi-114011.webp"
+  },
+  {
+    "giftId": "55921",
+    "name": "Buziak Suzanki",
+    "points": 1,
+    "image": "buziak-suzanki-55921.webp"
   },
   {
     "giftId": "36412",
@@ -7824,6 +7854,12 @@
     "image": "neve-graciosa-28737.webp"
   },
   {
+    "giftId": "306561",
+    "name": "NexieSexiii",
+    "points": 1,
+    "image": "nexiesexiii-306561.webp"
+  },
+  {
     "giftId": "12202",
     "name": "Nice to meet you",
     "points": 1,
@@ -9264,6 +9300,12 @@
     "image": "zaciety-straznik-45673.webp"
   },
   {
+    "giftId": "1206303",
+    "name": "Zafer Siker",
+    "points": 1,
+    "image": "zafer-siker-1206303.webp"
+  },
+  {
     "giftId": "168632",
     "name": "Zara Yuragi",
     "points": 1,
@@ -9460,6 +9502,12 @@
     "name": "الملكه نانو",
     "points": 1,
     "image": "gift-205232.webp"
+  },
+  {
+    "giftId": "50798",
+    "name": "باس نوید",
+    "points": 1,
+    "image": "gift-50798.webp"
   },
   {
     "giftId": "427348",
@@ -10126,6 +10174,12 @@
     "name": "こうやレッド",
     "points": 1,
     "image": "gift-31550.webp"
+  },
+  {
+    "giftId": "22435",
+    "name": "ヒョウ柄スマイル",
+    "points": 1,
+    "image": "gift-22435.webp"
   },
   {
     "giftId": "23858",
