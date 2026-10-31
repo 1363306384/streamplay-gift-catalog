@@ -547,6 +547,14 @@
   },
   {
     "giftIds": [
+      "28429"
+    ],
+    "name": "夢幻おにぎり",
+    "points": 1,
+    "image": "gift-28429.webp"
+  },
+  {
+    "giftIds": [
       "9139"
     ],
     "name": "Team Bracelet",
@@ -1879,6 +1887,14 @@
     "name": "Love You",
     "points": 199,
     "image": "love-you-6671.webp"
+  },
+  {
+    "giftIds": [
+      "1327552"
+    ],
+    "name": "Mugen Family",
+    "points": 199,
+    "image": "mugen-family-1327552.webp"
   },
   {
     "giftIds": [
@@ -7484,6 +7500,14 @@
   },
   {
     "giftIds": [
+      "1174765"
+    ],
+    "name": "Bebele",
+    "points": 1,
+    "image": "bebele-1174765.webp"
+  },
+  {
+    "giftIds": [
       "90812"
     ],
     "name": "Beijo de Leão",
@@ -8375,11 +8399,27 @@
   },
   {
     "giftIds": [
+      "1361733"
+    ],
+    "name": "Elijah Cap",
+    "points": 1,
+    "image": "elijah-cap-1361733.webp"
+  },
+  {
+    "giftIds": [
       "1118664"
     ],
     "name": "Eliza sefa",
     "points": 1,
     "image": "eliza-sefa-1118664.webp"
+  },
+  {
+    "giftIds": [
+      "37667"
+    ],
+    "name": "Elma Shades",
+    "points": 1,
+    "image": "elma-shades-37667.webp"
   },
   {
     "giftIds": [
@@ -8602,6 +8642,14 @@
   },
   {
     "giftIds": [
+      "39432"
+    ],
+    "name": "Freche Maus",
+    "points": 1,
+    "image": "freche-maus-39432.webp"
+  },
+  {
+    "giftIds": [
       "52864"
     ],
     "name": "Fredis Leone",
@@ -8695,6 +8743,14 @@
     "name": "Gingerbread Heart",
     "points": 1,
     "image": "gingerbread-heart-5593.webp"
+  },
+  {
+    "giftIds": [
+      "230482"
+    ],
+    "name": "Gino Pupo",
+    "points": 1,
+    "image": "gino-pupo-230482.webp"
   },
   {
     "giftIds": [
@@ -9425,6 +9481,14 @@
   },
   {
     "giftIds": [
+      "37130"
+    ],
+    "name": "Léčba Bejr",
+    "points": 1,
+    "image": "lecba-bejr-37130.webp"
+  },
+  {
+    "giftIds": [
       "155666"
     ],
     "name": "León Chema",
@@ -10129,6 +10193,14 @@
   },
   {
     "giftIds": [
+      "332270"
+    ],
+    "name": "Ms angels",
+    "points": 1,
+    "image": "ms-angels-332270.webp"
+  },
+  {
+    "giftIds": [
       "1061482"
     ],
     "name": "Muscle Mami",
@@ -10470,6 +10542,14 @@
     "name": "Patrik",
     "points": 1,
     "image": "patrik-211907.webp"
+  },
+  {
+    "giftIds": [
+      "25526"
+    ],
+    "name": "Patrona Daya",
+    "points": 1,
+    "image": "patrona-daya-25526.webp"
   },
   {
     "giftIds": [
