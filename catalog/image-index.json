@@ -7069,6 +7069,11 @@
     "sha256": "d4701aceb3fe88ec9199200f92d3021bb0cfde317d5999691ad8913fc8316379",
     "bytes": 92462
   },
+  "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768298187350_0.e564c4ee33f14fbbf25c0f7dbd0be55d.png~tplv-obj.webp": {
+    "path": "images/4a006458b46cf726694208eb39f7a318d6c792a617bd9180ce046925e84d878f.webp",
+    "sha256": "4a006458b46cf726694208eb39f7a318d6c792a617bd9180ce046925e84d878f",
+    "bytes": 86270
+  },
   "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768298667129_0.8bf574aff3269cc6ccc862aa9235bc1f.png~tplv-obj.webp": {
     "path": "images/f3bf4e4567ef1ce14f100caee52c1ca2011ea084dac1992107991cdd878f569b.webp",
     "sha256": "f3bf4e4567ef1ce14f100caee52c1ca2011ea084dac1992107991cdd878f569b",
@@ -7389,6 +7394,11 @@
     "sha256": "c20523d516cc6f3280d656263fb0646db212cffc10401764d8783e6c70aa41f9",
     "bytes": 86812
   },
+  "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768355383612_0.b9fb6d41569ca88ea6188c6a2fc50651.png~tplv-obj.webp": {
+    "path": "images/b3f998280c97ed5b7e7e20aa7457de2b91e35edffd025f99c632b757bb1d4ed9.webp",
+    "sha256": "b3f998280c97ed5b7e7e20aa7457de2b91e35edffd025f99c632b757bb1d4ed9",
+    "bytes": 72802
+  },
   "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768363178692_0.b55070ba3cae268e1b0b0658e98086ee.png~tplv-obj.webp": {
     "path": "images/ecf70cfaf539f3027114652fabea257d4855d575eaf73a8858dd32415785630f.webp",
     "sha256": "ecf70cfaf539f3027114652fabea257d4855d575eaf73a8858dd32415785630f",
@@ -7488,6 +7498,11 @@
     "path": "images/516207f7f2b9be4b6e4e7ec5d28de3729ac00e27956994b0d75e14e85bd02cb8.webp",
     "sha256": "516207f7f2b9be4b6e4e7ec5d28de3729ac00e27956994b0d75e14e85bd02cb8",
     "bytes": 112740
+  },
+  "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768445386721_0.fbf43e3a035823e32215e14041dd2784.png~tplv-obj.webp": {
+    "path": "images/915f2714e586403d52c5c47e77031b602d7d3de832a1c3f8a021a82818af3f73.webp",
+    "sha256": "915f2714e586403d52c5c47e77031b602d7d3de832a1c3f8a021a82818af3f73",
+    "bytes": 93896
   },
   "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768446558322_0.dbf66d4d4e7022ea3e1e6fab67f5b129.png~tplv-obj.webp": {
     "path": "images/3d5f6b49f57e1be902fcc0b63792dd61da3537e9af3c45ca9cd3006bc8838ad8.webp",

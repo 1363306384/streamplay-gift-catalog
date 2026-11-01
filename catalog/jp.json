@@ -547,6 +547,14 @@
   },
   {
     "giftIds": [
+      "19698"
+    ],
+    "name": "なおのプードル",
+    "points": 1,
+    "image": "gift-19698.webp"
+  },
+  {
+    "giftIds": [
       "22435"
     ],
     "name": "ヒョウ柄スマイル",
@@ -13072,6 +13080,14 @@
   },
   {
     "giftIds": [
+      "54871"
+    ],
+    "name": "구름단 쥬니",
+    "points": 1,
+    "image": "gift-54871.webp"
+  },
+  {
+    "giftIds": [
       "26597"
     ],
     "name": "그레이 한찌",
@@ -13461,6 +13477,14 @@
     "name": "원 스마일",
     "points": 1,
     "image": "gift-1050498.webp"
+  },
+  {
+    "giftIds": [
+      "20231"
+    ],
+    "name": "유기견",
+    "points": 1,
+    "image": "gift-20231.webp"
   },
   {
     "giftIds": [

@@ -9858,6 +9858,12 @@
     "image": "gift-378638.webp"
   },
   {
+    "giftId": "54871",
+    "name": "구름단 쥬니",
+    "points": 1,
+    "image": "gift-54871.webp"
+  },
+  {
     "giftId": "26597",
     "name": "그레이 한찌",
     "points": 1,
@@ -10152,6 +10158,12 @@
     "image": "gift-1050498.webp"
   },
   {
+    "giftId": "20231",
+    "name": "유기견",
+    "points": 1,
+    "image": "gift-20231.webp"
+  },
+  {
     "giftId": "326776",
     "name": "인아냥",
     "points": 1,
@@ -10378,6 +10390,12 @@
     "name": "ちょり軍団",
     "points": 1,
     "image": "gift-25391.webp"
+  },
+  {
+    "giftId": "19698",
+    "name": "なおのプードル",
+    "points": 1,
+    "image": "gift-19698.webp"
   },
   {
     "giftId": "22435",
