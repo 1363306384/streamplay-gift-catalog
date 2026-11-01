@@ -539,6 +539,14 @@
   },
   {
     "giftIds": [
+      "25391"
+    ],
+    "name": "ちょり軍団",
+    "points": 1,
+    "image": "gift-25391.webp"
+  },
+  {
+    "giftIds": [
       "22435"
     ],
     "name": "ヒョウ柄スマイル",
@@ -2011,6 +2019,14 @@
     "name": "Talking Heartbeat",
     "points": 199,
     "image": "talking-heartbeat-919320.webp"
+  },
+  {
+    "giftIds": [
+      "1335430"
+    ],
+    "name": "最強ちょり軍団",
+    "points": 199,
+    "image": "gift-1335430.webp"
   },
   {
     "giftIds": [
@@ -7685,6 +7701,14 @@
   },
   {
     "giftIds": [
+      "1023818"
+    ],
+    "name": "Brandi Brilho",
+    "points": 1,
+    "image": "brandi-brilho-1023818.webp"
+  },
+  {
+    "giftIds": [
       "210407"
     ],
     "name": "Brațe Tatuate",
@@ -7989,6 +8013,14 @@
   },
   {
     "giftIds": [
+      "58265"
+    ],
+    "name": "Coco SCB",
+    "points": 1,
+    "image": "coco-scb-58265.webp"
+  },
+  {
+    "giftIds": [
       "5333",
       "17480"
     ],
@@ -8116,6 +8148,14 @@
     "name": "Cristina Neon",
     "points": 1,
     "image": "cristina-neon-149165.webp"
+  },
+  {
+    "giftIds": [
+      "39221"
+    ],
+    "name": "Czarująca Wróżka",
+    "points": 1,
+    "image": "czarujaca-wrozka-39221.webp"
   },
   {
     "giftIds": [
@@ -8535,6 +8575,14 @@
   },
   {
     "giftIds": [
+      "25781"
+    ],
+    "name": "Fairway Ace",
+    "points": 1,
+    "image": "fairway-ace-25781.webp"
+  },
+  {
+    "giftIds": [
       "8495",
       "9463"
     ],
@@ -8743,6 +8791,14 @@
     "name": "Gabily Rosa",
     "points": 1,
     "image": "gabily-rosa-22593.webp"
+  },
+  {
+    "giftIds": [
+      "104159"
+    ],
+    "name": "Galactic",
+    "points": 1,
+    "image": "galactic-104159.webp"
   },
   {
     "giftIds": [
@@ -9205,6 +9261,14 @@
     "name": "Jayda Glasses",
     "points": 1,
     "image": "jayda-glasses-21572.webp"
+  },
+  {
+    "giftIds": [
+      "46171"
+    ],
+    "name": "JBM CREW Schaf",
+    "points": 1,
+    "image": "jbm-crew-schaf-46171.webp"
   },
   {
     "giftIds": [
@@ -10113,6 +10177,14 @@
   },
   {
     "giftIds": [
+      "89866"
+    ],
+    "name": "MILUSIA31",
+    "points": 1,
+    "image": "milusia31-89866.webp"
+  },
+  {
+    "giftIds": [
       "45461"
     ],
     "name": "Mimi Diamond",
@@ -10820,6 +10892,14 @@
   },
   {
     "giftIds": [
+      "102055"
+    ],
+    "name": "Priscila",
+    "points": 1,
+    "image": "priscila-102055.webp"
+  },
+  {
+    "giftIds": [
       "92457"
     ],
     "name": "PRO",
@@ -11074,6 +11154,14 @@
     "name": "Rico Pop",
     "points": 1,
     "image": "rico-pop-1297967.webp"
+  },
+  {
+    "giftIds": [
+      "224536"
+    ],
+    "name": "ridwa",
+    "points": 1,
+    "image": "ridwa-224536.webp"
   },
   {
     "giftIds": [
@@ -11358,6 +11446,14 @@
   },
   {
     "giftIds": [
+      "179794"
+    ],
+    "name": "SKR Family",
+    "points": 1,
+    "image": "skr-family-179794.webp"
+  },
+  {
+    "giftIds": [
       "63989"
     ],
     "name": "Slatt Motion",
@@ -11467,6 +11563,14 @@
     "name": "Speedo shy",
     "points": 1,
     "image": "speedo-shy-367700.webp"
+  },
+  {
+    "giftIds": [
+      "122432"
+    ],
+    "name": "Spicy Salute",
+    "points": 1,
+    "image": "spicy-salute-122432.webp"
   },
   {
     "giftIds": [
@@ -11735,6 +11839,14 @@
   },
   {
     "giftIds": [
+      "53124"
+    ],
+    "name": "Team Jungwoo",
+    "points": 1,
+    "image": "team-jungwoo-53124.webp"
+  },
+  {
+    "giftIds": [
       "168460"
     ],
     "name": "Team Kay9ine",
@@ -11788,6 +11900,22 @@
     "name": "Team Slay",
     "points": 1,
     "image": "team-slay-21492.webp"
+  },
+  {
+    "giftIds": [
+      "105340"
+    ],
+    "name": "TeamEri",
+    "points": 1,
+    "image": "teameri-105340.webp"
+  },
+  {
+    "giftIds": [
+      "45195"
+    ],
+    "name": "TeamOrly Loyale",
+    "points": 1,
+    "image": "teamorly-loyale-45195.webp"
   },
   {
     "giftIds": [
@@ -15401,6 +15529,14 @@
     "name": "Indoor Fan",
     "points": 199,
     "image": "indoor-fan-6564.webp"
+  },
+  {
+    "giftIds": [
+      "1353580"
+    ],
+    "name": "JBM Crew",
+    "points": 199,
+    "image": "jbm-crew-1353580.webp"
   },
   {
     "giftIds": [
