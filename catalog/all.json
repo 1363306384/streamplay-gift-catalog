@@ -84,6 +84,12 @@
     "image": "creeper-54724.webp"
   },
   {
+    "giftId": "17703",
+    "name": "Diwali",
+    "points": 1,
+    "image": "diwali-17703.webp"
+  },
+  {
     "giftId": "37667",
     "name": "Elma Shades",
     "points": 1,
@@ -418,6 +424,18 @@
     "name": "أناقة الذهب",
     "points": 1,
     "image": "gift-39220.webp"
+  },
+  {
+    "giftId": "884244",
+    "name": "إجرامي",
+    "points": 1,
+    "image": "gift-884244.webp"
+  },
+  {
+    "giftId": "198895",
+    "name": "المجرمين",
+    "points": 1,
+    "image": "gift-198895.webp"
   },
   {
     "giftId": "38009",
@@ -4416,6 +4434,12 @@
     "image": "victory-wing-12535.webp"
   },
   {
+    "giftId": "15218",
+    "name": "Water Lantern Fest",
+    "points": 5000,
+    "image": "water-lantern-fest-15218.webp"
+  },
+  {
     "giftId": "17958",
     "name": "Fluffy Buddies",
     "points": 5388,
@@ -5412,6 +5436,12 @@
     "image": "alien-pet-15579.webp"
   },
   {
+    "giftId": "19923",
+    "name": "Alina Golden",
+    "points": 1,
+    "image": "alina-golden-19923.webp"
+  },
+  {
     "giftId": "293309",
     "name": "Alina Sus",
     "points": 1,
@@ -5880,6 +5910,12 @@
     "image": "buziak-suzanki-55921.webp"
   },
   {
+    "giftId": "32839",
+    "name": "Căciulă Roșie",
+    "points": 1,
+    "image": "caciula-rosie-32839.webp"
+  },
+  {
     "giftId": "36412",
     "name": "Cadena Dorada",
     "points": 1,
@@ -6342,6 +6378,12 @@
     "image": "divaclub-199196.webp"
   },
   {
+    "giftId": "277756",
+    "name": "Djulia Radiante",
+    "points": 1,
+    "image": "djulia-radiante-277756.webp"
+  },
+  {
     "giftId": "217063",
     "name": "Doamna Mirela",
     "points": 1,
@@ -6378,10 +6420,22 @@
     "image": "dream-team-390709.webp"
   },
   {
+    "giftId": "1433608",
+    "name": "Drips Drop",
+    "points": 1,
+    "image": "drips-drop-1433608.webp"
+  },
+  {
     "giftId": "53971",
     "name": "Duj_Team Mézeskalács",
     "points": 1,
     "image": "duj-team-mezeskalacs-53971.webp"
+  },
+  {
+    "giftId": "1261631",
+    "name": "Dunkaroos Pt2",
+    "points": 1,
+    "image": "dunkaroos-pt2-1261631.webp"
   },
   {
     "giftId": "14689",
@@ -6520,6 +6574,12 @@
     "name": "Fanziya",
     "points": 1,
     "image": "fanziya-268848.webp"
+  },
+  {
+    "giftId": "1036352",
+    "name": "Fata mea",
+    "points": 1,
+    "image": "fata-mea-1036352.webp"
   },
   {
     "giftId": "227333",
@@ -7110,6 +7170,12 @@
     "image": "jussyer-vermelho-26796.webp"
   },
   {
+    "giftId": "171467",
+    "name": "Justtghost",
+    "points": 1,
+    "image": "justtghost-171467.webp"
+  },
+  {
     "giftId": "97439",
     "name": "Jutt",
     "points": 1,
@@ -7264,6 +7330,12 @@
     "name": "Léčba Bejr",
     "points": 1,
     "image": "lecba-bejr-37130.webp"
+  },
+  {
+    "giftId": "186462",
+    "name": "León",
+    "points": 1,
+    "image": "leon-186462.webp"
   },
   {
     "giftId": "155666",
@@ -7672,6 +7744,12 @@
     "name": "MeySillaCaliente",
     "points": 1,
     "image": "meysillacaliente-81388.webp"
+  },
+  {
+    "giftId": "418644",
+    "name": "MF FUNNY",
+    "points": 1,
+    "image": "mf-funny-418644.webp"
   },
   {
     "giftId": "23302",
@@ -8250,6 +8328,12 @@
     "image": "princesa-lau-129615.webp"
   },
   {
+    "giftId": "43510",
+    "name": "Princess Yassie",
+    "points": 1,
+    "image": "princess-yassie-43510.webp"
+  },
+  {
     "giftId": "1364525",
     "name": "Prinzessin",
     "points": 1,
@@ -8464,6 +8548,12 @@
     "name": "ridwa",
     "points": 1,
     "image": "ridwa-224536.webp"
+  },
+  {
+    "giftId": "39253",
+    "name": "Ritorno Trionfale",
+    "points": 1,
+    "image": "ritorno-trionfale-39253.webp"
   },
   {
     "giftId": "264426",
@@ -8862,6 +8952,12 @@
     "image": "steven-wingman-16102.webp"
   },
   {
+    "giftId": "20966",
+    "name": "StoFatto",
+    "points": 1,
+    "image": "stofatto-20966.webp"
+  },
+  {
     "giftId": "39247",
     "name": "Stolzer Krieger",
     "points": 1,
@@ -8914,6 +9010,12 @@
     "name": "Syn King Арыстаны",
     "points": 1,
     "image": "syn-king-49982.webp"
+  },
+  {
+    "giftId": "438501",
+    "name": "Sztiflerr Láz",
+    "points": 1,
+    "image": "sztiflerr-laz-438501.webp"
   },
   {
     "giftId": "993650",
@@ -9082,6 +9184,12 @@
     "name": "TheSquad",
     "points": 1,
     "image": "thesquad-23250.webp"
+  },
+  {
+    "giftId": "229199",
+    "name": "Tia Vicky",
+    "points": 1,
+    "image": "tia-vicky-229199.webp"
   },
   {
     "giftId": "55979",
@@ -9286,6 +9394,12 @@
     "name": "Wikuśka",
     "points": 1,
     "image": "wikuska-1047686.webp"
+  },
+  {
+    "giftId": "31859",
+    "name": "Will",
+    "points": 1,
+    "image": "will-31859.webp"
   },
   {
     "giftId": "5868",
@@ -10300,6 +10414,12 @@
     "name": "熊猫电光",
     "points": 1,
     "image": "gift-546041.webp"
+  },
+  {
+    "giftId": "1213343",
+    "name": "純平大先生",
+    "points": 1,
+    "image": "gift-1213343.webp"
   },
   {
     "giftId": "14352",
@@ -12498,6 +12618,12 @@
     "image": "music-player-5683.webp"
   },
   {
+    "giftId": "1339699",
+    "name": "Nakamachi Pirate",
+    "points": 199,
+    "image": "nakamachi-pirate-1339699.webp"
+  },
+  {
     "giftId": "13166",
     "name": "Night Star",
     "points": 199,
@@ -12928,6 +13054,12 @@
     "name": "VIBE CREW",
     "points": 199,
     "image": "vibe-crew-1316089.webp"
+  },
+  {
+    "giftId": "1322991",
+    "name": "WILL TM CLUB",
+    "points": 199,
+    "image": "will-tm-club-1322991.webp"
   },
   {
     "giftId": "1321382",
@@ -14152,6 +14284,12 @@
     "name": "Ceramic",
     "points": 400,
     "image": "ceramic-14803.webp"
+  },
+  {
+    "giftId": "1486116",
+    "name": "Cornucopia",
+    "points": 400,
+    "image": "cornucopia-1486116.webp"
   },
   {
     "giftId": "1118222",
@@ -16870,6 +17008,12 @@
     "name": "Meteor Shower",
     "points": 3000,
     "image": "meteor-shower-9479.webp"
+  },
+  {
+    "giftId": "9580",
+    "name": "Potluck",
+    "points": 3000,
+    "image": "potluck-9580.webp"
   },
   {
     "giftId": "1118206",
