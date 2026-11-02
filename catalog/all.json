@@ -432,6 +432,12 @@
     "image": "gift-884244.webp"
   },
   {
+    "giftId": "39853",
+    "name": "ابتسامة مي",
+    "points": 1,
+    "image": "gift-39853.webp"
+  },
+  {
     "giftId": "198895",
     "name": "المجرمين",
     "points": 1,
@@ -442,6 +448,12 @@
     "name": "اوشا وبابوس",
     "points": 1,
     "image": "gift-38009.webp"
+  },
+  {
+    "giftId": "162961",
+    "name": "بهبهاني",
+    "points": 1,
+    "image": "gift-162961.webp"
   },
   {
     "giftId": "1035752",
@@ -2110,6 +2122,12 @@
     "name": "Tropical Mask",
     "points": 299,
     "image": "tropical-mask-985702.webp"
+  },
+  {
+    "giftId": "1493481",
+    "name": "UAE Cake",
+    "points": 299,
+    "image": "uae-cake-1493481.webp"
   },
   {
     "giftId": "15194",
@@ -4716,6 +4734,12 @@
     "image": "verified-glider-169261.webp"
   },
   {
+    "giftId": "1493480",
+    "name": "Dubai Fireworks",
+    "points": 11999,
+    "image": "dubai-fireworks-1493480.webp"
+  },
+  {
     "giftId": "1322366",
     "name": "Hot Rods",
     "points": 12000,
@@ -6762,6 +6786,12 @@
     "image": "gatito-trueno-391113.webp"
   },
   {
+    "giftId": "1450569",
+    "name": "GB ORIGINAL",
+    "points": 1,
+    "image": "gb-original-1450569.webp"
+  },
+  {
     "giftId": "73489",
     "name": "Gesto da Joi",
     "points": 1,
@@ -7576,6 +7606,12 @@
     "name": "Madame S",
     "points": 1,
     "image": "madame-s-140198.webp"
+  },
+  {
+    "giftId": "1399729",
+    "name": "Maestro Heart",
+    "points": 1,
+    "image": "maestro-heart-1399729.webp"
   },
   {
     "giftId": "25701",
@@ -8670,6 +8706,12 @@
     "image": "saemyou-381537.webp"
   },
   {
+    "giftId": "26144",
+    "name": "Saiti Giraffen",
+    "points": 1,
+    "image": "saiti-giraffen-26144.webp"
+  },
+  {
     "giftId": "49029",
     "name": "SammyBabyyy",
     "points": 1,
@@ -8764,6 +8806,12 @@
     "name": "Shakes love",
     "points": 1,
     "image": "shakes-love-220708.webp"
+  },
+  {
+    "giftId": "1409324",
+    "name": "shark",
+    "points": 1,
+    "image": "shark-1409324.webp"
   },
   {
     "giftId": "20890",
@@ -9360,6 +9408,12 @@
     "image": "tyler-la-ganga-20993.webp"
   },
   {
+    "giftId": "1473157",
+    "name": "Udon noodles",
+    "points": 1,
+    "image": "udon-noodles-1473157.webp"
+  },
+  {
     "giftId": "513389",
     "name": "Vega Steak",
     "points": 1,
@@ -9478,6 +9532,12 @@
     "name": "Winged Believe",
     "points": 1,
     "image": "winged-believe-414346.webp"
+  },
+  {
+    "giftId": "26365",
+    "name": "Winking Skipper",
+    "points": 1,
+    "image": "winking-skipper-26365.webp"
   },
   {
     "giftId": "35618",
@@ -9616,6 +9676,12 @@
     "name": "Zoni Khan",
     "points": 1,
     "image": "zoni-khan-599423.webp"
+  },
+  {
+    "giftId": "605733",
+    "name": "Zoya",
+    "points": 1,
+    "image": "zoya-605733.webp"
   },
   {
     "giftId": "136900",
@@ -12724,6 +12790,12 @@
     "name": "Melon Juice",
     "points": 199,
     "image": "melon-juice-17400.webp"
+  },
+  {
+    "giftId": "1314930",
+    "name": "Miss P",
+    "points": 199,
+    "image": "miss-p-1314930.webp"
   },
   {
     "giftId": "1340750",
