@@ -5424,6 +5424,12 @@
     "image": "alex-baran-157655.webp"
   },
   {
+    "giftId": "556593",
+    "name": "AlexVip Puls",
+    "points": 1,
+    "image": "alexvip-puls-556593.webp"
+  },
+  {
     "giftId": "842318",
     "name": "Alien 502",
     "points": 1,
@@ -6072,6 +6078,12 @@
     "image": "claudia-parduc-162267.webp"
   },
   {
+    "giftId": "1485682",
+    "name": "Claw",
+    "points": 1,
+    "image": "claw-1485682.webp"
+  },
+  {
     "giftId": "22128",
     "name": "Clock It Attitude",
     "points": 1,
@@ -6486,6 +6498,12 @@
     "image": "encanto-gypsy-98761.webp"
   },
   {
+    "giftId": "1166979",
+    "name": "Endgame",
+    "points": 1,
+    "image": "endgame-1166979.webp"
+  },
+  {
     "giftId": "49955",
     "name": "Enercii",
     "points": 1,
@@ -6720,6 +6738,12 @@
     "image": "galactic-104159.webp"
   },
   {
+    "giftId": "41643",
+    "name": "Gallo Rojo",
+    "points": 1,
+    "image": "gallo-rojo-41643.webp"
+  },
+  {
     "giftId": "40332",
     "name": "Gashi Grinst",
     "points": 1,
@@ -6736,6 +6760,12 @@
     "name": "Gatito Trueno",
     "points": 1,
     "image": "gatito-trueno-391113.webp"
+  },
+  {
+    "giftId": "73489",
+    "name": "Gesto da Joi",
+    "points": 1,
+    "image": "gesto-da-joi-73489.webp"
   },
   {
     "giftId": "20863",
@@ -7650,6 +7680,12 @@
     "image": "marian-inima-1397797.webp"
   },
   {
+    "giftId": "83052",
+    "name": "Marokino Flash",
+    "points": 1,
+    "image": "marokino-flash-83052.webp"
+  },
+  {
     "giftId": "155113",
     "name": "Martina Chic",
     "points": 1,
@@ -8172,6 +8208,12 @@
     "image": "patrona-ingris-45733.webp"
   },
   {
+    "giftId": "1485683",
+    "name": "Paw",
+    "points": 1,
+    "image": "paw-1485683.webp"
+  },
+  {
     "giftId": "263628",
     "name": "Pazur Jaguara",
     "points": 1,
@@ -8236,6 +8278,12 @@
     "name": "Platinum Storm",
     "points": 1,
     "image": "platinum-storm-35175.webp"
+  },
+  {
+    "giftId": "51402",
+    "name": "Pochette Bb Aïda",
+    "points": 1,
+    "image": "pochette-bb-aida-51402.webp"
   },
   {
     "giftId": "106888",
@@ -8562,6 +8610,12 @@
     "image": "riyedmari-264426.webp"
   },
   {
+    "giftId": "23312",
+    "name": "Rkay",
+    "points": 1,
+    "image": "rkay-23312.webp"
+  },
+  {
     "giftId": "56284",
     "name": "Robert Ionescu",
     "points": 1,
@@ -8652,6 +8706,12 @@
     "image": "sarra-gang-226928.webp"
   },
   {
+    "giftId": "54464",
+    "name": "Sassy Secrets",
+    "points": 1,
+    "image": "sassy-secrets-54464.webp"
+  },
+  {
     "giftId": "49908",
     "name": "Saucy Mint",
     "points": 1,
@@ -8698,6 +8758,12 @@
     "name": "Shae DNA",
     "points": 1,
     "image": "shae-dna-19802.webp"
+  },
+  {
+    "giftId": "220708",
+    "name": "Shakes love",
+    "points": 1,
+    "image": "shakes-love-220708.webp"
   },
   {
     "giftId": "20890",
@@ -9450,6 +9516,12 @@
     "image": "yalla-sahel-866790.webp"
   },
   {
+    "giftId": "1363012",
+    "name": "Yanek Respect",
+    "points": 1,
+    "image": "yanek-respect-1363012.webp"
+  },
+  {
     "giftId": "39268",
     "name": "Yarizard Ardente",
     "points": 1,
@@ -9538,6 +9610,18 @@
     "name": "Živas a Babča",
     "points": 1,
     "image": "zivas-a-babca-43595.webp"
+  },
+  {
+    "giftId": "599423",
+    "name": "Zoni Khan",
+    "points": 1,
+    "image": "zoni-khan-599423.webp"
+  },
+  {
+    "giftId": "136900",
+    "name": "Аnna Dori",
+    "points": 1,
+    "image": "nna-dori-136900.webp"
   },
   {
     "giftId": "171225",
@@ -9696,6 +9780,12 @@
     "image": "gift-46104.webp"
   },
   {
+    "giftId": "1284135",
+    "name": "الأسطورة",
+    "points": 1,
+    "image": "gift-1284135.webp"
+  },
+  {
     "giftId": "205232",
     "name": "الملكه نانو",
     "points": 1,
@@ -9760,6 +9850,12 @@
     "name": "عصير سعاد",
     "points": 1,
     "image": "gift-44244.webp"
+  },
+  {
+    "giftId": "231838",
+    "name": "عمامة سبيد",
+    "points": 1,
+    "image": "gift-231838.webp"
   },
   {
     "giftId": "423836",
@@ -11178,6 +11274,12 @@
     "image": "simi-kiss-1188303.webp"
   },
   {
+    "giftId": "6106",
+    "name": "Appetizers",
+    "points": 19,
+    "image": "appetizers-6106.webp"
+  },
+  {
     "giftId": "1213615",
     "name": "Blossom Po",
     "points": 20,
@@ -12328,6 +12430,12 @@
     "name": "Danny",
     "points": 199,
     "image": "danny-1335510.webp"
+  },
+  {
+    "giftId": "1323369",
+    "name": "EG Dynasty",
+    "points": 199,
+    "image": "eg-dynasty-1323369.webp"
   },
   {
     "giftId": "1323329",
@@ -14460,6 +14568,12 @@
     "image": "im-just-a-hamster-14273.webp"
   },
   {
+    "giftId": "1485864",
+    "name": "Kitty Tea Time",
+    "points": 499,
+    "image": "kitty-tea-time-1485864.webp"
+  },
+  {
     "giftId": "722444",
     "name": "Lightning Sword",
     "points": 499,
@@ -14602,6 +14716,12 @@
     "name": "Travel Vibes",
     "points": 499,
     "image": "travel-vibes-1229451.webp"
+  },
+  {
+    "giftId": "1485684",
+    "name": "Autumn Dog Camp",
+    "points": 500,
+    "image": "autumn-dog-camp-1485684.webp"
   },
   {
     "giftId": "17563",
@@ -16764,6 +16884,12 @@
     "image": "aerobic-dacne-1262150.webp"
   },
   {
+    "giftId": "1485685",
+    "name": "Aerobic Dacne",
+    "points": 2599,
+    "image": "aerobic-dacne-1485685.webp"
+  },
+  {
     "giftId": "6263",
     "name": "Magic Stage",
     "points": 2599,
@@ -16822,6 +16948,12 @@
     "name": "Stroke Me",
     "points": 2800,
     "image": "stroke-me-15388.webp"
+  },
+  {
+    "giftId": "1485863",
+    "name": "Your Little Buddy",
+    "points": 2800,
+    "image": "your-little-buddy-1485863.webp"
   },
   {
     "giftId": "6954",
