@@ -288,6 +288,12 @@
     "image": "music-album-17085.webp"
   },
   {
+    "giftId": "1447275",
+    "name": "Music  Album",
+    "points": 1,
+    "image": "music-album-1447275.webp"
+  },
+  {
     "giftId": "133119",
     "name": "Music on Stage",
     "points": 1,
@@ -456,6 +462,12 @@
     "image": "gift-162961.webp"
   },
   {
+    "giftId": "706062",
+    "name": "تحية جويد",
+    "points": 1,
+    "image": "gift-706062.webp"
+  },
+  {
     "giftId": "1035752",
     "name": "حصان الدوسري",
     "points": 1,
@@ -478,6 +490,12 @@
     "name": "كتكوتة",
     "points": 1,
     "image": "gift-99665.webp"
+  },
+  {
+    "giftId": "38917",
+    "name": "مسٹر دبئی آرمی",
+    "points": 1,
+    "image": "gift-38917.webp"
   },
   {
     "giftId": "422434",
@@ -2346,6 +2364,12 @@
     "image": "vinyl-flip-16748.webp"
   },
   {
+    "giftId": "1447277",
+    "name": "Vinyl Flip",
+    "points": 349,
+    "image": "vinyl-flip-1447277.webp"
+  },
+  {
     "giftId": "15192",
     "name": "Alien Buddy",
     "points": 399,
@@ -3436,6 +3460,12 @@
     "name": "Grand show",
     "points": 999,
     "image": "grand-show-16749.webp"
+  },
+  {
+    "giftId": "1447278",
+    "name": "Grand show",
+    "points": 999,
+    "image": "grand-show-1447278.webp"
   },
   {
     "giftId": "9717",
@@ -5454,10 +5484,22 @@
     "image": "alba-glow-1141223.webp"
   },
   {
+    "giftId": "63772",
+    "name": "ALEONE",
+    "points": 1,
+    "image": "aleone-63772.webp"
+  },
+  {
     "giftId": "157655",
     "name": "Alex baran",
     "points": 1,
     "image": "alex-baran-157655.webp"
+  },
+  {
+    "giftId": "166797",
+    "name": "Alex Këngëtar",
+    "points": 1,
+    "image": "alex-kengetar-166797.webp"
   },
   {
     "giftId": "556593",
@@ -5652,6 +5694,12 @@
     "image": "ari-1355373.webp"
   },
   {
+    "giftId": "44126",
+    "name": "Arijana Vjollcë",
+    "points": 1,
+    "image": "arijana-vjollce-44126.webp"
+  },
+  {
     "giftId": "1206376",
     "name": "Aristides LB",
     "points": 1,
@@ -5674,6 +5722,12 @@
     "name": "Auntie and Unc",
     "points": 1,
     "image": "auntie-and-unc-43773.webp"
+  },
+  {
+    "giftId": "32351",
+    "name": "Austin Lei",
+    "points": 1,
+    "image": "austin-lei-32351.webp"
   },
   {
     "giftId": "17562",
@@ -5704,6 +5758,12 @@
     "name": "AyLo Lounge",
     "points": 1,
     "image": "aylo-lounge-1167632.webp"
+  },
+  {
+    "giftId": "32674",
+    "name": "Bae Emblem",
+    "points": 1,
+    "image": "bae-emblem-32674.webp"
   },
   {
     "giftId": "51211",
@@ -5760,6 +5820,12 @@
     "image": "barbie-d-1406253.webp"
   },
   {
+    "giftId": "368251",
+    "name": "Barella",
+    "points": 1,
+    "image": "barella-368251.webp"
+  },
+  {
     "giftId": "7897",
     "name": "Baseball",
     "points": 1,
@@ -5782,6 +5848,12 @@
     "name": "Beijo de Leão",
     "points": 1,
     "image": "beijo-de-leao-90812.webp"
+  },
+  {
+    "giftId": "177887",
+    "name": "Beuska babi",
+    "points": 1,
+    "image": "beuska-babi-177887.webp"
   },
   {
     "giftId": "163220",
@@ -5854,6 +5926,12 @@
     "name": "Bloomette",
     "points": 1,
     "image": "bloomette-319690.webp"
+  },
+  {
+    "giftId": "23653",
+    "name": "Blossomss Gloves",
+    "points": 1,
+    "image": "blossomss-gloves-23653.webp"
   },
   {
     "giftId": "7832",
@@ -5962,6 +6040,12 @@
     "name": "Buziak Suzanki",
     "points": 1,
     "image": "buziak-suzanki-55921.webp"
+  },
+  {
+    "giftId": "210263",
+    "name": "ʙᴛ𝔖",
+    "points": 1,
+    "image": "s-210263.webp"
   },
   {
     "giftId": "32839",
@@ -6294,6 +6378,12 @@
     "image": "daddy-998428.webp"
   },
   {
+    "giftId": "1431937",
+    "name": "Daddy",
+    "points": 1,
+    "image": "daddy-1431937.webp"
+  },
+  {
     "giftId": "783646",
     "name": "Daline",
     "points": 1,
@@ -6370,6 +6460,12 @@
     "name": "Deni Blondie",
     "points": 1,
     "image": "deni-blondie-32883.webp"
+  },
+  {
+    "giftId": "1379996",
+    "name": "Desinformismo",
+    "points": 1,
+    "image": "desinformismo-1379996.webp"
   },
   {
     "giftId": "28141",
@@ -6480,6 +6576,12 @@
     "image": "donut-victory-45797.webp"
   },
   {
+    "giftId": "30098",
+    "name": "Dori Doritos",
+    "points": 1,
+    "image": "dori-doritos-30098.webp"
+  },
+  {
     "giftId": "390709",
     "name": "Dream Team",
     "points": 1,
@@ -6582,6 +6684,12 @@
     "image": "eriik-sks-450301.webp"
   },
   {
+    "giftId": "235417",
+    "name": "Estoy Vital",
+    "points": 1,
+    "image": "estoy-vital-235417.webp"
+  },
+  {
     "giftId": "149983",
     "name": "EUNI",
     "points": 1,
@@ -6634,6 +6742,12 @@
     "name": "FAMILIA Zaza",
     "points": 1,
     "image": "familia-zaza-116832.webp"
+  },
+  {
+    "giftId": "36024",
+    "name": "FAMILY INFINITY",
+    "points": 1,
+    "image": "family-infinity-36024.webp"
   },
   {
     "giftId": "15563",
@@ -7146,6 +7260,12 @@
     "image": "jack-habibi-41479.webp"
   },
   {
+    "giftId": "1383156",
+    "name": "Jades Lover",
+    "points": 1,
+    "image": "jades-lover-1383156.webp"
+  },
+  {
     "giftId": "31824",
     "name": "Jaguara McQueen",
     "points": 1,
@@ -7156,6 +7276,12 @@
     "name": "Jakes Tribe",
     "points": 1,
     "image": "jakes-tribe-43761.webp"
+  },
+  {
+    "giftId": "349712",
+    "name": "Janett",
+    "points": 1,
+    "image": "janett-349712.webp"
   },
   {
     "giftId": "20548",
@@ -7320,6 +7446,12 @@
     "image": "king-189304.webp"
   },
   {
+    "giftId": "1440735",
+    "name": "King Family",
+    "points": 1,
+    "image": "king-family-1440735.webp"
+  },
+  {
     "giftId": "38542",
     "name": "Knam 배우",
     "points": 1,
@@ -7348,6 +7480,12 @@
     "name": "Krisz",
     "points": 1,
     "image": "krisz-511129.webp"
+  },
+  {
+    "giftId": "25481",
+    "name": "Kubra Leonessa",
+    "points": 1,
+    "image": "kubra-leonessa-25481.webp"
   },
   {
     "giftId": "1213613",
@@ -7794,6 +7932,12 @@
     "image": "match-star-12413.webp"
   },
   {
+    "giftId": "1462652",
+    "name": "Match Star",
+    "points": 1,
+    "image": "match-star-1462652.webp"
+  },
+  {
     "giftId": "50303",
     "name": "Maudielito Rojo",
     "points": 1,
@@ -8128,6 +8272,12 @@
     "name": "Nice To Meet You",
     "points": 1,
     "image": "nice-to-meet-you-15181.webp"
+  },
+  {
+    "giftId": "276748",
+    "name": "Nicky Nightmare",
+    "points": 1,
+    "image": "nicky-nightmare-276748.webp"
   },
   {
     "giftId": "22237",
@@ -8610,6 +8760,12 @@
     "image": "radiant-luck-19568.webp"
   },
   {
+    "giftId": "21751",
+    "name": "Rafa",
+    "points": 1,
+    "image": "rafa-21751.webp"
+  },
+  {
     "giftId": "8723",
     "name": "Rainbow",
     "points": 1,
@@ -8890,6 +9046,12 @@
     "name": "Shakes love",
     "points": 1,
     "image": "shakes-love-220708.webp"
+  },
+  {
+    "giftId": "37635",
+    "name": "Shang Plumes",
+    "points": 1,
+    "image": "shang-plumes-37635.webp"
   },
   {
     "giftId": "1409324",
@@ -9342,6 +9504,12 @@
     "image": "team-nina-165981.webp"
   },
   {
+    "giftId": "301293",
+    "name": "TEAM RONI",
+    "points": 1,
+    "image": "team-roni-301293.webp"
+  },
+  {
     "giftId": "21492",
     "name": "Team Slay",
     "points": 1,
@@ -9400,6 +9568,12 @@
     "name": "Tia Vicky",
     "points": 1,
     "image": "tia-vicky-229199.webp"
+  },
+  {
+    "giftId": "127163",
+    "name": "TIIROOFAMILY",
+    "points": 1,
+    "image": "tiiroofamily-127163.webp"
   },
   {
     "giftId": "55979",
@@ -9960,6 +10134,12 @@
     "image": "gift-23266.webp"
   },
   {
+    "giftId": "221093",
+    "name": "أسومة",
+    "points": 1,
+    "image": "gift-221093.webp"
+  },
+  {
     "giftId": "46104",
     "name": "ابتسامة سناء",
     "points": 1,
@@ -10024,6 +10204,12 @@
     "name": "طارق الأزرق",
     "points": 1,
     "image": "gift-51315.webp"
+  },
+  {
+    "giftId": "1328919",
+    "name": "عصا الشايب",
+    "points": 1,
+    "image": "gift-1328919.webp"
   },
   {
     "giftId": "44244",
@@ -10306,6 +10492,12 @@
     "name": "보라 쥬디",
     "points": 1,
     "image": "gift-30725.webp"
+  },
+  {
+    "giftId": "37248",
+    "name": "보름달 미소",
+    "points": 1,
+    "image": "gift-37248.webp"
   },
   {
     "giftId": "98152",
@@ -10696,6 +10888,12 @@
     "name": "ヒロニット",
     "points": 1,
     "image": "gift-23858.webp"
+  },
+  {
+    "giftId": "28992",
+    "name": "ふわふわの相棒",
+    "points": 1,
+    "image": "gift-28992.webp"
   },
   {
     "giftId": "22423",
@@ -13258,6 +13456,12 @@
     "name": "Stegers Squad",
     "points": 199,
     "image": "stegers-squad-1320920.webp"
+  },
+  {
+    "giftId": "1317677",
+    "name": "Suga Show",
+    "points": 199,
+    "image": "suga-show-1317677.webp"
   },
   {
     "giftId": "6642",
