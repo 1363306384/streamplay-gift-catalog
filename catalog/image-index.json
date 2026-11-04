@@ -484,6 +484,11 @@
     "sha256": "61a9fd5a4895fa24f412167394f0ac40252ce9ace852bffd94757a9f1f859d5f",
     "bytes": 7210
   },
+  "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/12ea4203e3708e96aa8ba4b33c88cc51.png~tplv-obj.webp": {
+    "path": "images/72f7d79d85ba8bf56f5682841637649d43330b5cbae8824bd2e4785f5ad83d06.webp",
+    "sha256": "72f7d79d85ba8bf56f5682841637649d43330b5cbae8824bd2e4785f5ad83d06",
+    "bytes": 18306
+  },
   "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/1351df201d2481a07a33af2ea06af84f.png~tplv-obj.webp": {
     "path": "images/5959fb3fd85e91e41c62425221c04ac491a860efee471934152e2c8654624832.webp",
     "sha256": "5959fb3fd85e91e41c62425221c04ac491a860efee471934152e2c8654624832",
@@ -1488,6 +1493,11 @@
     "path": "images/f7e19e344b42f98e98b2d229d0ff9933e4bbba46d1f7ab45ebae30d91e50ad69.webp",
     "sha256": "f7e19e344b42f98e98b2d229d0ff9933e4bbba46d1f7ab45ebae30d91e50ad69",
     "bytes": 5026
+  },
+  "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/414ae59dbfccd65af286fa08557af074.png~tplv-obj.webp": {
+    "path": "images/bc28ab1da3a0954bb6a2a22b7d22befa34a151579736cb5275eb9e21a4f9bf16.webp",
+    "sha256": "bc28ab1da3a0954bb6a2a22b7d22befa34a151579736cb5275eb9e21a4f9bf16",
+    "bytes": 3998
   },
   "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/4227bdbc22921d8cdceb3ab14366624d.png~tplv-obj.webp": {
     "path": "images/679f3779a5fc6accccb0e28f5d6694c8d156c58f398a858a0c77d157f8539d97.webp",
@@ -2799,6 +2809,11 @@
     "sha256": "a33b896b49e6cdc1cf9cda17605852e3b99b8fcc1bf3483b237bc5d42e6c3708",
     "bytes": 12098
   },
+  "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/7b1b2a4e9591be527d61c4228d0976d0.png~tplv-obj.webp": {
+    "path": "images/8da5da2b802c058fb8e1492c942fc3d5e6a07769e866ad9b663dde7938b6f2d9.webp",
+    "sha256": "8da5da2b802c058fb8e1492c942fc3d5e6a07769e866ad9b663dde7938b6f2d9",
+    "bytes": 8152
+  },
   "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/7b3f141efe8a943faba19f855a003943.png~tplv-obj.webp": {
     "path": "images/27f2d88c12123020ad68e906d7d93ac43f055319097688f3577779a6200e9a9c.webp",
     "sha256": "27f2d88c12123020ad68e906d7d93ac43f055319097688f3577779a6200e9a9c",
@@ -3163,6 +3178,11 @@
     "path": "images/25faa55c25bc8985bb2a8bac4e178ea6211f6df8f760f3ee0614d269c17e7142.webp",
     "sha256": "25faa55c25bc8985bb2a8bac4e178ea6211f6df8f760f3ee0614d269c17e7142",
     "bytes": 5784
+  },
+  "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/8b714dbafccc6e0725008b05697abfa6.png~tplv-obj.webp": {
+    "path": "images/7bdb09813a09744bd65c23b933396d513cb2acc5a8be7e81fd3d861c7c686227.webp",
+    "sha256": "7bdb09813a09744bd65c23b933396d513cb2acc5a8be7e81fd3d861c7c686227",
+    "bytes": 10220
   },
   "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/8b87bbb88b80a5bf63abb6abcd4fa147.png~tplv-obj.webp": {
     "path": "images/b7f6247aa7c88a7a56d1ca239a59533380ea1f8f9fceb9441a5dd7d3ec968a48.webp",
@@ -6469,6 +6489,11 @@
     "sha256": "0e7fd59317b1d3f1bf2a7dce7d18a09e16b5084cea2918c21190ec975f819ac0",
     "bytes": 93706
   },
+  "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1767829379831_0.e54608283b9c2c9c1f90c6f2153779df.png~tplv-obj.webp": {
+    "path": "images/6683e9f980838266c086d0e1018ce7bdb9de15c57e9bfa2497cf2d73e074519e.webp",
+    "sha256": "6683e9f980838266c086d0e1018ce7bdb9de15c57e9bfa2497cf2d73e074519e",
+    "bytes": 205862
+  },
   "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1767829520001_0.a30b65b6b1bb85c402cd289d5705e28e.png~tplv-obj.webp": {
     "path": "images/343e1d4a118afd749f78b0d618c91e3ff2c5424cf6d22259f1dab3f6b22b9d15.webp",
     "sha256": "343e1d4a118afd749f78b0d618c91e3ff2c5424cf6d22259f1dab3f6b22b9d15",
@@ -7404,6 +7429,11 @@
     "sha256": "e271d0f0d6d211bd9eb5a97c40a67e26bcb4447d17dc89c523e28b9ee7f3d932",
     "bytes": 107526
   },
+  "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768317767041_0.c02593d99550027c08613b6c580f6a01.png~tplv-obj.webp": {
+    "path": "images/dde70105bfb887a7f235a822b563bfd4210866ab3de5ad8fd54e0fd9c2e06e01.webp",
+    "sha256": "dde70105bfb887a7f235a822b563bfd4210866ab3de5ad8fd54e0fd9c2e06e01",
+    "bytes": 89964
+  },
   "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768318893858_0.8f82937a1b3f4cf7da387acd6dc1b55f.png~tplv-obj.webp": {
     "path": "images/81d1d97442e67f719341a342fa9df601f79838c048b30744506037e6fb100246.webp",
     "sha256": "81d1d97442e67f719341a342fa9df601f79838c048b30744506037e6fb100246",
@@ -7528,6 +7558,11 @@
     "path": "images/f58a9f8f10c231f51c1fee4d0f6693470151c200713e309e94c9a80892ebd101.webp",
     "sha256": "f58a9f8f10c231f51c1fee4d0f6693470151c200713e309e94c9a80892ebd101",
     "bytes": 100020
+  },
+  "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768338705357_0.089f558dd57df83eb9f7b3f5d133eee8.png~tplv-obj.webp": {
+    "path": "images/7eadb1f0e393e50e47e1ae1e19a63597b72bab215563de9999b9577d91994e22.webp",
+    "sha256": "7eadb1f0e393e50e47e1ae1e19a63597b72bab215563de9999b9577d91994e22",
+    "bytes": 124258
   },
   "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768339930701_0.b7dcd4b1a2dfde925861f33c2977651b.png~tplv-obj.webp": {
     "path": "images/f374b686301da8e2c9659139ed61db3c889d27707b72dfc54c483326e8fd233f.webp",
@@ -8544,6 +8579,11 @@
     "sha256": "530bae70235dc40f9e6fb3906ac8def8849ec080cb101a8b724763c751dd0760",
     "bytes": 98688
   },
+  "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775708740076_1.a1bdff698f83ff5700ebc1a7128a28fb.png~tplv-obj.webp": {
+    "path": "images/eb4dadd813830713c19925f04704e246b03882ca196acd3df02ee37524ddc94a.webp",
+    "sha256": "eb4dadd813830713c19925f04704e246b03882ca196acd3df02ee37524ddc94a",
+    "bytes": 68078
+  },
   "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1775710440443_0.b061f27c6d7a133566dc52c6673c240c.png~tplv-obj.webp": {
     "path": "images/ad07f1bdb8e2fd7b617de5a3b7d1f678fa1e9fe9e7e8178f5983f37ce5cc1fd0.webp",
     "sha256": "ad07f1bdb8e2fd7b617de5a3b7d1f678fa1e9fe9e7e8178f5983f37ce5cc1fd0",
@@ -8799,6 +8839,11 @@
     "sha256": "b3ee76b28a9afdc0e6238a3d14d40e6e632713f722973ffa74803ec22c3e61cf",
     "bytes": 76150
   },
+  "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776082076342_0.6983e76f7284536cae8fc0529530fc76.png~tplv-obj.webp": {
+    "path": "images/e52c68eaf690341da926fd40470011b475ff47a05e0568b750dffa902390160d.webp",
+    "sha256": "e52c68eaf690341da926fd40470011b475ff47a05e0568b750dffa902390160d",
+    "bytes": 91650
+  },
   "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776082399000_0.99d348568d40e5ec484c9e62843fdf9b.png~tplv-obj.webp": {
     "path": "images/438c3b797d4565c8cbb61da3e50bf5327c67acb7d9312f22efb9d27425613334.webp",
     "sha256": "438c3b797d4565c8cbb61da3e50bf5327c67acb7d9312f22efb9d27425613334",
@@ -8984,6 +9029,11 @@
     "sha256": "106dde4e98b3570d79704ea80278e35aef8cd8b63969ecc8d31eb9244f13aec1",
     "bytes": 95490
   },
+  "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776168950974_1.f48e3719a1a40f1ea0ad5968e0b730a1.png~tplv-obj.webp": {
+    "path": "images/898606a6b5c683099fa7b8c6f54530a8bf43a3634c6a8856ade95dfc2fc98b02.webp",
+    "sha256": "898606a6b5c683099fa7b8c6f54530a8bf43a3634c6a8856ade95dfc2fc98b02",
+    "bytes": 69106
+  },
   "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776171235212_0.ae21bb8b4bcaeffb61e45bda89dbe3d3.png~tplv-obj.webp": {
     "path": "images/3e57d9fe151270a73893a65e430e2d418d16d9ab1aa624641d17e6c5bb258390.webp",
     "sha256": "3e57d9fe151270a73893a65e430e2d418d16d9ab1aa624641d17e6c5bb258390",
@@ -9043,6 +9093,11 @@
     "path": "images/7fa671d3d36d7f99150da7c2c508b1743f3bc7211d0677d20699874a54a8ec96.webp",
     "sha256": "7fa671d3d36d7f99150da7c2c508b1743f3bc7211d0677d20699874a54a8ec96",
     "bytes": 88834
+  },
+  "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776235196228_0.2bf30df59bf8a68b0c12b5ec3cfbb76c.png~tplv-obj.webp": {
+    "path": "images/4d212ede38ff382bf87ac383d82768255a4376cb55c7df4962249619611ae6e9.webp",
+    "sha256": "4d212ede38ff382bf87ac383d82768255a4376cb55c7df4962249619611ae6e9",
+    "bytes": 79496
   },
   "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1776238646629_0.742afc069147fdbf286143f098b6bf9a.png~tplv-obj.webp": {
     "path": "images/d63b3fb7323b003ca6b7a4efd12bb2bd5b1e8365e93978682cf98e3e91b37a82.webp",
@@ -10178,6 +10233,11 @@
     "path": "images/f0cb5cad560a799983a8a6f9f31a783157e6825c34cd32851f455fb410da767d.webp",
     "sha256": "f0cb5cad560a799983a8a6f9f31a783157e6825c34cd32851f455fb410da767d",
     "bytes": 73120
+  },
+  "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1788017674973_0.fa45880f49ac87e9c77f1299f8c9397e.png~tplv-obj.webp": {
+    "path": "images/778104afc506d19a1f1d46a5db2d5fc45bc749d2eb93c9212100d662aa3709f2.webp",
+    "sha256": "778104afc506d19a1f1d46a5db2d5fc45bc749d2eb93c9212100d662aa3709f2",
+    "bytes": 24490
   },
   "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1788056935140_0.4dae89ab17c86ade04485d9684217a34.png~tplv-obj.webp": {
     "path": "images/ba4c281a19811e40424ac8b821ad6d1f1342e2298af0ba9ccbd9adaa33c00281.webp",
