@@ -486,6 +486,12 @@
     "image": "gift-158479.webp"
   },
   {
+    "giftId": "33920",
+    "name": "رنوو الطائي",
+    "points": 1,
+    "image": "gift-33920.webp"
+  },
+  {
     "giftId": "106370",
     "name": "عبدالله",
     "points": 1,
@@ -5688,6 +5694,12 @@
     "image": "ana-diamant-22718.webp"
   },
   {
+    "giftId": "45445",
+    "name": "Ana în Dungi",
+    "points": 1,
+    "image": "ana-in-dungi-45445.webp"
+  },
+  {
     "giftId": "49214",
     "name": "Anaïs Diamant",
     "points": 1,
@@ -6778,6 +6790,18 @@
     "name": "Drips Drop",
     "points": 1,
     "image": "drips-drop-1433608.webp"
+  },
+  {
+    "giftId": "158683",
+    "name": "Drsňák Loupák",
+    "points": 1,
+    "image": "drsnak-loupak-158683.webp"
+  },
+  {
+    "giftId": "33522",
+    "name": "Dudinha Lilás",
+    "points": 1,
+    "image": "dudinha-lilas-33522.webp"
   },
   {
     "giftId": "53971",
@@ -8004,6 +8028,12 @@
     "image": "lord-donut-48541.webp"
   },
   {
+    "giftId": "390477",
+    "name": "Loulou",
+    "points": 1,
+    "image": "loulou-390477.webp"
+  },
+  {
     "giftId": "351728",
     "name": "Loup en Live",
     "points": 1,
@@ -8026,6 +8056,12 @@
     "name": "LOVLLYGIRL",
     "points": 1,
     "image": "lovllygirl-550033.webp"
+  },
+  {
+    "giftId": "1496680",
+    "name": "Luiss Glow",
+    "points": 1,
+    "image": "luiss-glow-1496680.webp"
   },
   {
     "giftId": "1319946",
@@ -9912,6 +9948,12 @@
     "image": "teameri-105340.webp"
   },
   {
+    "giftId": "125807",
+    "name": "TeamJuppTornado",
+    "points": 1,
+    "image": "teamjupptornado-125807.webp"
+  },
+  {
     "giftId": "45195",
     "name": "TeamOrly Loyale",
     "points": 1,
@@ -10534,6 +10576,12 @@
     "name": "Розовый привет",
     "points": 1,
     "image": "gift-81459.webp"
+  },
+  {
+    "giftId": "107375",
+    "name": "Розы Алины",
+    "points": 1,
+    "image": "gift-107375.webp"
   },
   {
     "giftId": "63138",
