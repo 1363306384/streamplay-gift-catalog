@@ -546,6 +546,12 @@
     "image": "gift-24807.webp"
   },
   {
+    "giftId": "210754",
+    "name": "نودي",
+    "points": 1,
+    "image": "gift-210754.webp"
+  },
+  {
     "giftId": "147857",
     "name": "نوره الحمراء",
     "points": 1,
@@ -5544,6 +5550,12 @@
     "image": "abbielou-wolf-44528.webp"
   },
   {
+    "giftId": "44017",
+    "name": "Abejitas Lila",
+    "points": 1,
+    "image": "abejitas-lila-44017.webp"
+  },
+  {
     "giftId": "339052",
     "name": "Abuelo Brillante",
     "points": 1,
@@ -6930,6 +6942,12 @@
     "image": "fairy-wings-9463.webp"
   },
   {
+    "giftId": "30208",
+    "name": "FajlONik",
+    "points": 1,
+    "image": "fajlonik-30208.webp"
+  },
+  {
     "giftId": "1480044",
     "name": "Falafel",
     "points": 1,
@@ -8014,6 +8032,12 @@
     "name": "Lobo Blanco",
     "points": 1,
     "image": "lobo-blanco-38375.webp"
+  },
+  {
+    "giftId": "34379",
+    "name": "Lobo Carismático",
+    "points": 1,
+    "image": "lobo-carismatico-34379.webp"
   },
   {
     "giftId": "1311680",
@@ -10630,6 +10654,12 @@
     "name": "الأسطورة",
     "points": 1,
     "image": "gift-1284135.webp"
+  },
+  {
+    "giftId": "39208",
+    "name": "الزعيمة ضحى",
+    "points": 1,
+    "image": "gift-39208.webp"
   },
   {
     "giftId": "205232",
