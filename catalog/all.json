@@ -18120,6 +18120,12 @@
     "image": "heart-balloon-17336.webp"
   },
   {
+    "giftId": "13052",
+    "name": "Houdini",
+    "points": 2999,
+    "image": "houdini-13052.webp"
+  },
+  {
     "giftId": "15645",
     "name": "LIVE Ranking Medal",
     "points": 2999,
@@ -18682,6 +18688,12 @@
     "name": "Seaside Romance",
     "points": 5000,
     "image": "seaside-romance-519145.webp"
+  },
+  {
+    "giftId": "1505707",
+    "name": "Silver Sports Car",
+    "points": 5000,
+    "image": "silver-sports-car-1505707.webp"
   },
   {
     "giftId": "1189578",
@@ -19390,6 +19402,12 @@
     "name": "Community Support",
     "points": 15000,
     "image": "community-support-14690.webp"
+  },
+  {
+    "giftId": "12828",
+    "name": "Diamond Stage",
+    "points": 15000,
+    "image": "diamond-stage-12828.webp"
   },
   {
     "giftId": "165844",

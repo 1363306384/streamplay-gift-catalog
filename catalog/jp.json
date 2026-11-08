@@ -20226,6 +20226,14 @@
   },
   {
     "giftIds": [
+      "13052"
+    ],
+    "name": "Houdini",
+    "points": 2999,
+    "image": "houdini-13052.webp"
+  },
+  {
+    "giftIds": [
       "15645"
     ],
     "name": "LIVE Ranking Medal",
@@ -20719,6 +20727,14 @@
     "name": "Scarecrow",
     "points": 5000,
     "image": "scarecrow-1447385.webp"
+  },
+  {
+    "giftIds": [
+      "1505707"
+    ],
+    "name": "Silver Sports Car",
+    "points": 5000,
+    "image": "silver-sports-car-1505707.webp"
   },
   {
     "giftIds": [
@@ -21508,7 +21524,8 @@
   },
   {
     "giftIds": [
-      "12217"
+      "12217",
+      "12828"
     ],
     "name": "Diamond Stage",
     "points": 15000,

@@ -6380,6 +6380,16 @@
     "source": "tiktools"
   },
   {
+    "giftId": "12828",
+    "name": "Diamond Stage",
+    "points": 15000,
+    "priceKnown": true,
+    "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/765f9a3747b34a37004b4131f2bd92be118d5d3f2b9ceb7eb7712087e8234d0d.webp",
+    "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/765f9a3747b34a37004b4131f2bd92be118d5d3f2b9ceb7eb7712087e8234d0d.webp",
+    "active": true,
+    "source": "tiktools"
+  },
+  {
     "giftId": "12843",
     "name": "Pumpkin Pie",
     "points": 5,
@@ -6666,6 +6676,16 @@
     "priceKnown": true,
     "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/3dcbea20d44e90c25b0e59623c965027635641034190914f5edadb780defae36.webp",
     "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/3dcbea20d44e90c25b0e59623c965027635641034190914f5edadb780defae36.webp",
+    "active": true,
+    "source": "tiktools"
+  },
+  {
+    "giftId": "13052",
+    "name": "Houdini",
+    "points": 2999,
+    "priceKnown": true,
+    "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/df63ad72d72de40f3b8662ad2b8be07abfdef146bdc3a36453b923156bf82454.webp",
+    "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/df63ad72d72de40f3b8662ad2b8be07abfdef146bdc3a36453b923156bf82454.webp",
     "active": true,
     "source": "tiktools"
   },
@@ -15916,7 +15936,7 @@
     "priceKnown": true,
     "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/32a79237fa2663130cab0f6aa973e533c1da6853959ecfbd61e69f379436c6ad.webp",
     "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/32a79237fa2663130cab0f6aa973e533c1da6853959ecfbd61e69f379436c6ad.webp",
-    "active": false,
+    "active": true,
     "source": "tiktools"
   },
   {
@@ -16506,7 +16526,7 @@
     "priceKnown": true,
     "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/3b80fdfa3caa440bc9136e95e22bb58af11d8e0b1e27f73bb142dc3e39939204.webp",
     "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/3b80fdfa3caa440bc9136e95e22bb58af11d8e0b1e27f73bb142dc3e39939204.webp",
-    "active": true,
+    "active": false,
     "source": "tiktools"
   },
   {
@@ -22776,7 +22796,7 @@
     "priceKnown": true,
     "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/ad1db70be6da2f88f73401e8a6a76adb18f42f50b66a0b64f464272bab2798eb.webp",
     "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/ad1db70be6da2f88f73401e8a6a76adb18f42f50b66a0b64f464272bab2798eb.webp",
-    "active": true,
+    "active": false,
     "source": "tiktools"
   },
   {
@@ -24496,7 +24516,7 @@
     "priceKnown": true,
     "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/5590325fe5ccd0d3949bd0b1e1cbeeb99996836527e1ef46475aabcd4e69bace.webp",
     "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/5590325fe5ccd0d3949bd0b1e1cbeeb99996836527e1ef46475aabcd4e69bace.webp",
-    "active": true,
+    "active": false,
     "source": "tiktools"
   },
   {
@@ -33066,7 +33086,7 @@
     "priceKnown": true,
     "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/898606a6b5c683099fa7b8c6f54530a8bf43a3634c6a8856ade95dfc2fc98b02.webp",
     "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/898606a6b5c683099fa7b8c6f54530a8bf43a3634c6a8856ade95dfc2fc98b02.webp",
-    "active": false,
+    "active": true,
     "source": "tiktools"
   },
   {
@@ -33106,6 +33126,16 @@
     "priceKnown": true,
     "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/d3e39cb25ae640bfb848eedcb7c0ef3ad027a315c947ace1c50d6ed41a77dbf5.webp",
     "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/d3e39cb25ae640bfb848eedcb7c0ef3ad027a315c947ace1c50d6ed41a77dbf5.webp",
+    "active": true,
+    "source": "tiktools"
+  },
+  {
+    "giftId": "1505707",
+    "name": "Silver Sports Car",
+    "points": 5000,
+    "priceKnown": true,
+    "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/a22fb4cb86a91cc6475ebe95d8c86d17096f139e5c24c074732e3ca331f13216.webp",
+    "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/a22fb4cb86a91cc6475ebe95d8c86d17096f139e5c24c074732e3ca331f13216.webp",
     "active": true,
     "source": "tiktools"
   }
