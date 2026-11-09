@@ -8712,6 +8712,12 @@
     "image": "ninja-wave-1203448.webp"
   },
   {
+    "giftId": "37741",
+    "name": "NINNINパクハ",
+    "points": 1,
+    "image": "ninnin-37741.webp"
+  },
+  {
     "giftId": "283069",
     "name": "Noah Flex",
     "points": 1,
@@ -11442,6 +11448,12 @@
     "image": "gift-32748.webp"
   },
   {
+    "giftId": "42394",
+    "name": "うみスマイル",
+    "points": 1,
+    "image": "gift-42394.webp"
+  },
+  {
     "giftId": "29869",
     "name": "お嬢",
     "points": 1,
@@ -11482,6 +11494,12 @@
     "name": "ヒョウ柄スマイル",
     "points": 1,
     "image": "gift-22435.webp"
+  },
+  {
+    "giftId": "24548",
+    "name": "ヒョンソクチェック",
+    "points": 1,
+    "image": "gift-24548.webp"
   },
   {
     "giftId": "23858",
@@ -13876,6 +13894,12 @@
     "name": "Night Star",
     "points": 199,
     "image": "night-star-18359.webp"
+  },
+  {
+    "giftId": "1324929",
+    "name": "NINNIN",
+    "points": 199,
+    "image": "ninnin-1324929.webp"
   },
   {
     "giftId": "1338391",

@@ -11689,6 +11689,14 @@
   },
   {
     "giftIds": [
+      "37741"
+    ],
+    "name": "NINNINパクハ",
+    "points": 1,
+    "image": "ninnin-37741.webp"
+  },
+  {
+    "giftIds": [
       "283069"
     ],
     "name": "Noah Flex",
@@ -15271,6 +15279,14 @@
   },
   {
     "giftIds": [
+      "42394"
+    ],
+    "name": "うみスマイル",
+    "points": 1,
+    "image": "gift-42394.webp"
+  },
+  {
+    "giftIds": [
       "29869"
     ],
     "name": "お嬢",
@@ -15324,6 +15340,14 @@
     "name": "ヒョウ柄スマイル",
     "points": 1,
     "image": "gift-22435.webp"
+  },
+  {
+    "giftIds": [
+      "24548"
+    ],
+    "name": "ヒョンソクチェック",
+    "points": 1,
+    "image": "gift-24548.webp"
   },
   {
     "giftIds": [
@@ -17507,6 +17531,14 @@
     "name": "Nakamachi Pirate",
     "points": 199,
     "image": "nakamachi-pirate-1339699.webp"
+  },
+  {
+    "giftIds": [
+      "1324929"
+    ],
+    "name": "NINNIN",
+    "points": 199,
+    "image": "ninnin-1324929.webp"
   },
   {
     "giftIds": [
