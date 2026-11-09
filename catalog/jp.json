@@ -651,6 +651,14 @@
   },
   {
     "giftIds": [
+      "32254"
+    ],
+    "name": "白黒の悪魔",
+    "points": 1,
+    "image": "gift-32254.webp"
+  },
+  {
+    "giftIds": [
       "1213343"
     ],
     "name": "純平大先生",
@@ -1220,6 +1228,14 @@
   },
   {
     "giftIds": [
+      "1481334"
+    ],
+    "name": "Giftstar Christmas",
+    "points": 25,
+    "image": "giftstar-christmas-1481334.webp"
+  },
+  {
+    "giftIds": [
       "5780"
     ],
     "name": "Bouquet Flower",
@@ -1680,6 +1696,14 @@
     "name": "Power Chip",
     "points": 100,
     "image": "power-chip-59317.webp"
+  },
+  {
+    "giftIds": [
+      "1481335"
+    ],
+    "name": "Pride Ministar",
+    "points": 100,
+    "image": "pride-ministar-1481335.webp"
   },
   {
     "giftIds": [
@@ -2180,6 +2204,14 @@
     "name": "Talking Heartbeat",
     "points": 199,
     "image": "talking-heartbeat-919320.webp"
+  },
+  {
+    "giftIds": [
+      "1337880"
+    ],
+    "name": "お世話係",
+    "points": 199,
+    "image": "gift-1337880.webp"
   },
   {
     "giftIds": [
@@ -4417,6 +4449,14 @@
   },
   {
     "giftIds": [
+      "13009"
+    ],
+    "name": "Gift Rain",
+    "points": 550,
+    "image": "gift-rain-13009.webp"
+  },
+  {
+    "giftIds": [
       "739764"
     ],
     "name": "Purrfect Pitch",
@@ -4566,6 +4606,14 @@
     "name": "Love Flight",
     "points": 800,
     "image": "love-flight-19133.webp"
+  },
+  {
+    "giftIds": [
+      "18112"
+    ],
+    "name": "Snowman",
+    "points": 800,
+    "image": "snowman-18112.webp"
   },
   {
     "giftIds": [
@@ -5137,6 +5185,14 @@
   },
   {
     "giftIds": [
+      "18208"
+    ],
+    "name": "Costumey Christmas",
+    "points": 1500,
+    "image": "costumey-christmas-18208.webp"
+  },
+  {
+    "giftIds": [
       "10668"
     ],
     "name": "Future Encounter",
@@ -5477,6 +5533,14 @@
     "name": "Sage's Coinbot",
     "points": 2199,
     "image": "sage-s-coinbot-14791.webp"
+  },
+  {
+    "giftIds": [
+      "18258"
+    ],
+    "name": "Santa’s House",
+    "points": 2200,
+    "image": "santa-s-house-18258.webp"
   },
   {
     "giftIds": [
@@ -10767,9 +10831,9 @@
     "giftIds": [
       "1319946"
     ],
-    "name": "Luna Cuki",
+    "name": "Luna Póz",
     "points": 1,
-    "image": "luna-cuki-1319946.webp"
+    "image": "luna-poz-1319946.webp"
   },
   {
     "giftIds": [
@@ -14299,6 +14363,14 @@
     "name": "سردار اسکواڈ",
     "points": 1,
     "image": "gift-233546.webp"
+  },
+  {
+    "giftIds": [
+      "25037"
+    ],
+    "name": "صقر الدخلي",
+    "points": 1,
+    "image": "gift-25037.webp"
   },
   {
     "giftIds": [

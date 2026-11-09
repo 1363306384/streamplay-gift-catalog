@@ -498,6 +498,12 @@
     "image": "gift-33920.webp"
   },
   {
+    "giftId": "25037",
+    "name": "صقر الدخلي",
+    "points": 1,
+    "image": "gift-25037.webp"
+  },
+  {
     "giftId": "106370",
     "name": "عبدالله",
     "points": 1,
@@ -8113,9 +8119,9 @@
   },
   {
     "giftId": "1319946",
-    "name": "Luna Cuki",
+    "name": "Luna Póz",
     "points": 1,
-    "image": "luna-cuki-1319946.webp"
+    "image": "luna-poz-1319946.webp"
   },
   {
     "giftId": "179437",
@@ -11544,6 +11550,12 @@
     "image": "gift-20474.webp"
   },
   {
+    "giftId": "32254",
+    "name": "白黒の悪魔",
+    "points": 1,
+    "image": "gift-32254.webp"
+  },
+  {
     "giftId": "1213343",
     "name": "純平大先生",
     "points": 1,
@@ -12402,6 +12414,12 @@
     "image": "gamer-press-start-1062858.webp"
   },
   {
+    "giftId": "1481334",
+    "name": "Giftstar Christmas",
+    "points": 25,
+    "image": "giftstar-christmas-1481334.webp"
+  },
+  {
     "giftId": "1236200",
     "name": "Spotlight",
     "points": 25,
@@ -13042,6 +13060,12 @@
     "name": "Music Bubbles",
     "points": 100,
     "image": "music-bubbles-1137988.webp"
+  },
+  {
+    "giftId": "1481335",
+    "name": "Pride Ministar",
+    "points": 100,
+    "image": "pride-ministar-1481335.webp"
   },
   {
     "giftId": "16062",
@@ -14278,6 +14302,12 @@
     "name": "Wooly Hat",
     "points": 199,
     "image": "wooly-hat-13739.webp"
+  },
+  {
+    "giftId": "1337880",
+    "name": "お世話係",
+    "points": 199,
+    "image": "gift-1337880.webp"
   },
   {
     "giftId": "1343337",
@@ -16422,6 +16452,12 @@
     "image": "money-magnet-64130.webp"
   },
   {
+    "giftId": "13009",
+    "name": "Gift Rain",
+    "points": 550,
+    "image": "gift-rain-13009.webp"
+  },
+  {
     "giftId": "1272112",
     "name": "fruit Treasure Box",
     "points": 599,
@@ -16600,6 +16636,12 @@
     "name": "Claw machine",
     "points": 800,
     "image": "claw-machine-14725.webp"
+  },
+  {
+    "giftId": "18112",
+    "name": "Snowman",
+    "points": 800,
+    "image": "snowman-18112.webp"
   },
   {
     "giftId": "13175",
@@ -17394,6 +17436,12 @@
     "image": "cherry-blossoms-12464.webp"
   },
   {
+    "giftId": "18208",
+    "name": "Costumey Christmas",
+    "points": 1500,
+    "image": "costumey-christmas-18208.webp"
+  },
+  {
     "giftId": "7367",
     "name": "Diamond Ring",
     "points": 1500,
@@ -17896,6 +17944,12 @@
     "name": "Romanian train",
     "points": 2200,
     "image": "romanian-train-10567.webp"
+  },
+  {
+    "giftId": "18258",
+    "name": "Santa’s House",
+    "points": 2200,
+    "image": "santa-s-house-18258.webp"
   },
   {
     "giftId": "17386",
