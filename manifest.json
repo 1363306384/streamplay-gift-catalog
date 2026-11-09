@@ -1,18 +1,18 @@
 {
   "schemaVersion": 2,
-  "version": 32,
-  "updatedAt": "2026-11-08T22:16:07.033Z",
+  "version": 33,
+  "updatedAt": "2026-11-09T06:52:30.646Z",
   "scope": "worldwide-reference",
   "catalog": {
     "path": "catalog/all.json",
-    "count": 3314,
-    "sha256": "0c0b1e708a4dcf364b0650cc4458a813126b3f6f4836e7368b3ef2952e1feed5"
+    "count": 3327,
+    "sha256": "cd725df3c845bd68ac97c5bfb6369b0729c4a9e3a73ffad8b838de72cc73034d"
   },
   "regions": {},
   "sources": {
     "tiktools": {
       "endpoint": "https://api.tik.tools/webcast/gift_info",
-      "count": 3300
+      "count": 3310
     },
     "legacy": {
       "retainedOnly": 1,
@@ -23,26 +23,26 @@
     "hosting": "github",
     "baseUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/",
     "directory": "images/",
-    "count": 2631,
-    "totalBytes": 112565588,
+    "count": 2642,
+    "totalBytes": 113160878,
     "index": {
       "path": "catalog/image-index.json",
-      "sha256": "552132b5fcd5ef95c2324783d740baa81deb8f136d3a0252b566e00185ec83e8"
+      "sha256": "29b40278adef30a04b9f52cd8587f20bd487f1aa7289b738e76d802337d8d822"
     },
     "publicBaseUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/",
-    "publicFileCount": 3314
+    "publicFileCount": 3327
   },
   "ordering": {
     "path": "catalog/priority/ae.json",
-    "sha256": "13c7437b0561fb9b82748e496cf59998d5bbb3177aef5cfeddf1994f66719928",
+    "sha256": "e758d643f05a7e6d63e56ccb4e4ee989e3b778b86939dbdb8ef4a1d3c72a5d4f",
     "regions": [
       "AE"
     ],
-    "priorityCount": 920,
+    "priorityCount": 921,
     "withinGroup": "price-then-name"
   },
   "details": {
     "path": "catalog/details.json",
-    "sha256": "abe6387c06a2d2a242548f5d7d30b501ce040fb408370ce4ff0e61646fac1a15"
+    "sha256": "f8e8952ed3e11e32a5b62a02d7678aa2ccfe6e90ee5fa9881056c9199c4f39a9"
   }
 }

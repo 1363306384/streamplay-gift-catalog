@@ -432,6 +432,12 @@
     "image": "gift-39220.webp"
   },
   {
+    "giftId": "197418",
+    "name": "أوش",
+    "points": 1,
+    "image": "gift-197418.webp"
+  },
+  {
     "giftId": "884244",
     "name": "إجرامي",
     "points": 1,
@@ -5598,6 +5604,12 @@
     "image": "agatinha-meow-126775.webp"
   },
   {
+    "giftId": "1417798",
+    "name": "Agatkowe Serce",
+    "points": 1,
+    "image": "agatkowe-serce-1417798.webp"
+  },
+  {
     "giftId": "1016324",
     "name": "Agula",
     "points": 1,
@@ -8226,6 +8238,12 @@
     "image": "maple-leaf-947618.webp"
   },
   {
+    "giftId": "109160",
+    "name": "Mar Energy",
+    "points": 1,
+    "image": "mar-energy-109160.webp"
+  },
+  {
     "giftId": "7032",
     "name": "Maracas",
     "points": 1,
@@ -9370,6 +9388,12 @@
     "name": "Saemyou",
     "points": 1,
     "image": "saemyou-381537.webp"
+  },
+  {
+    "giftId": "42272",
+    "name": "Said Kralj",
+    "points": 1,
+    "image": "said-kralj-42272.webp"
   },
   {
     "giftId": "26144",
@@ -11466,6 +11490,12 @@
     "image": "gift-28992.webp"
   },
   {
+    "giftId": "20517",
+    "name": "みーたんママ",
+    "points": 1,
+    "image": "gift-20517.webp"
+  },
+  {
     "giftId": "22423",
     "name": "ミントぶぅちゃん",
     "points": 1,
@@ -12106,6 +12136,12 @@
     "name": "Pier Popsicle",
     "points": 10,
     "image": "pier-popsicle-666260.webp"
+  },
+  {
+    "giftId": "1487485",
+    "name": "PK Cheer bump",
+    "points": 10,
+    "image": "pk-cheer-bump-1487485.webp"
   },
   {
     "giftId": "11919",
@@ -13632,6 +13668,12 @@
     "image": "love-rain-14047.webp"
   },
   {
+    "giftId": "1341630",
+    "name": "marbiez",
+    "points": 199,
+    "image": "marbiez-1341630.webp"
+  },
+  {
     "giftId": "1322112",
     "name": "MB ON TOP",
     "points": 199,
@@ -14238,6 +14280,12 @@
     "image": "wooly-hat-13739.webp"
   },
   {
+    "giftId": "1343337",
+    "name": "たんﾁｬﾝ族",
+    "points": 199,
+    "image": "gift-1343337.webp"
+  },
+  {
     "giftId": "1335430",
     "name": "最強ちょり軍団",
     "points": 199,
@@ -14530,6 +14578,12 @@
     "name": "Midsummer Hair",
     "points": 249,
     "image": "midsummer-hair-16924.webp"
+  },
+  {
+    "giftId": "1487486",
+    "name": "PK Paw Bump",
+    "points": 249,
+    "image": "pk-paw-bump-1487486.webp"
   },
   {
     "giftId": "16467",
@@ -16224,6 +16278,12 @@
     "image": "snake-manifesting-24797.webp"
   },
   {
+    "giftId": "1487487",
+    "name": "Spark Ring Fire",
+    "points": 500,
+    "image": "spark-ring-fire-1487487.webp"
+  },
+  {
     "giftId": "13167",
     "name": "Star Map Polaris",
     "points": 500,
@@ -17356,6 +17416,12 @@
     "name": "Galaxy Globe",
     "points": 1500,
     "image": "galaxy-globe-15649.webp"
+  },
+  {
+    "giftId": "58592",
+    "name": "Galaxy Globe",
+    "points": 1500,
+    "image": "galaxy-globe-58592.webp"
   },
   {
     "giftId": "9043",
@@ -18636,6 +18702,12 @@
     "image": "gamer-s-eve-13407.webp"
   },
   {
+    "giftId": "1487488",
+    "name": "League Cup",
+    "points": 5000,
+    "image": "league-cup-1487488.webp"
+  },
+  {
     "giftId": "15680",
     "name": "LIVE on holiday",
     "points": 5000,
@@ -19372,6 +19444,12 @@
     "name": "Arabian Cheetah",
     "points": 15000,
     "image": "arabian-cheetah-1124954.webp"
+  },
+  {
+    "giftId": "1487490",
+    "name": "Arabian Cheetah",
+    "points": 15000,
+    "image": "arabian-cheetah-1487490.webp"
   },
   {
     "giftId": "47644",

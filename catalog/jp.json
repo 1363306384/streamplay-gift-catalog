@@ -595,6 +595,14 @@
   },
   {
     "giftIds": [
+      "20517"
+    ],
+    "name": "みーたんママ",
+    "points": 1,
+    "image": "gift-20517.webp"
+  },
+  {
+    "giftIds": [
       "22423"
     ],
     "name": "ミントぶぅちゃん",
@@ -1000,6 +1008,14 @@
     "name": "Nebaarukun",
     "points": 10,
     "image": "nebaarukun-14463.webp"
+  },
+  {
+    "giftIds": [
+      "1487485"
+    ],
+    "name": "PK Cheer bump",
+    "points": 10,
+    "image": "pk-cheer-bump-1487485.webp"
   },
   {
     "giftIds": [
@@ -2167,6 +2183,14 @@
   },
   {
     "giftIds": [
+      "1343337"
+    ],
+    "name": "たんﾁｬﾝ族",
+    "points": 199,
+    "image": "gift-1343337.webp"
+  },
+  {
+    "giftIds": [
       "1335430"
     ],
     "name": "最強ちょり軍団",
@@ -2357,6 +2381,14 @@
     "name": "Pinch Face",
     "points": 249,
     "image": "pinch-face-10547.webp"
+  },
+  {
+    "giftIds": [
+      "1487486"
+    ],
+    "name": "PK Paw Bump",
+    "points": 249,
+    "image": "pk-paw-bump-1487486.webp"
   },
   {
     "giftIds": [
@@ -4291,6 +4323,14 @@
   },
   {
     "giftIds": [
+      "1487487"
+    ],
+    "name": "Spark Ring Fire",
+    "points": 500,
+    "image": "spark-ring-fire-1487487.webp"
+  },
+  {
+    "giftIds": [
       "13444",
       "13167",
       "13174",
@@ -5102,6 +5142,16 @@
     "name": "Future Encounter",
     "points": 1500,
     "image": "future-encounter-10668.webp"
+  },
+  {
+    "giftIds": [
+      "58592",
+      "14210",
+      "15649"
+    ],
+    "name": "Galaxy Globe",
+    "points": 1500,
+    "image": "galaxy-globe-58592.webp"
   },
   {
     "giftIds": [
@@ -6083,6 +6133,14 @@
   },
   {
     "giftIds": [
+      "1487488"
+    ],
+    "name": "League Cup",
+    "points": 5000,
+    "image": "league-cup-1487488.webp"
+  },
+  {
+    "giftIds": [
       "19071"
     ],
     "name": "League Fandom",
@@ -6703,6 +6761,7 @@
   {
     "giftIds": [
       "53761",
+      "1487490",
       "1124954"
     ],
     "name": "Arabian Cheetah",
@@ -7401,6 +7460,14 @@
     "name": "Agatinha meow",
     "points": 1,
     "image": "agatinha-meow-126775.webp"
+  },
+  {
+    "giftIds": [
+      "1417798"
+    ],
+    "name": "Agatkowe Serce",
+    "points": 1,
+    "image": "agatkowe-serce-1417798.webp"
   },
   {
     "giftIds": [
@@ -10842,6 +10909,14 @@
   },
   {
     "giftIds": [
+      "109160"
+    ],
+    "name": "Mar Energy",
+    "points": 1,
+    "image": "mar-energy-109160.webp"
+  },
+  {
+    "giftIds": [
       "7032"
     ],
     "name": "Maracas",
@@ -12325,6 +12400,14 @@
     "name": "Saemyou",
     "points": 1,
     "image": "saemyou-381537.webp"
+  },
+  {
+    "giftIds": [
+      "42272"
+    ],
+    "name": "Said Kralj",
+    "points": 1,
+    "image": "said-kralj-42272.webp"
   },
   {
     "giftIds": [
@@ -14040,6 +14123,14 @@
     "name": "أناقة الذهب",
     "points": 1,
     "image": "gift-39220.webp"
+  },
+  {
+    "giftIds": [
+      "197418"
+    ],
+    "name": "أوش",
+    "points": 1,
+    "image": "gift-197418.webp"
   },
   {
     "giftIds": [
@@ -17293,6 +17384,14 @@
   },
   {
     "giftIds": [
+      "1341630"
+    ],
+    "name": "marbiez",
+    "points": 199,
+    "image": "marbiez-1341630.webp"
+  },
+  {
+    "giftIds": [
       "1322112"
     ],
     "name": "MB ON TOP",
@@ -19631,15 +19730,6 @@
     "name": "EWC Trophy",
     "points": 1500,
     "image": "ewc-trophy-11058.webp"
-  },
-  {
-    "giftIds": [
-      "14210",
-      "15649"
-    ],
-    "name": "Galaxy Globe",
-    "points": 1500,
-    "image": "galaxy-globe-14210.webp"
   },
   {
     "giftIds": [
