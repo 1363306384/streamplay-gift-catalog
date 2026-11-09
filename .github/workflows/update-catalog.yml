@@ -53,7 +53,8 @@ jobs:
         env:
           TIKTOOLS_API_KEY: ${{ secrets.TIKTOOLS_API_KEY }}
         run: |
-          echo "GIFT_CATALOG_BASE_VERSION=$(node -p "require('./manifest.json').version")" >> "$GITHUB_ENV"
+          catalog_base_version=$(node -p "require('./manifest.json').version")
+          echo "GIFT_CATALOG_BASE_VERSION=$catalog_base_version" >> "$GITHUB_ENV"
           npm run sync
 
       - name: Generate the Studio index and grouped AE and JP catalogs
@@ -87,6 +88,7 @@ jobs:
         if: ${{ !inputs.dry_run }}
         run: |
           git add catalog/all.json catalog/details.json catalog/image-index.json catalog/priority/ae.json catalog/ae.json catalog/jp.json catalog/studio.json manifest.json images/
+          git diff --cached --check
           if git diff --cached --quiet; then
             echo 'Catalog unchanged; no commit needed.'
             exit 0

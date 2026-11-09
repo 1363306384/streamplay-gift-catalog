@@ -36,7 +36,10 @@ npm run validate
 # 镜像现有目录的图片，无需供应商 Key：
 npm run images:mirror
 # 通过 shell 环境或 CI Secrets 提供 TIKTOOLS_API_KEY，再运行：
+catalog_base_version=$(node -p "require('./manifest.json').version")
 npm run sync
+GIFT_CATALOG_BASE_VERSION="$catalog_base_version" node scripts/regional-catalogs.mjs
+npm run validate -- --require-studio-catalog
 ```
 
 脚本不会读取 `.env` 文件。不要在命令文本、日志或仓库中粘贴真实 Key。初次迁移可执行 `npm run sync -- --bootstrap-legacy`，仅在尚无本地目录时读取原 `updates.devkit.sh` JSON；之后更新只使用 TikTools 和自己的现有目录。
@@ -82,11 +85,4 @@ Each entry has `giftIds` (an array, including single-ID groups), `name`, `points
 
 The six-hour update workflow regenerates these exports after the normal catalog sync. It also publishes `catalog/studio.json`, a compact index for clients using `catalog/all.json` as their source of gift data. The index contains the canonical groups ordered by price, name, and ID, and two lists of IDs observed in the AE and JP panels. Only observed IDs present in the full catalog are included. The workflow validates the index, regional exports and checksums together, and publishes them with `manifest.studioCatalog` in one commit. Existing clients can continue using the grouped regional exports.
 
-When refreshing the whole publication manually, save the original manifest version, run the full sync, then generate and validate the Studio index. The saved version keeps a combined update to one manifest revision.
-
-```sh
-catalog_base_version=$(node -p "require('./manifest.json').version")
-npm run sync
-GIFT_CATALOG_BASE_VERSION="$catalog_base_version" node scripts/regional-catalogs.mjs
-npm run validate -- --require-studio-catalog
-```
+The original manifest version in the manual sync commands keeps a combined update to one manifest revision.

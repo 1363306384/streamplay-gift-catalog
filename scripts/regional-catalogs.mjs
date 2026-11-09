@@ -48,34 +48,54 @@ async function main() {
   else {
     const key=process.env.TIKTOOLS_API_KEY?.trim();
     if(!key) throw new Error('Configure catalog provider credential');
-    regions=await Promise.all(countries.map(async country=>{
-      const response=await fetch(`https://api.tik.tools/webcast/gifts_by_country?country=${country}`,{headers:{'x-api-key':key},redirect:'error',signal:AbortSignal.timeout(20000)});
-      if(!response.ok) throw new Error('Regional catalog unavailable');
-      const payload=await response.json();
-      if(payload.error||payload.success===false||(payload.status_code!==undefined&&String(payload.status_code)!=='0')||payload.is_sample||payload.data?.is_sample||payload.source==='sample'||payload.data?.source==='sample'||(payload.country??payload.data?.country)!==country) throw new Error('Regional catalog invalid');
-      return {country,valid:true,gifts:payload.data?.gifts};
+    regions = await Promise.all(countries.map(async country => {
+      const response = await fetch(`https://api.tik.tools/webcast/gifts_by_country?country=${country}`, {
+        headers: { 'x-api-key': key }, redirect: 'error', signal: AbortSignal.timeout(20000)
+      });
+      if (!response.ok) throw new Error('Regional catalog unavailable');
+      const payload = await response.json();
+      if (!payload || payload.error || payload.success === false ||
+          (payload.status_code !== undefined && String(payload.status_code) !== '0') ||
+          payload.is_sample || payload.data?.is_sample || payload.source === 'sample' ||
+          payload.data?.source === 'sample' || (payload.country ?? payload.data?.country) !== country) {
+        throw new Error('Regional catalog invalid');
+      }
+      return { country, valid: true, gifts: payload.data?.gifts };
     }));
   }
   const observedIds = {};
-  for(const country of countries) {
-    const region=regions.find(r=>r.country===country);
-    if(!region?.valid||!Array.isArray(region.gifts)||!region.gifts.length||region.gifts.length>20000) throw new Error('Regional catalog missing');
-    observedIds[country] = region.gifts.map(gift => id(gift?.id ?? gift?.giftId));
+  for (const country of countries) {
+    const region = regions.find(entry => entry?.country === country);
+    if (!region?.valid || !Array.isArray(region.gifts) || !region.gifts.length || region.gifts.length > 20000) {
+      throw new Error('Regional catalog missing');
+    }
+    observedIds[country] = region.gifts.map(gift => {
+      const value = gift?.id ?? gift?.giftId;
+      return typeof value === 'number' || typeof value === 'string' ? id(value) : null;
+    });
   }
   const studio = studioCatalog(gifts, hashes, observedIds);
   const outputs = [];
-  for(const country of countries) {
-    const grouped=groupedCatalog(gifts,hashes,studio.regions[country]), flattened=grouped.flatMap(g=>g.giftIds);
-    if(flattened.length!==gifts.length||new Set(flattened).size!==gifts.length) throw new Error('Regional export lost gift IDs');
-    outputs.push([`catalog/${country.toLowerCase()}.json`,serialize(grouped)]);
-    console.log(JSON.stringify({country,cards:grouped.length,giftIds:flattened.length,priorityIds:studio.regions[country].length,regionalIdsOutsideBase:new Set(observedIds[country].filter(id=>!hashes.has(id))).size}));
+  for (const country of countries) {
+    const grouped = groupedCatalog(gifts, hashes, studio.regions[country]);
+    const flattened = grouped.flatMap(group => group.giftIds);
+    if (flattened.length !== gifts.length || new Set(flattened).size !== gifts.length) {
+      throw new Error('Regional export lost gift IDs');
+    }
+    outputs.push([`catalog/${country.toLowerCase()}.json`, serialize(grouped)]);
+    console.log(JSON.stringify({
+      country, cards: grouped.length, giftIds: flattened.length,
+      priorityIds: studio.regions[country].length,
+      regionalIdsOutsideBase: new Set(observedIds[country].filter(id => !hashes.has(id))).size
+    }));
   }
   const studioBody = `${JSON.stringify(studio)}\n`;
   outputs.push([studioCatalogPath, studioBody]);
   const manifestUrl = new URL('manifest.json', root);
   const manifest = JSON.parse(await fs.readFile(manifestUrl, 'utf8'));
   const baseVersion = Number(process.env.GIFT_CATALOG_BASE_VERSION ?? manifest.version);
-  if (!Number.isSafeInteger(baseVersion) || baseVersion < 0 || baseVersion > manifest.version) {
+  if (!Number.isSafeInteger(manifest.version) || !Number.isSafeInteger(baseVersion) ||
+      baseVersion < 0 || baseVersion > manifest.version) {
     throw new Error('Invalid starting catalog version');
   }
   const studioDescriptor = { path: studioCatalogPath, sha256: checksum(studioBody) };
