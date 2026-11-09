@@ -64,7 +64,7 @@ try {
   if (oldManifest?.catalog?.sha256 === hash && oldManifest?.details?.sha256 === checksum(serialize(gifts)) && JSON.stringify(oldManifest.images) === JSON.stringify(metadata) && JSON.stringify(oldManifest.ordering) === JSON.stringify((await readCatalogPriority()).metadata)) {
     console.log(JSON.stringify({ status: 'unchanged', checkedAt: new Date().toISOString(), count: gifts.length }));
   } else {
-    const manifest = { schemaVersion: 1, version: (oldManifest?.version ?? 0) + 1, updatedAt: new Date().toISOString(), scope: 'worldwide-reference',
+    const manifest = { ...oldManifest, schemaVersion: 1, version: (oldManifest?.version ?? 0) + 1, updatedAt: new Date().toISOString(), scope: 'worldwide-reference',
       catalog: { path: 'catalog/all.json', count: gifts.length, sha256: hash }, regions: oldManifest?.regions ?? {},
       sources: { tiktools: { endpoint: 'https://api.tik.tools/webcast/gift_info', count: incoming.length }, legacy: { retainedOnly: gifts.filter(g => g.source === 'legacy').length, region: null } },
       images: metadata };

@@ -3,6 +3,7 @@ import { validate, checksum } from './catalog.mjs';
 import { IMAGE_BASE_URL, imagePathValid, imageExtension } from './images.mjs';
 import { imageFilename } from './public-catalog.mjs';
 import { prioritizeGifts, readCatalogPriority } from './catalog-order.mjs';
+import { groupedCatalog, studioCatalog, studioCatalogPath } from './regional-catalogs.mjs';
 const root = new URL('../', import.meta.url);
 const text = await fs.readFile(new URL('catalog/all.json', root), 'utf8');
 const publicGifts = JSON.parse(text), manifest = JSON.parse(await fs.readFile(new URL('manifest.json', root), 'utf8'));
@@ -12,6 +13,9 @@ const gifts = JSON.parse(detailText);
 validate(gifts);
 if (manifest.catalog.count !== gifts.length || publicGifts.length !== gifts.length || manifest.catalog.sha256 !== checksum(text)) throw new Error('Manifest does not match catalog');
 const detailsById = new Map(gifts.map(gift => [gift.giftId, gift]));
+const studioDescriptor = manifest.studioCatalog;
+if (!studioDescriptor && process.argv.includes('--require-studio-catalog')) throw new Error('Studio catalog missing from manifest');
+const imageHashes = new Map();
 if (new Set(publicGifts.map(g => g.giftId)).size !== gifts.length) throw new Error('Duplicate public gift IDs');
 for (const pub of publicGifts) {
   const gift = detailsById.get(pub.giftId);
@@ -22,7 +26,22 @@ for (const pub of publicGifts) {
     if (pub.image !== imageFilename(gift, imageExtension(canonical))) throw new Error('Public image filename mismatch');
     const alias = await fs.readFile(new URL(`images/${pub.image}`, root));
     if (!alias.equals(canonical)) throw new Error('Public image does not match source');
+    if (studioDescriptor) imageHashes.set(pub.giftId, checksum(alias));
   } else if (pub.image !== '') throw new Error('Unexpected image filename');
+}
+if (studioDescriptor) {
+  if (studioDescriptor.path !== studioCatalogPath) throw new Error('Invalid Studio catalog path');
+  const studioText = await fs.readFile(new URL(studioCatalogPath, root), 'utf8');
+  if (checksum(studioText) !== studioDescriptor.sha256) throw new Error('Studio catalog checksum mismatch');
+  const studio = JSON.parse(studioText);
+  const canonical = studioCatalog(publicGifts, imageHashes, studio.regions);
+  if (JSON.stringify(studio) !== JSON.stringify(canonical)) throw new Error('Invalid Studio catalog index');
+  for (const [country, ids] of Object.entries(canonical.regions)) {
+    const legacy = await fs.readFile(new URL(`catalog/${country.toLowerCase()}.json`, root), 'utf8');
+    if (JSON.stringify(JSON.parse(legacy)) !== JSON.stringify(groupedCatalog(publicGifts, imageHashes, ids))) {
+      throw new Error(`Invalid grouped catalog for ${country}`);
+    }
+  }
 }
 const priority = await readCatalogPriority();
 if (JSON.stringify(manifest.ordering) !== JSON.stringify(priority.metadata)) throw new Error('Catalog priority metadata mismatch');

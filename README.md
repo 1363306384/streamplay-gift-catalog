@@ -80,4 +80,13 @@ Actions → Update gift catalog → Run workflow 可手动更新，勾选 `dry_r
 
 Each entry has `giftIds` (an array, including single-ID groups), `name`, `points`, and `image`. Groups require the same exact trimmed name, coin value, and image content hash. Different prices or images remain separate. Every ID from `catalog/all.json` occurs exactly once in each export. Region membership affects order only; it never filters out an ID. Images reuse the existing `images/` directory.
 
-The six-hour update workflow regenerates these exports after the normal catalog sync. Regional IDs absent from the published full catalog are reported by the generator and are not fabricated or silently added to the original catalog. Existing clients must add array-based binding support before using these new files; `catalog/all.json` retains its existing format.
+The six-hour update workflow regenerates these exports after the normal catalog sync. It also publishes `catalog/studio.json`, a compact index for clients using `catalog/all.json` as their source of gift data. The index contains the canonical groups ordered by price, name, and ID, and two lists of IDs observed in the AE and JP panels. Only observed IDs present in the full catalog are included. The workflow validates the index, regional exports and checksums together, and publishes them with `manifest.studioCatalog` in one commit. Existing clients can continue using the grouped regional exports.
+
+When refreshing the whole publication manually, save the original manifest version, run the full sync, then generate and validate the Studio index. The saved version keeps a combined update to one manifest revision.
+
+```sh
+catalog_base_version=$(node -p "require('./manifest.json').version")
+npm run sync
+GIFT_CATALOG_BASE_VERSION="$catalog_base_version" node scripts/regional-catalogs.mjs
+npm run validate -- --require-studio-catalog
+```

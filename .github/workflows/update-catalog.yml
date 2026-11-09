@@ -52,17 +52,19 @@ jobs:
       - name: Refresh full and AE catalogs and mirror new images
         env:
           TIKTOOLS_API_KEY: ${{ secrets.TIKTOOLS_API_KEY }}
-        run: npm run sync
-
-      - name: Validate complete update before publishing
         run: |
-          npm run validate
-          git diff --check
+          echo "GIFT_CATALOG_BASE_VERSION=$(node -p "require('./manifest.json').version")" >> "$GITHUB_ENV"
+          npm run sync
 
-      - name: Generate grouped AE and JP full catalogs
+      - name: Generate the Studio index and grouped AE and JP catalogs
         env:
           TIKTOOLS_API_KEY: ${{ secrets.TIKTOOLS_API_KEY }}
         run: node scripts/regional-catalogs.mjs
+
+      - name: Validate complete update before publishing
+        run: |
+          npm run validate -- --require-studio-catalog
+          git diff --check
 
       - name: Record update summary
         run: |
@@ -84,7 +86,7 @@ jobs:
       - name: Commit and publish changes
         if: ${{ !inputs.dry_run }}
         run: |
-          git add catalog/all.json catalog/details.json catalog/image-index.json catalog/priority/ae.json catalog/ae.json catalog/jp.json manifest.json images/
+          git add catalog/all.json catalog/details.json catalog/image-index.json catalog/priority/ae.json catalog/ae.json catalog/jp.json catalog/studio.json manifest.json images/
           if git diff --cached --quiet; then
             echo 'Catalog unchanged; no commit needed.'
             exit 0

@@ -5,6 +5,7 @@ import os from 'node:os';
 import path from 'node:path';
 import { spawnSync } from 'node:child_process';
 import { fileURLToPath } from 'node:url';
+import { checksum } from '../scripts/catalog.mjs';
 
 const repo = fileURLToPath(new URL('../', import.meta.url));
 const webp = '524946460400000057454250';
@@ -115,4 +116,65 @@ test('complete new AE gift absent from the global response is mirrored and inclu
   assert.match(result.stdout,/aeStatus":"ready/);
   assert.deepEqual(JSON.parse(await f.read('catalog/priority/ae.json')).giftIds,['1','3']);
   assert.equal(JSON.parse(await f.read('catalog/all.json')).find(g=>g.giftId==='3').image,'new-ae-gift-3.webp');
+});
+
+test('Studio index publishes exact regional membership with one manifest revision per update', async t => {
+  const f = await fixture(t);
+  const rows = [
+    { id: '3', name: 'Other gift', diamond_count: 2 },
+    { id: '2', name: 'Shared gift', diamond_count: 1 },
+    { id: '1', name: 'Shared gift', diamond_count: 1 }
+  ].map(row => ({ ...row, icon: 'https://p16-webcast.tiktokcdn.com/icon.webp' }));
+  const manifest = async () => JSON.parse(await f.read('manifest.json'));
+  const validate = () => spawnSync(process.execPath, ['scripts/validate.mjs', '--require-studio-catalog'], {
+    cwd: f.root, encoding: 'utf8'
+  });
+  const generate = async (baseVersion, jpIds) => {
+    const source = path.join(f.root, 'regional-fixture.json');
+    await fs.writeFile(source, JSON.stringify([
+      { country: 'AE', valid: true, gifts: [2, 9, 2].map(id => ({ id })) },
+      { country: 'JP', valid: true, gifts: jpIds.map(id => ({ id })) }
+    ]));
+    return spawnSync(process.execPath, ['scripts/regional-catalogs.mjs', `--source=${source}`], {
+      cwd: f.root, encoding: 'utf8', env: { GIFT_CATALOG_BASE_VERSION: String(baseVersion) }
+    });
+  };
+
+  assert.equal((await f.run(rows)).status, 0);
+  assert.equal((await manifest()).version, 1);
+  assert.notEqual(validate().status, 0);
+  assert.equal((await generate(0, ['3', '1'])).status, 0);
+  const first = await manifest();
+  const indexText = await f.read('catalog/studio.json');
+  assert.equal(first.version, 1);
+  assert.deepEqual(first.studioCatalog, { path: 'catalog/studio.json', sha256: checksum(indexText) });
+  assert.deepEqual(JSON.parse(indexText), {
+    schemaVersion: 1, groups: [['1', '2'], ['3']], regions: { AE: ['2'], JP: ['1', '3'] }
+  });
+  assert.deepEqual(JSON.parse(await f.read('catalog/ae.json'))[0].giftIds, ['2', '1']);
+  assert.equal(validate().status, 0);
+
+  assert.equal((await generate(1, ['1', '3', '1'])).status, 0);
+  assert.deepEqual(await manifest(), first);
+  for (const invalid of [['9'], ['0'], ['9007199254740992']]) {
+    assert.notEqual((await generate(1, invalid)).status, 0);
+    assert.equal(await f.read('catalog/studio.json'), indexText);
+    assert.deepEqual(await manifest(), first);
+  }
+
+  assert.equal((await generate(1, ['1'])).status, 0);
+  const regionalOnly = await manifest();
+  assert.equal(regionalOnly.version, 2);
+  assert.deepEqual(regionalOnly.catalog, first.catalog);
+  assert.notEqual(regionalOnly.studioCatalog.sha256, first.studioCatalog.sha256);
+  assert.equal(validate().status, 0);
+
+  const changedRows = rows.map(row => row.id === '3' ? { ...row, name: 'Renamed gift' } : row);
+  assert.equal((await f.run(changedRows)).status, 0);
+  assert.deepEqual((await manifest()).studioCatalog, regionalOnly.studioCatalog);
+  assert.equal((await generate(2, ['3'])).status, 0);
+  assert.equal((await manifest()).version, 3);
+  assert.equal(validate().status, 0);
+  await fs.appendFile(path.join(f.root, 'catalog', 'studio.json'), ' ');
+  assert.match(validate().stderr, /Studio catalog checksum mismatch/);
 });
