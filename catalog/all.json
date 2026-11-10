@@ -4590,6 +4590,42 @@
     "image": "seaside-romance-1347190.webp"
   },
   {
+    "giftId": "1342755",
+    "name": "The Admirer",
+    "points": 5000,
+    "image": "the-admirer-1342755.webp"
+  },
+  {
+    "giftId": "1342749",
+    "name": "The BFF",
+    "points": 5000,
+    "image": "the-bff-1342749.webp"
+  },
+  {
+    "giftId": "1342756",
+    "name": "The Crooner",
+    "points": 5000,
+    "image": "the-crooner-1342756.webp"
+  },
+  {
+    "giftId": "1342752",
+    "name": "The Dynamite",
+    "points": 5000,
+    "image": "the-dynamite-1342752.webp"
+  },
+  {
+    "giftId": "1342741",
+    "name": "The Escape Artist",
+    "points": 5000,
+    "image": "the-escape-artist-1342741.webp"
+  },
+  {
+    "giftId": "1342745",
+    "name": "The Time Traveler",
+    "points": 5000,
+    "image": "the-time-traveler-1342745.webp"
+  },
+  {
     "giftId": "5338",
     "name": "Unicorn Fantasy",
     "points": 5000,
@@ -5952,6 +5988,12 @@
     "image": "aylo-lounge-1167632.webp"
   },
   {
+    "giftId": "127133",
+    "name": "Azermath le lion",
+    "points": 1,
+    "image": "azermath-le-lion-127133.webp"
+  },
+  {
     "giftId": "120606",
     "name": "Aziz Flex",
     "points": 1,
@@ -6468,6 +6510,12 @@
     "image": "coco-scb-58265.webp"
   },
   {
+    "giftId": "281780",
+    "name": "Coconut Sophia",
+    "points": 1,
+    "image": "coconut-sophia-281780.webp"
+  },
+  {
     "giftId": "5333",
     "name": "Coffee",
     "points": 1,
@@ -6508,6 +6556,12 @@
     "name": "Cool",
     "points": 1,
     "image": "cool-16212.webp"
+  },
+  {
+    "giftId": "17803",
+    "name": "Cool love",
+    "points": 1,
+    "image": "cool-love-17803.webp"
   },
   {
     "giftId": "21980",
@@ -7350,6 +7404,12 @@
     "image": "guardian-wings-15578.webp"
   },
   {
+    "giftId": "1506329",
+    "name": "Gugu Heart",
+    "points": 1,
+    "image": "gugu-heart-1506329.webp"
+  },
+  {
     "giftId": "38566",
     "name": "GUN 라이언",
     "points": 1,
@@ -7468,6 +7528,12 @@
     "name": "Holly Hart",
     "points": 1,
     "image": "holly-hart-208487.webp"
+  },
+  {
+    "giftId": "128154",
+    "name": "HOLS",
+    "points": 1,
+    "image": "hols-128154.webp"
   },
   {
     "giftId": "367943",
@@ -8058,6 +8124,12 @@
     "image": "lms-verde-216611.webp"
   },
   {
+    "giftId": "1301493",
+    "name": "Loba Vane",
+    "points": 1,
+    "image": "loba-vane-1301493.webp"
+  },
+  {
     "giftId": "38375",
     "name": "Lobo Blanco",
     "points": 1,
@@ -8178,6 +8250,12 @@
     "image": "maestro-heart-1399729.webp"
   },
   {
+    "giftId": "1021308",
+    "name": "Mafia Bruz",
+    "points": 1,
+    "image": "mafia-bruz-1021308.webp"
+  },
+  {
     "giftId": "25701",
     "name": "magarazian",
     "points": 1,
@@ -8212,6 +8290,12 @@
     "name": "Mala Hâț",
     "points": 1,
     "image": "mala-hat-20393.webp"
+  },
+  {
+    "giftId": "1502865",
+    "name": "Małpeczki",
+    "points": 1,
+    "image": "ma-peczki-1502865.webp"
   },
   {
     "giftId": "66268",
@@ -8496,6 +8580,12 @@
     "image": "mirada-tierna-37872.webp"
   },
   {
+    "giftId": "1449873",
+    "name": "Miriiszivecskeee",
+    "points": 1,
+    "image": "miriiszivecskeee-1449873.webp"
+  },
+  {
     "giftId": "38555",
     "name": "Młody Tablet",
     "points": 1,
@@ -8518,6 +8608,12 @@
     "name": "Molly au Bob",
     "points": 1,
     "image": "molly-au-bob-23012.webp"
+  },
+  {
+    "giftId": "22455",
+    "name": "Money Smirk",
+    "points": 1,
+    "image": "money-smirk-22455.webp"
   },
   {
     "giftId": "177525",
@@ -8676,6 +8772,12 @@
     "image": "nexiesexiii-306561.webp"
   },
   {
+    "giftId": "1379525",
+    "name": "Ney Brincalhão",
+    "points": 1,
+    "image": "ney-brincalhao-1379525.webp"
+  },
+  {
     "giftId": "12202",
     "name": "Nice to meet you",
     "points": 1,
@@ -8704,6 +8806,12 @@
     "name": "Nilla Cone",
     "points": 1,
     "image": "nilla-cone-1404290.webp"
+  },
+  {
+    "giftId": "1453854",
+    "name": "Nini",
+    "points": 1,
+    "image": "nini-1453854.webp"
   },
   {
     "giftId": "1203448",
@@ -8910,6 +9018,12 @@
     "image": "peanut-panic-32339.webp"
   },
   {
+    "giftId": "1138515",
+    "name": "Pedro Wave",
+    "points": 1,
+    "image": "pedro-wave-1138515.webp"
+  },
+  {
     "giftId": "30733",
     "name": "Pescador",
     "points": 1,
@@ -8950,6 +9064,12 @@
     "name": "Pink Hoodie",
     "points": 1,
     "image": "pink-hoodie-34339.webp"
+  },
+  {
+    "giftId": "85140",
+    "name": "Pirates",
+    "points": 1,
+    "image": "pirates-85140.webp"
   },
   {
     "giftId": "459091",
@@ -9534,6 +9654,12 @@
     "image": "shawty-peace-20890.webp"
   },
   {
+    "giftId": "1274224",
+    "name": "shays beso",
+    "points": 1,
+    "image": "shays-beso-1274224.webp"
+  },
+  {
     "giftId": "1075446",
     "name": "Shaz Jaan",
     "points": 1,
@@ -10008,6 +10134,12 @@
     "image": "team-roni-301293.webp"
   },
   {
+    "giftId": "1430345",
+    "name": "Team Sam",
+    "points": 1,
+    "image": "team-sam-1430345.webp"
+  },
+  {
     "giftId": "21492",
     "name": "Team Slay",
     "points": 1,
@@ -10072,6 +10204,12 @@
     "name": "TheSquad",
     "points": 1,
     "image": "thesquad-23250.webp"
+  },
+  {
+    "giftId": "407453",
+    "name": "Thumbs Up Sammi",
+    "points": 1,
+    "image": "thumbs-up-sammi-407453.webp"
   },
   {
     "giftId": "229199",
@@ -10150,6 +10288,12 @@
     "name": "Tropa do Bg",
     "points": 1,
     "image": "tropa-do-bg-1315273.webp"
+  },
+  {
+    "giftId": "1451194",
+    "name": "Tropa do Suri",
+    "points": 1,
+    "image": "tropa-do-suri-1451194.webp"
   },
   {
     "giftId": "1022728",
@@ -11476,6 +11620,12 @@
     "name": "こうやレッド",
     "points": 1,
     "image": "gift-31550.webp"
+  },
+  {
+    "giftId": "75889",
+    "name": "スペード",
+    "points": 1,
+    "image": "gift-75889.webp"
   },
   {
     "giftId": "25391",
@@ -14004,6 +14154,12 @@
     "image": "shiba-inu-7839.webp"
   },
   {
+    "giftId": "1319862",
+    "name": "SHREDZWAND",
+    "points": 199,
+    "image": "shredzwand-1319862.webp"
+  },
+  {
     "giftId": "17290",
     "name": "Side by Side",
     "points": 199,
@@ -15178,6 +15334,12 @@
     "name": "Vespa Tater",
     "points": 299,
     "image": "vespa-tater-915276.webp"
+  },
+  {
+    "giftId": "17934",
+    "name": "Wind Force",
+    "points": 299,
+    "image": "wind-force-17934.webp"
   },
   {
     "giftId": "17167",
@@ -16812,6 +16974,12 @@
     "image": "rising-dragon-14400.webp"
   },
   {
+    "giftId": "17804",
+    "name": "Snowfall",
+    "points": 999,
+    "image": "snowfall-17804.webp"
+  },
+  {
     "giftId": "12683",
     "name": "TikTok Air Drop",
     "points": 999,
@@ -18246,6 +18414,12 @@
     "image": "bull-10430.webp"
   },
   {
+    "giftId": "17805",
+    "name": "Frozen Throne",
+    "points": 2999,
+    "image": "frozen-throne-17805.webp"
+  },
+  {
     "giftId": "1274824",
     "name": "Frozen Throne",
     "points": 2999,
@@ -19380,6 +19554,12 @@
     "image": "hub-race-car-10572.webp"
   },
   {
+    "giftId": "10101",
+    "name": "Ice Queen",
+    "points": 12000,
+    "image": "ice-queen-10101.webp"
+  },
+  {
     "giftId": "1274832",
     "name": "Ice Queen",
     "points": 12000,
@@ -19876,6 +20056,12 @@
     "name": "Dolphin",
     "points": 20000,
     "image": "dolphin-10702.webp"
+  },
+  {
+    "giftId": "9803",
+    "name": "Ice Kingdom",
+    "points": 20000,
+    "image": "ice-kingdom-9803.webp"
   },
   {
     "giftId": "10398",
