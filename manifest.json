@@ -1,18 +1,18 @@
 {
   "schemaVersion": 2,
-  "version": 39,
-  "updatedAt": "2026-11-11T06:46:03.225Z",
+  "version": 40,
+  "updatedAt": "2026-11-11T19:43:44.239Z",
   "scope": "worldwide-reference",
   "catalog": {
     "path": "catalog/all.json",
-    "count": 3380,
-    "sha256": "768baf981a5b04bb0a03deb76e2f40db51c3636c2eebfdd0b1201c936cbc29b3"
+    "count": 3397,
+    "sha256": "2d557c1ebe10e7c9de6a52484ca52bc66755ec8ecff5a4ce49027c8d20157431"
   },
   "regions": {},
   "sources": {
     "tiktools": {
       "endpoint": "https://api.tik.tools/webcast/gift_info",
-      "count": 3345
+      "count": 3361
     },
     "legacy": {
       "retainedOnly": 1,
@@ -23,30 +23,30 @@
     "hosting": "github",
     "baseUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/",
     "directory": "images/",
-    "count": 2692,
-    "totalBytes": 116911658,
+    "count": 2709,
+    "totalBytes": 117954234,
     "index": {
       "path": "catalog/image-index.json",
-      "sha256": "6cc6204421f192d1697096bca6dbaafdf33941bf29f61828590fc3c01f0c4dcd"
+      "sha256": "899b807a8887b89b7b98494912570878c632694e1983061347c9fdb0831e23ca"
     },
     "publicBaseUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/",
-    "publicFileCount": 3380
+    "publicFileCount": 3397
   },
   "ordering": {
     "path": "catalog/priority/ae.json",
-    "sha256": "cdf68dc3005dee318cf0d8f2759ffdf3e19900deb3f7b3cb7dde82dd8a34c360",
+    "sha256": "27329b84df7f1d26b47c5fd4c7e2193e0cd7bf37f12e5eb18988a258aabe61ac",
     "regions": [
       "AE"
     ],
-    "priorityCount": 928,
+    "priorityCount": 933,
     "withinGroup": "price-then-name"
   },
   "details": {
     "path": "catalog/details.json",
-    "sha256": "ad364bd314642a4358ff50d8fa5c3039a93ef2c2d2a10857ad9ba27390581c9a"
+    "sha256": "f61ba252ca70d4bf3d5b8b1c67e02a3e967416a68f6aaaedf7c3abb49fca3c41"
   },
   "studioCatalog": {
     "path": "catalog/studio.json",
-    "sha256": "0fc67be116508b6edd3fe83314d8b61301b4c9777ff75ffdcd1ec791992369fb"
+    "sha256": "3c94960b04e1b82e1a084f056932f7143fdd493686421db497dfff89e2215a14"
   }
 }

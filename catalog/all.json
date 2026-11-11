@@ -156,6 +156,12 @@
     "image": "halloween-mood-1296800.webp"
   },
   {
+    "giftId": "1499230",
+    "name": "Happy Twinkle",
+    "points": 1,
+    "image": "happy-twinkle-1499230.webp"
+  },
+  {
     "giftId": "6247",
     "name": "Heart",
     "points": 1,
@@ -304,6 +310,12 @@
     "name": "My First Rose",
     "points": 1,
     "image": "my-first-rose-56560.webp"
+  },
+  {
+    "giftId": "1081788",
+    "name": "Nj family",
+    "points": 1,
+    "image": "nj-family-1081788.webp"
   },
   {
     "giftId": "19439",
@@ -682,6 +694,12 @@
     "name": "Courage potion",
     "points": 10,
     "image": "courage-potion-1143818.webp"
+  },
+  {
+    "giftId": "1499231",
+    "name": "Curious Twinkle",
+    "points": 10,
+    "image": "curious-twinkle-1499231.webp"
   },
   {
     "giftId": "8097",
@@ -1276,6 +1294,12 @@
     "name": "Gate to Treasure",
     "points": 100,
     "image": "gate-to-treasure-637996.webp"
+  },
+  {
+    "giftId": "1499232",
+    "name": "Hall of Stars",
+    "points": 100,
+    "image": "hall-of-stars-1499232.webp"
   },
   {
     "giftId": "5660",
@@ -3370,6 +3394,12 @@
     "name": "Trophy",
     "points": 500,
     "image": "trophy-5712.webp"
+  },
+  {
+    "giftId": "1499233",
+    "name": "Twinkle Says Hi!",
+    "points": 500,
+    "image": "twinkle-says-hi-1499233.webp"
   },
   {
     "giftId": "10667",
@@ -7098,6 +7128,12 @@
     "image": "fata-mea-1036352.webp"
   },
   {
+    "giftId": "581608",
+    "name": "Fatoş",
+    "points": 1,
+    "image": "fatos-581608.webp"
+  },
+  {
     "giftId": "227333",
     "name": "Fendi",
     "points": 1,
@@ -8044,6 +8080,12 @@
     "name": "LEYA у вінку",
     "points": 1,
     "image": "leya-351792.webp"
+  },
+  {
+    "giftId": "52889",
+    "name": "Liberty Gaze",
+    "points": 1,
+    "image": "liberty-gaze-52889.webp"
   },
   {
     "giftId": "530995",
@@ -10302,6 +10344,12 @@
     "image": "trebol-sonriente-38165.webp"
   },
   {
+    "giftId": "219431",
+    "name": "Trizzy",
+    "points": 1,
+    "image": "trizzy-219431.webp"
+  },
+  {
     "giftId": "108998",
     "name": "TROPA DA KETY",
     "points": 1,
@@ -11304,6 +11352,12 @@
     "image": "gift-79144.webp"
   },
   {
+    "giftId": "110205",
+    "name": "샤갈 콜라",
+    "points": 1,
+    "image": "gift-110205.webp"
+  },
+  {
     "giftId": "419547",
     "name": "샤샤하트손",
     "points": 1,
@@ -11322,6 +11376,12 @@
     "image": "gift-1042864.webp"
   },
   {
+    "giftId": "227778",
+    "name": "수빈 프릴",
+    "points": 1,
+    "image": "gift-227778.webp"
+  },
+  {
     "giftId": "32217",
     "name": "수지",
     "points": 1,
@@ -11338,6 +11398,12 @@
     "name": "시크 캣이어",
     "points": 1,
     "image": "gift-98259.webp"
+  },
+  {
+    "giftId": "1194284",
+    "name": "아선인어",
+    "points": 1,
+    "image": "gift-1194284.webp"
   },
   {
     "giftId": "21291",
@@ -11772,6 +11838,12 @@
     "image": "gift-20474.webp"
   },
   {
+    "giftId": "22068",
+    "name": "白銀の微笑み",
+    "points": 1,
+    "image": "gift-22068.webp"
+  },
+  {
     "giftId": "32254",
     "name": "白黒の悪魔",
     "points": 1,
@@ -12196,6 +12268,12 @@
     "name": "Gamer Pass",
     "points": 10,
     "image": "gamer-pass-1045430.webp"
+  },
+  {
+    "giftId": "10937",
+    "name": "Go Go Go",
+    "points": 10,
+    "image": "go-go-go-10937.webp"
   },
   {
     "giftId": "951462",
@@ -14866,6 +14944,12 @@
     "name": "Alebrije",
     "points": 299,
     "image": "alebrije-1454189.webp"
+  },
+  {
+    "giftId": "1509156",
+    "name": "Bomberman Arrives",
+    "points": 299,
+    "image": "bomberman-arrives-1509156.webp"
   },
   {
     "giftId": "58775",
@@ -18000,6 +18084,12 @@
     "image": "super-cake-17755.webp"
   },
   {
+    "giftId": "1509161",
+    "name": "TikTok Zeppelin",
+    "points": 1999,
+    "image": "tiktok-zeppelin-1509161.webp"
+  },
+  {
     "giftId": "8911",
     "name": "Baby Dragon",
     "points": 2000,
@@ -19446,6 +19536,12 @@
     "image": "safari-park-1124974.webp"
   },
   {
+    "giftId": "1509158",
+    "name": "Bomberman Spectator",
+    "points": 9000,
+    "image": "bomberman-spectator-1509158.webp"
+  },
+  {
     "giftId": "9486",
     "name": "Saxophone",
     "points": 9000,
@@ -20038,6 +20134,12 @@
     "name": "Obelisk Argentina",
     "points": 17500,
     "image": "obelisk-argentina-1188508.webp"
+  },
+  {
+    "giftId": "1509159",
+    "name": "Bomberman Attack",
+    "points": 18000,
+    "image": "bomberman-attack-1509159.webp"
   },
   {
     "giftId": "8708",
