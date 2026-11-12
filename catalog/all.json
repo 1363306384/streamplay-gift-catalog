@@ -7836,6 +7836,12 @@
     "image": "jutt-97439.webp"
   },
   {
+    "giftId": "1461940",
+    "name": "Kalej Shock",
+    "points": 1,
+    "image": "kalej-shock-1461940.webp"
+  },
+  {
     "giftId": "49912",
     "name": "Kanu Bart",
     "points": 1,
@@ -7924,6 +7930,12 @@
     "name": "Knam 배우",
     "points": 1,
     "image": "knam-38542.webp"
+  },
+  {
+    "giftId": "26760",
+    "name": "Kráľ Kroka",
+    "points": 1,
+    "image": "kral-kroka-26760.webp"
   },
   {
     "giftId": "179080",
@@ -8782,6 +8794,12 @@
     "name": "Mustafa Figyel",
     "points": 1,
     "image": "mustafa-figyel-49950.webp"
+  },
+  {
+    "giftId": "1460288",
+    "name": "Myk pop",
+    "points": 1,
+    "image": "myk-pop-1460288.webp"
   },
   {
     "giftId": "33092",
@@ -10014,6 +10032,12 @@
     "image": "stolzer-krieger-39247.webp"
   },
   {
+    "giftId": "32342",
+    "name": "Street Legend",
+    "points": 1,
+    "image": "street-legend-32342.webp"
+  },
+  {
     "giftId": "1150473",
     "name": "Studded Pose",
     "points": 1,
@@ -10524,6 +10548,12 @@
     "image": "w-flash-1258590.webp"
   },
   {
+    "giftId": "1410189",
+    "name": "WaZe",
+    "points": 1,
+    "image": "waze-1410189.webp"
+  },
+  {
     "giftId": "28202",
     "name": "Welsh baddie x",
     "points": 1,
@@ -10636,6 +10666,12 @@
     "name": "Yarizard Ardente",
     "points": 1,
     "image": "yarizard-ardente-39268.webp"
+  },
+  {
+    "giftId": "47578",
+    "name": "Yaser",
+    "points": 1,
+    "image": "yaser-47578.webp"
   },
   {
     "giftId": "209192",
@@ -10834,6 +10870,12 @@
     "name": "Имам",
     "points": 1,
     "image": "gift-187080.webp"
+  },
+  {
+    "giftId": "496325",
+    "name": "Крылья Sofi",
+    "points": 1,
+    "image": "sofi-496325.webp"
   },
   {
     "giftId": "27353",
@@ -11800,6 +11842,12 @@
     "name": "一応番犬",
     "points": 1,
     "image": "gift-29247.webp"
+  },
+  {
+    "giftId": "97760",
+    "name": "偽あべし",
+    "points": 1,
+    "image": "gift-97760.webp"
   },
   {
     "giftId": "28429",
@@ -14470,6 +14518,12 @@
     "name": "Team Croc",
     "points": 199,
     "image": "team-croc-1336572.webp"
+  },
+  {
+    "giftId": "1336930",
+    "name": "Team Moon",
+    "points": 199,
+    "image": "team-moon-1336930.webp"
   },
   {
     "giftId": "1322319",
