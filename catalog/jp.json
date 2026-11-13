@@ -250,6 +250,14 @@
   },
   {
     "giftIds": [
+      "1444192"
+    ],
+    "name": "LIVE FEST 26",
+    "points": 1,
+    "image": "live-fest-26-1444192.webp"
+  },
+  {
+    "giftIds": [
       "13059"
     ],
     "name": "Love KSA",
@@ -808,6 +816,14 @@
     "name": "Overreact",
     "points": 5,
     "image": "overreact-19447.webp"
+  },
+  {
+    "giftIds": [
+      "12843"
+    ],
+    "name": "Pumpkin Pie",
+    "points": 5,
+    "image": "pumpkin-pie-12843.webp"
   },
   {
     "giftIds": [
@@ -1381,6 +1397,14 @@
   },
   {
     "giftIds": [
+      "1343004"
+    ],
+    "name": "Beach Crab",
+    "points": 99,
+    "image": "beach-crab-1343004.webp"
+  },
+  {
+    "giftIds": [
       "170507"
     ],
     "name": "Bloom Melody",
@@ -1466,6 +1490,14 @@
     "name": "Cursed Kick",
     "points": 99,
     "image": "cursed-kick-127090.webp"
+  },
+  {
+    "giftIds": [
+      "1444195"
+    ],
+    "name": "FEST Explorer",
+    "points": 99,
+    "image": "fest-explorer-1444195.webp"
   },
   {
     "giftIds": [
@@ -2163,6 +2195,14 @@
   },
   {
     "giftIds": [
+      "1298047"
+    ],
+    "name": "Magic Bubble",
+    "points": 199,
+    "image": "magic-bubble-1298047.webp"
+  },
+  {
+    "giftIds": [
       "1327552"
     ],
     "name": "Mugen Family",
@@ -2697,6 +2737,14 @@
   },
   {
     "giftIds": [
+      "1444198"
+    ],
+    "name": "FEST Energy",
+    "points": 299,
+    "image": "fest-energy-1444198.webp"
+  },
+  {
+    "giftIds": [
       "1342931"
     ],
     "name": "Floral Lute",
@@ -3046,6 +3094,14 @@
     "name": "Craft Dreamer",
     "points": 349,
     "image": "craft-dreamer-60549.webp"
+  },
+  {
+    "giftIds": [
+      "1298054"
+    ],
+    "name": "Cyber Fist Bump",
+    "points": 349,
+    "image": "cyber-fist-bump-1298054.webp"
   },
   {
     "giftIds": [
@@ -3522,6 +3578,14 @@
   },
   {
     "giftIds": [
+      "1283013"
+    ],
+    "name": "Starry Wish",
+    "points": 399,
+    "image": "starry-wish-1283013.webp"
+  },
+  {
+    "giftIds": [
       "18198"
     ],
     "name": "Tiger Lift",
@@ -3567,6 +3631,14 @@
     "name": "Cheeky Pup",
     "points": 400,
     "image": "cheeky-pup-57594.webp"
+  },
+  {
+    "giftIds": [
+      "1486116"
+    ],
+    "name": "Cornucopia",
+    "points": 400,
+    "image": "cornucopia-1486116.webp"
   },
   {
     "giftIds": [
@@ -5428,6 +5500,22 @@
   },
   {
     "giftIds": [
+      "1444188"
+    ],
+    "name": "FEST Dancer",
+    "points": 1599,
+    "image": "fest-dancer-1444188.webp"
+  },
+  {
+    "giftIds": [
+      "1444186"
+    ],
+    "name": "FEST Musician",
+    "points": 1599,
+    "image": "fest-musician-1444186.webp"
+  },
+  {
+    "giftIds": [
       "223562",
       "8307"
     ],
@@ -5830,6 +5918,14 @@
   },
   {
     "giftIds": [
+      "1444204"
+    ],
+    "name": "FEST Showtime!",
+    "points": 2999,
+    "image": "fest-showtime-1444204.webp"
+  },
+  {
+    "giftIds": [
       "1354783"
     ],
     "name": "Legends Scroll",
@@ -5944,6 +6040,14 @@
     "name": "Meteor Shower",
     "points": 3000,
     "image": "meteor-shower-6563.webp"
+  },
+  {
+    "giftIds": [
+      "9580"
+    ],
+    "name": "Potluck",
+    "points": 3000,
+    "image": "potluck-9580.webp"
   },
   {
     "giftIds": [
@@ -6252,6 +6356,54 @@
   },
   {
     "giftIds": [
+      "1342755"
+    ],
+    "name": "Creator Adores",
+    "points": 5000,
+    "image": "creator-adores-1342755.webp"
+  },
+  {
+    "giftIds": [
+      "1342752"
+    ],
+    "name": "Creator Dazzles",
+    "points": 5000,
+    "image": "creator-dazzles-1342752.webp"
+  },
+  {
+    "giftIds": [
+      "1342749"
+    ],
+    "name": "Creator Picnics",
+    "points": 5000,
+    "image": "creator-picnics-1342749.webp"
+  },
+  {
+    "giftIds": [
+      "1342756"
+    ],
+    "name": "Creator Serenades",
+    "points": 5000,
+    "image": "creator-serenades-1342756.webp"
+  },
+  {
+    "giftIds": [
+      "1342741"
+    ],
+    "name": "Creator Survives",
+    "points": 5000,
+    "image": "creator-survives-1342741.webp"
+  },
+  {
+    "giftIds": [
+      "1342745"
+    ],
+    "name": "Creator Travels",
+    "points": 5000,
+    "image": "creator-travels-1342745.webp"
+  },
+  {
+    "giftIds": [
       "59994"
     ],
     "name": "Crowd Cheering",
@@ -6357,54 +6509,6 @@
     "name": "Seaside Romance",
     "points": 5000,
     "image": "seaside-romance-1347190.webp"
-  },
-  {
-    "giftIds": [
-      "1342755"
-    ],
-    "name": "The Admirer",
-    "points": 5000,
-    "image": "the-admirer-1342755.webp"
-  },
-  {
-    "giftIds": [
-      "1342749"
-    ],
-    "name": "The BFF",
-    "points": 5000,
-    "image": "the-bff-1342749.webp"
-  },
-  {
-    "giftIds": [
-      "1342756"
-    ],
-    "name": "The Crooner",
-    "points": 5000,
-    "image": "the-crooner-1342756.webp"
-  },
-  {
-    "giftIds": [
-      "1342752"
-    ],
-    "name": "The Dynamite",
-    "points": 5000,
-    "image": "the-dynamite-1342752.webp"
-  },
-  {
-    "giftIds": [
-      "1342741"
-    ],
-    "name": "The Escape Artist",
-    "points": 5000,
-    "image": "the-escape-artist-1342741.webp"
-  },
-  {
-    "giftIds": [
-      "1342745"
-    ],
-    "name": "The Time Traveler",
-    "points": 5000,
-    "image": "the-time-traveler-1342745.webp"
   },
   {
     "giftIds": [
@@ -6739,6 +6843,14 @@
   },
   {
     "giftIds": [
+      "1444208"
+    ],
+    "name": "FEST World",
+    "points": 9999,
+    "image": "fest-world-1444208.webp"
+  },
+  {
+    "giftIds": [
       "1402980"
     ],
     "name": "You Are Wanted!",
@@ -7058,6 +7170,14 @@
     "name": "Future Journey",
     "points": 15000,
     "image": "future-journey-10670.webp"
+  },
+  {
+    "giftIds": [
+      "1484518"
+    ],
+    "name": "Gobble Grab",
+    "points": 15000,
+    "image": "gobble-grab-1484518.webp"
   },
   {
     "giftIds": [
@@ -8076,6 +8196,14 @@
     "name": "Aron",
     "points": 1,
     "image": "aron-1395206.webp"
+  },
+  {
+    "giftIds": [
+      "1328809"
+    ],
+    "name": "Aslan",
+    "points": 1,
+    "image": "aslan-1328809.webp"
   },
   {
     "giftIds": [
@@ -10468,6 +10596,14 @@
   },
   {
     "giftIds": [
+      "31336"
+    ],
+    "name": "JTB Crown",
+    "points": 1,
+    "image": "jtb-crown-31336.webp"
+  },
+  {
+    "giftIds": [
       "30907"
     ],
     "name": "Jujus 버섯",
@@ -11846,6 +11982,14 @@
   },
   {
     "giftIds": [
+      "50211"
+    ],
+    "name": "Nery Poster",
+    "points": 1,
+    "image": "nery-poster-50211.webp"
+  },
+  {
+    "giftIds": [
       "27733"
     ],
     "name": "Nesckau Radiante",
@@ -12062,6 +12206,14 @@
   },
   {
     "giftIds": [
+      "180459"
+    ],
+    "name": "Ora",
+    "points": 1,
+    "image": "ora-180459.webp"
+  },
+  {
+    "giftIds": [
       "34083"
     ],
     "name": "Orange Goats",
@@ -12107,6 +12259,14 @@
     "name": "Pan Kropka",
     "points": 1,
     "image": "pan-kropka-771294.webp"
+  },
+  {
+    "giftIds": [
+      "536259"
+    ],
+    "name": "Pandora Viva",
+    "points": 1,
+    "image": "pandora-viva-536259.webp"
   },
   {
     "giftIds": [
@@ -12643,6 +12803,14 @@
   },
   {
     "giftIds": [
+      "1148506"
+    ],
+    "name": "Regina Selfie",
+    "points": 1,
+    "image": "regina-selfie-1148506.webp"
+  },
+  {
+    "giftIds": [
       "53035"
     ],
     "name": "Regis Faust",
@@ -12800,6 +12968,14 @@
     "name": "Rui famaily",
     "points": 1,
     "image": "rui-famaily-81573.webp"
+  },
+  {
+    "giftIds": [
+      "995402"
+    ],
+    "name": "Ruivinha",
+    "points": 1,
+    "image": "ruivinha-995402.webp"
   },
   {
     "giftIds": [
@@ -13233,6 +13409,14 @@
     "name": "Speedo shy",
     "points": 1,
     "image": "speedo-shy-367700.webp"
+  },
+  {
+    "giftIds": [
+      "90393"
+    ],
+    "name": "Spicy Bounce",
+    "points": 1,
+    "image": "spicy-bounce-90393.webp"
   },
   {
     "giftIds": [
@@ -13717,6 +13901,14 @@
   },
   {
     "giftIds": [
+      "230831"
+    ],
+    "name": "Tennis Love",
+    "points": 1,
+    "image": "tennis-love-230831.webp"
+  },
+  {
+    "giftIds": [
       "1222254"
     ],
     "name": "THE PUNISHER",
@@ -13802,6 +13994,14 @@
     "name": "Tooth",
     "points": 1,
     "image": "tooth-1345069.webp"
+  },
+  {
+    "giftIds": [
+      "34986"
+    ],
+    "name": "Tori Blue",
+    "points": 1,
+    "image": "tori-blue-34986.webp"
   },
   {
     "giftIds": [
@@ -14667,6 +14867,14 @@
     "name": "ابتسامة مي",
     "points": 1,
     "image": "gift-39853.webp"
+  },
+  {
+    "giftIds": [
+      "1374453"
+    ],
+    "name": "ابو ذياب",
+    "points": 1,
+    "image": "gift-1374453.webp"
   },
   {
     "giftIds": [
@@ -16066,14 +16274,6 @@
   },
   {
     "giftIds": [
-      "12843"
-    ],
-    "name": "Pumpkin Pie",
-    "points": 5,
-    "image": "pumpkin-pie-12843.webp"
-  },
-  {
-    "giftIds": [
       "1035742"
     ],
     "name": "Rocket",
@@ -17223,6 +17423,14 @@
   },
   {
     "giftIds": [
+      "1484295"
+    ],
+    "name": "Rock Paper Scissor",
+    "points": 99,
+    "image": "rock-paper-scissor-1484295.webp"
+  },
+  {
+    "giftIds": [
       "17214"
     ],
     "name": "Send Heart",
@@ -17360,6 +17568,14 @@
     "name": "Gamer Pass Otter",
     "points": 100,
     "image": "gamer-pass-otter-1045664.webp"
+  },
+  {
+    "giftIds": [
+      "1509272"
+    ],
+    "name": "Give with Love",
+    "points": 100,
+    "image": "give-with-love-1509272.webp"
   },
   {
     "giftIds": [
@@ -18429,6 +18645,14 @@
   },
   {
     "giftIds": [
+      "1509273"
+    ],
+    "name": "Hands of Hope",
+    "points": 200,
+    "image": "hands-of-hope-1509273.webp"
+  },
+  {
+    "giftIds": [
       "5738"
     ],
     "name": "Heart",
@@ -18458,6 +18682,14 @@
     "name": "Stingray",
     "points": 200,
     "image": "stingray-603569.webp"
+  },
+  {
+    "giftIds": [
+      "1509275"
+    ],
+    "name": "Sweet Giving",
+    "points": 200,
+    "image": "sweet-giving-1509275.webp"
   },
   {
     "giftIds": [
@@ -19148,11 +19380,11 @@
   },
   {
     "giftIds": [
-      "1486116"
+      "1509276"
     ],
-    "name": "Cornucopia",
+    "name": "Packed with Care",
     "points": 400,
-    "image": "cornucopia-1486116.webp"
+    "image": "packed-with-care-1509276.webp"
   },
   {
     "giftIds": [
@@ -20997,14 +21229,6 @@
   },
   {
     "giftIds": [
-      "9580"
-    ],
-    "name": "Potluck",
-    "points": 3000,
-    "image": "potluck-9580.webp"
-  },
-  {
-    "giftIds": [
       "17572"
     ],
     "name": "Pumpkin patch",
@@ -22280,14 +22504,6 @@
     "name": "Go Big Stallion",
     "points": 15000,
     "image": "go-big-stallion-16203.webp"
-  },
-  {
-    "giftIds": [
-      "1484518"
-    ],
-    "name": "Gobble Grab",
-    "points": 15000,
-    "image": "gobble-grab-1484518.webp"
   },
   {
     "giftIds": [
