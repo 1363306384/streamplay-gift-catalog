@@ -242,7 +242,8 @@
   },
   {
     "giftIds": [
-      "1462838"
+      "1462838",
+      "1509192"
     ],
     "name": "Little Acorn",
     "points": 1,
@@ -2179,6 +2180,14 @@
   },
   {
     "giftIds": [
+      "1342573"
+    ],
+    "name": "Keyboard Tune",
+    "points": 199,
+    "image": "keyboard-tune-1342573.webp"
+  },
+  {
+    "giftIds": [
       "19067"
     ],
     "name": "League Countdown",
@@ -3394,6 +3403,14 @@
   },
   {
     "giftIds": [
+      "13602"
+    ],
+    "name": "Japanese Dinner",
+    "points": 399,
+    "image": "japanese-dinner-13602.webp"
+  },
+  {
+    "giftIds": [
       "1298035"
     ],
     "name": "Jiggly Pudding",
@@ -3695,6 +3712,14 @@
     "name": "Mic Champ",
     "points": 400,
     "image": "mic-champ-15195.webp"
+  },
+  {
+    "giftIds": [
+      "1473066"
+    ],
+    "name": "Moon Serenade",
+    "points": 400,
+    "image": "moon-serenade-1473066.webp"
   },
   {
     "giftIds": [
@@ -4060,6 +4085,14 @@
     "name": "Coral",
     "points": 499,
     "image": "coral-5731.webp"
+  },
+  {
+    "giftIds": [
+      "1501083"
+    ],
+    "name": "Cowboy Groove",
+    "points": 499,
+    "image": "cowboy-groove-1501083.webp"
   },
   {
     "giftIds": [
@@ -5255,6 +5288,7 @@
   {
     "giftIds": [
       "18158",
+      "17942",
       "18163",
       "18176",
       "18310",
@@ -5300,6 +5334,7 @@
   },
   {
     "giftIds": [
+      "12905",
       "13032",
       "12763",
       "12775",
@@ -5309,7 +5344,7 @@
     ],
     "name": "Autumn Picnic",
     "points": 1300,
-    "image": "autumn-picnic-13032.webp"
+    "image": "autumn-picnic-12905.webp"
   },
   {
     "giftIds": [
@@ -5619,6 +5654,14 @@
     "name": "Mystery Firework",
     "points": 1999,
     "image": "mystery-firework-7529.webp"
+  },
+  {
+    "giftIds": [
+      "1501078"
+    ],
+    "name": "Rose Busker",
+    "points": 1999,
+    "image": "rose-busker-1501078.webp"
   },
   {
     "giftIds": [
@@ -6490,6 +6533,14 @@
     "name": "Mystic Rod",
     "points": 5000,
     "image": "mystic-rod-973116.webp"
+  },
+  {
+    "giftIds": [
+      "1509193"
+    ],
+    "name": "Raya Vibes",
+    "points": 5000,
+    "image": "raya-vibes-1509193.webp"
   },
   {
     "giftIds": [
@@ -7366,6 +7417,14 @@
   },
   {
     "giftIds": [
+      "17374"
+    ],
+    "name": "Fuji and Khalifa",
+    "points": 19999,
+    "image": "fuji-and-khalifa-17374.webp"
+  },
+  {
+    "giftIds": [
       "1296826"
     ],
     "name": "Masquerade",
@@ -7510,6 +7569,15 @@
     "name": "Phoenix",
     "points": 25999,
     "image": "phoenix-7319.webp"
+  },
+  {
+    "giftIds": [
+      "16279",
+      "1261984"
+    ],
+    "name": "Phoenix",
+    "points": 25999,
+    "image": "phoenix-16279.webp"
   },
   {
     "giftIds": [
@@ -9115,6 +9183,14 @@
   },
   {
     "giftIds": [
+      "213580"
+    ],
+    "name": "Csajszi Póz",
+    "points": 1,
+    "image": "csajszi-poz-213580.webp"
+  },
+  {
+    "giftIds": [
       "39221"
     ],
     "name": "Czarująca Wróżka",
@@ -10708,6 +10784,14 @@
   },
   {
     "giftIds": [
+      "29730"
+    ],
+    "name": "Kaziu Prezes",
+    "points": 1,
+    "image": "kaziu-prezes-29730.webp"
+  },
+  {
+    "giftIds": [
       "63272"
     ],
     "name": "Kerstin Selfie",
@@ -10930,6 +11014,14 @@
     "name": "Lavender Boldness",
     "points": 1,
     "image": "lavender-boldness-25380.webp"
+  },
+  {
+    "giftIds": [
+      "38979"
+    ],
+    "name": "Lavi Turcoaz",
+    "points": 1,
+    "image": "lavi-turcoaz-38979.webp"
   },
   {
     "giftIds": [
@@ -12171,6 +12263,14 @@
     "name": "Oga Norience",
     "points": 1,
     "image": "oga-norience-32740.webp"
+  },
+  {
+    "giftIds": [
+      "1125076"
+    ],
+    "name": "Ogorek Pop",
+    "points": 1,
+    "image": "ogorek-pop-1125076.webp"
   },
   {
     "giftIds": [
@@ -15590,6 +15690,14 @@
   },
   {
     "giftIds": [
+      "30442"
+    ],
+    "name": "상큼 공쥬",
+    "points": 1,
+    "image": "gift-30442.webp"
+  },
+  {
+    "giftIds": [
       "53624"
     ],
     "name": "새롬 화관",
@@ -16551,6 +16659,14 @@
   },
   {
     "giftIds": [
+      "7816"
+    ],
+    "name": "Golden Palm Tree",
+    "points": 10,
+    "image": "golden-palm-tree-7816.webp"
+  },
+  {
+    "giftIds": [
       "11366"
     ],
     "name": "Gutab",
@@ -16788,6 +16904,14 @@
   },
   {
     "giftIds": [
+      "1516890"
+    ],
+    "name": "Sorting Hat",
+    "points": 10,
+    "image": "sorting-hat-1516890.webp"
+  },
+  {
+    "giftIds": [
       "62837"
     ],
     "name": "Star",
@@ -16801,6 +16925,14 @@
     "name": "Travel With Me",
     "points": 10,
     "image": "travel-with-me-934834.webp"
+  },
+  {
+    "giftIds": [
+      "1486122"
+    ],
+    "name": "Tucker the Turkey",
+    "points": 10,
+    "image": "tucker-the-turkey-1486122.webp"
   },
   {
     "giftIds": [
@@ -16875,6 +17007,14 @@
     "name": "SIMI KISS",
     "points": 15,
     "image": "simi-kiss-1188303.webp"
+  },
+  {
+    "giftIds": [
+      "1509255"
+    ],
+    "name": "Winter Corgi",
+    "points": 15,
+    "image": "winter-corgi-1509255.webp"
   },
   {
     "giftIds": [
@@ -18661,6 +18801,70 @@
   },
   {
     "giftIds": [
+      "1516775"
+    ],
+    "name": "House Banners Gryffindor",
+    "points": 200,
+    "image": "house-banners-gryffindor-1516775.webp"
+  },
+  {
+    "giftIds": [
+      "1516772"
+    ],
+    "name": "House Banners Hufflepuff",
+    "points": 200,
+    "image": "house-banners-hufflepuff-1516772.webp"
+  },
+  {
+    "giftIds": [
+      "1516770"
+    ],
+    "name": "House Banners Ravenclaw",
+    "points": 200,
+    "image": "house-banners-ravenclaw-1516770.webp"
+  },
+  {
+    "giftIds": [
+      "1516774"
+    ],
+    "name": "House Banners Slytherin",
+    "points": 200,
+    "image": "house-banners-slytherin-1516774.webp"
+  },
+  {
+    "giftIds": [
+      "1516768"
+    ],
+    "name": "House Scarves Gryffindor",
+    "points": 200,
+    "image": "house-scarves-gryffindor-1516768.webp"
+  },
+  {
+    "giftIds": [
+      "1516767"
+    ],
+    "name": "House Scarves Hufflepuff",
+    "points": 200,
+    "image": "house-scarves-hufflepuff-1516767.webp"
+  },
+  {
+    "giftIds": [
+      "1516765"
+    ],
+    "name": "House Scarves Ravenclaw",
+    "points": 200,
+    "image": "house-scarves-ravenclaw-1516765.webp"
+  },
+  {
+    "giftIds": [
+      "1516766"
+    ],
+    "name": "House Scarves Slytherin",
+    "points": 200,
+    "image": "house-scarves-slytherin-1516766.webp"
+  },
+  {
+    "giftIds": [
       "13737"
     ],
     "name": "I Love TikTok LIVE",
@@ -18757,6 +18961,14 @@
     "name": "Alebrije",
     "points": 299,
     "image": "alebrije-1454189.webp"
+  },
+  {
+    "giftIds": [
+      "1513148"
+    ],
+    "name": "Besties",
+    "points": 299,
+    "image": "besties-1513148.webp"
   },
   {
     "giftIds": [
@@ -19422,6 +19634,14 @@
   },
   {
     "giftIds": [
+      "1516769"
+    ],
+    "name": "Tour Invitation",
+    "points": 400,
+    "image": "tour-invitation-1516769.webp"
+  },
+  {
+    "giftIds": [
       "1350624"
     ],
     "name": "Hadoken",
@@ -20072,6 +20292,14 @@
   },
   {
     "giftIds": [
+      "13996"
+    ],
+    "name": "It's a Match!",
+    "points": 899,
+    "image": "it-s-a-match-13996.webp"
+  },
+  {
+    "giftIds": [
       "7697"
     ],
     "name": "LOVE U",
@@ -20369,6 +20597,14 @@
     "name": "Santa Monica",
     "points": 1000,
     "image": "santa-monica-59991.webp"
+  },
+  {
+    "giftIds": [
+      "1516764"
+    ],
+    "name": "Snitch Chase",
+    "points": 1000,
+    "image": "snitch-chase-1516764.webp"
   },
   {
     "giftIds": [
@@ -22295,6 +22531,14 @@
   },
   {
     "giftIds": [
+      "1509249"
+    ],
+    "name": "Winter Hallasan",
+    "points": 12000,
+    "image": "winter-hallasan-1509249.webp"
+  },
+  {
+    "giftIds": [
       "165416"
     ],
     "name": "Kangaroo",
@@ -22908,14 +23152,6 @@
     "name": "Griffin",
     "points": 25999,
     "image": "griffin-7983.webp"
-  },
-  {
-    "giftIds": [
-      "1261984"
-    ],
-    "name": "Phoenix",
-    "points": 25999,
-    "image": "phoenix-1261984.webp"
   },
   {
     "giftIds": [
