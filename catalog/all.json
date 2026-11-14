@@ -6036,6 +6036,12 @@
     "image": "anya-up-1196455.webp"
   },
   {
+    "giftId": "39496",
+    "name": "Aquila albanese",
+    "points": 1,
+    "image": "aquila-albanese-39496.webp"
+  },
+  {
     "giftId": "45959",
     "name": "Ara Morada",
     "points": 1,
@@ -7470,6 +7476,12 @@
     "image": "gb-original-1450569.webp"
   },
   {
+    "giftId": "98685",
+    "name": "German",
+    "points": 1,
+    "image": "german-98685.webp"
+  },
+  {
     "giftId": "73489",
     "name": "Gesto da Joi",
     "points": 1,
@@ -7816,6 +7828,12 @@
     "name": "Iulia Jul",
     "points": 1,
     "image": "iulia-jul-40395.webp"
+  },
+  {
+    "giftId": "1277974",
+    "name": "J L V",
+    "points": 1,
+    "image": "j-l-v-1277974.webp"
   },
   {
     "giftId": "41479",
@@ -8820,6 +8838,12 @@
     "image": "miriiszivecskeee-1449873.webp"
   },
   {
+    "giftId": "30153",
+    "name": "Miškin smiech",
+    "points": 1,
+    "image": "miskin-smiech-30153.webp"
+  },
+  {
     "giftId": "38555",
     "name": "Młody Tablet",
     "points": 1,
@@ -8884,6 +8908,12 @@
     "name": "Mor Selibon",
     "points": 1,
     "image": "mor-selibon-47693.webp"
+  },
+  {
+    "giftId": "518365",
+    "name": "Morissův Duch",
+    "points": 1,
+    "image": "morissuv-duch-518365.webp"
   },
   {
     "giftId": "14785",
@@ -8988,10 +9018,22 @@
     "image": "naz-peace-635916.webp"
   },
   {
+    "giftId": "29345",
+    "name": "NAZRY",
+    "points": 1,
+    "image": "nazry-29345.webp"
+  },
+  {
     "giftId": "48325",
     "name": "Nebunii Aurii",
     "points": 1,
     "image": "nebunii-aurii-48325.webp"
+  },
+  {
+    "giftId": "398025",
+    "name": "Negini",
+    "points": 1,
+    "image": "negini-398025.webp"
   },
   {
     "giftId": "21016",
@@ -9604,6 +9646,12 @@
     "name": "Rainbow Tulip",
     "points": 1,
     "image": "rainbow-tulip-1479742.webp"
+  },
+  {
+    "giftId": "152530",
+    "name": "Raku Liebe",
+    "points": 1,
+    "image": "raku-liebe-152530.webp"
   },
   {
     "giftId": "1335637",
@@ -10408,6 +10456,12 @@
     "name": "Team Marry",
     "points": 1,
     "image": "team-marry-65126.webp"
+  },
+  {
+    "giftId": "53607",
+    "name": "Team MCL Gloves",
+    "points": 1,
+    "image": "team-mcl-gloves-53607.webp"
   },
   {
     "giftId": "31841",
@@ -11346,6 +11400,12 @@
     "image": "gift-191422.webp"
   },
   {
+    "giftId": "78830",
+    "name": "갱구리",
+    "points": 1,
+    "image": "gift-78830.webp"
+  },
+  {
     "giftId": "46393",
     "name": "겨울 요정",
     "points": 1,
@@ -11632,6 +11692,12 @@
     "name": "세아",
     "points": 1,
     "image": "gift-1042864.webp"
+  },
+  {
+    "giftId": "47134",
+    "name": "송이 공주",
+    "points": 1,
+    "image": "gift-47134.webp"
   },
   {
     "giftId": "227778",
@@ -12118,6 +12184,12 @@
     "name": "純平大先生",
     "points": 1,
     "image": "gift-1213343.webp"
+  },
+  {
+    "giftId": "31980",
+    "name": "青春の絆",
+    "points": 1,
+    "image": "gift-31980.webp"
   },
   {
     "giftId": "14352",
@@ -14382,6 +14454,12 @@
     "image": "melon-juice-17400.webp"
   },
   {
+    "giftId": "1325722",
+    "name": "Miška Crew",
+    "points": 199,
+    "image": "miska-crew-1325722.webp"
+  },
+  {
     "giftId": "1314930",
     "name": "Miss P",
     "points": 199,
@@ -14410,6 +14488,12 @@
     "name": "Nakamachi Pirate",
     "points": 199,
     "image": "nakamachi-pirate-1339699.webp"
+  },
+  {
+    "giftId": "1326331",
+    "name": "NAZRY NATION",
+    "points": 199,
+    "image": "nazry-nation-1326331.webp"
   },
   {
     "giftId": "13166",
