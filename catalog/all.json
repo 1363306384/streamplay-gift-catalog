@@ -7650,6 +7650,12 @@
     "image": "h-heart-174878.webp"
   },
   {
+    "giftId": "1483033",
+    "name": "Habibi Topuz",
+    "points": 1,
+    "image": "habibi-topuz-1483033.webp"
+  },
+  {
     "giftId": "32696",
     "name": "Halil TM",
     "points": 1,
@@ -8800,6 +8806,12 @@
     "name": "Microfono Yuppies",
     "points": 1,
     "image": "microfono-yuppies-23302.webp"
+  },
+  {
+    "giftId": "1178581",
+    "name": "Migu",
+    "points": 1,
+    "image": "migu-1178581.webp"
   },
   {
     "giftId": "1487069",
@@ -11014,6 +11026,12 @@
     "name": "You're awesome",
     "points": 1,
     "image": "you-re-awesome-15232.webp"
+  },
+  {
+    "giftId": "15324",
+    "name": "You're awesome",
+    "points": 1,
+    "image": "you-re-awesome-15324.webp"
   },
   {
     "giftId": "32356",
@@ -14520,6 +14538,12 @@
     "image": "melon-juice-17068.webp"
   },
   {
+    "giftId": "17300",
+    "name": "Melon Juice",
+    "points": 199,
+    "image": "melon-juice-17300.webp"
+  },
+  {
     "giftId": "17400",
     "name": "Melon Juice",
     "points": 199,
@@ -14748,6 +14772,12 @@
     "image": "side-by-side-17746.webp"
   },
   {
+    "giftId": "17747",
+    "name": "Side by Side",
+    "points": 199,
+    "image": "side-by-side-17747.webp"
+  },
+  {
     "giftId": "18017",
     "name": "Side by Side",
     "points": 199,
@@ -14878,6 +14908,12 @@
     "name": "Star Glasses",
     "points": 199,
     "image": "star-glasses-16832.webp"
+  },
+  {
+    "giftId": "16833",
+    "name": "Star Glasses",
+    "points": 199,
+    "image": "star-glasses-16833.webp"
   },
   {
     "giftId": "1320920",
@@ -15330,6 +15366,12 @@
     "image": "rose-bear-15896.webp"
   },
   {
+    "giftId": "15901",
+    "name": "Rose Bear",
+    "points": 214,
+    "image": "rose-bear-15901.webp"
+  },
+  {
     "giftId": "15909",
     "name": "Rose Bear",
     "points": 214,
@@ -15418,6 +15460,12 @@
     "name": "Cat",
     "points": 222,
     "image": "cat-46606.webp"
+  },
+  {
+    "giftId": "47040",
+    "name": "Cat",
+    "points": 222,
+    "image": "cat-47040.webp"
   },
   {
     "giftId": "5482",
@@ -15636,6 +15684,12 @@
     "image": "judy-pose-18327.webp"
   },
   {
+    "giftId": "18329",
+    "name": "Judy Pose",
+    "points": 299,
+    "image": "judy-pose-18329.webp"
+  },
+  {
     "giftId": "18335",
     "name": "Judy Pose",
     "points": 299,
@@ -15664,6 +15718,12 @@
     "name": "Legend Crown",
     "points": 299,
     "image": "legend-crown-15149.webp"
+  },
+  {
+    "giftId": "15151",
+    "name": "Legend Crown",
+    "points": 299,
+    "image": "legend-crown-15151.webp"
   },
   {
     "giftId": "15158",
@@ -15816,6 +15876,12 @@
     "image": "pawfect-17482.webp"
   },
   {
+    "giftId": "17483",
+    "name": "Pawfect",
+    "points": 299,
+    "image": "pawfect-17483.webp"
+  },
+  {
     "giftId": "17549",
     "name": "Pawfect",
     "points": 299,
@@ -15862,6 +15928,12 @@
     "name": "Rising Key",
     "points": 299,
     "image": "rising-key-15142.webp"
+  },
+  {
+    "giftId": "15404",
+    "name": "Rising Key",
+    "points": 299,
+    "image": "rising-key-15404.webp"
   },
   {
     "giftId": "14787",
@@ -15946,6 +16018,12 @@
     "name": "TikTok Crown",
     "points": 299,
     "image": "tiktok-crown-17548.webp"
+  },
+  {
+    "giftId": "17597",
+    "name": "TikTok Crown",
+    "points": 299,
+    "image": "tiktok-crown-17597.webp"
   },
   {
     "giftId": "18019",
@@ -16236,6 +16314,12 @@
     "image": "otter-kiss-15635.webp"
   },
   {
+    "giftId": "15639",
+    "name": "Otter Kiss",
+    "points": 399,
+    "image": "otter-kiss-15639.webp"
+  },
+  {
     "giftId": "15652",
     "name": "Otter Kiss",
     "points": 399,
@@ -16464,6 +16548,12 @@
     "image": "terminator-face-16825.webp"
   },
   {
+    "giftId": "16834",
+    "name": "Terminator Face",
+    "points": 449,
+    "image": "terminator-face-16834.webp"
+  },
+  {
     "giftId": "17055",
     "name": "Terminator Face",
     "points": 449,
@@ -16614,6 +16704,12 @@
     "image": "panda-hug-15400.webp"
   },
   {
+    "giftId": "15403",
+    "name": "Panda Hug",
+    "points": 499,
+    "image": "panda-hug-15403.webp"
+  },
+  {
     "giftId": "14886",
     "name": "Sakura Corgi",
     "points": 499,
@@ -16636,6 +16732,12 @@
     "name": "Sakura Corgi",
     "points": 499,
     "image": "sakura-corgi-14895.webp"
+  },
+  {
+    "giftId": "15150",
+    "name": "Sakura Corgi",
+    "points": 499,
+    "image": "sakura-corgi-15150.webp"
   },
   {
     "giftId": "15156",
@@ -16758,6 +16860,12 @@
     "image": "diamond-microphone-13122.webp"
   },
   {
+    "giftId": "13726",
+    "name": "Diamond Microphone",
+    "points": 500,
+    "image": "diamond-microphone-13726.webp"
+  },
+  {
     "giftId": "13916",
     "name": "Diamond Microphone",
     "points": 500,
@@ -16830,6 +16938,12 @@
     "image": "halloween-ghost-17745.webp"
   },
   {
+    "giftId": "17748",
+    "name": "Halloween Ghost",
+    "points": 500,
+    "image": "halloween-ghost-17748.webp"
+  },
+  {
     "giftId": "17252",
     "name": "Heart It Out",
     "points": 500,
@@ -16858,6 +16972,12 @@
     "name": "Heart It Out",
     "points": 500,
     "image": "heart-it-out-17297.webp"
+  },
+  {
+    "giftId": "17299",
+    "name": "Heart It Out",
+    "points": 500,
+    "image": "heart-it-out-17299.webp"
   },
   {
     "giftId": "16981",
@@ -17446,6 +17566,12 @@
     "name": "The Van Cat",
     "points": 799,
     "image": "the-van-cat-10925.webp"
+  },
+  {
+    "giftId": "11514",
+    "name": "The Van Cat",
+    "points": 799,
+    "image": "the-van-cat-11514.webp"
   },
   {
     "giftId": "12463",
@@ -18714,6 +18840,12 @@
     "image": "crystal-crown-13176.webp"
   },
   {
+    "giftId": "13184",
+    "name": "Crystal Crown",
+    "points": 2000,
+    "image": "crystal-crown-13184.webp"
+  },
+  {
     "giftId": "13204",
     "name": "Crystal Crown",
     "points": 2000,
@@ -19110,6 +19242,12 @@
     "image": "beach-day-6431.webp"
   },
   {
+    "giftId": "6945",
+    "name": "Beach Day",
+    "points": 2999,
+    "image": "beach-day-6945.webp"
+  },
+  {
     "giftId": "14487",
     "name": "Beach Day",
     "points": 2999,
@@ -19378,6 +19516,12 @@
     "name": "TikTok Volcano",
     "points": 4000,
     "image": "tiktok-volcano-14669.webp"
+  },
+  {
+    "giftId": "10788",
+    "name": "Tiny Diny on the Drums",
+    "points": 4000,
+    "image": "tiny-diny-on-the-drums-10788.webp"
   },
   {
     "giftId": "14801",
@@ -19828,6 +19972,12 @@
     "name": "Desert Wolf",
     "points": 5500,
     "image": "desert-wolf-11440.webp"
+  },
+  {
+    "giftId": "11513",
+    "name": "Desert Wolf",
+    "points": 5500,
+    "image": "desert-wolf-11513.webp"
   },
   {
     "giftId": "11669",
