@@ -282,6 +282,14 @@
   },
   {
     "giftIds": [
+      "1308781"
+    ],
+    "name": "Lilly",
+    "points": 1,
+    "image": "lilly-1308781.webp"
+  },
+  {
+    "giftIds": [
       "1462838",
       "1509192"
     ],
@@ -8276,6 +8284,14 @@
   },
   {
     "giftIds": [
+      "39117"
+    ],
+    "name": "Ari Polar",
+    "points": 1,
+    "image": "ari-polar-39117.webp"
+  },
+  {
+    "giftIds": [
       "561251"
     ],
     "name": "Arias Rayo",
@@ -9629,6 +9645,14 @@
     "name": "Ece Rosen",
     "points": 1,
     "image": "ece-rosen-227156.webp"
+  },
+  {
+    "giftIds": [
+      "302908"
+    ],
+    "name": "Eduard",
+    "points": 1,
+    "image": "eduard-302908.webp"
   },
   {
     "giftIds": [
@@ -11122,6 +11146,14 @@
   },
   {
     "giftIds": [
+      "24825"
+    ],
+    "name": "Licuricii Denisei",
+    "points": 1,
+    "image": "licuricii-denisei-24825.webp"
+  },
+  {
+    "giftIds": [
       "37064"
     ],
     "name": "Liebe",
@@ -11375,6 +11407,14 @@
     "name": "Ma-Saレッド",
     "points": 1,
     "image": "ma-sa-28636.webp"
+  },
+  {
+    "giftIds": [
+      "93488"
+    ],
+    "name": "Maah Tropical",
+    "points": 1,
+    "image": "maah-tropical-93488.webp"
   },
   {
     "giftIds": [
@@ -13079,11 +13119,27 @@
   },
   {
     "giftIds": [
+      "1427285"
+    ],
+    "name": "RoRo Schwan",
+    "points": 1,
+    "image": "roro-schwan-1427285.webp"
+  },
+  {
+    "giftIds": [
       "363067"
     ],
     "name": "Rosie Bloom",
     "points": 1,
     "image": "rosie-bloom-363067.webp"
+  },
+  {
+    "giftIds": [
+      "561733"
+    ],
+    "name": "Rosita",
+    "points": 1,
+    "image": "rosita-561733.webp"
   },
   {
     "giftIds": [
@@ -13985,6 +14041,14 @@
   },
   {
     "giftIds": [
+      "35301"
+    ],
+    "name": "Team Rapunzel",
+    "points": 1,
+    "image": "team-rapunzel-35301.webp"
+  },
+  {
+    "giftIds": [
       "301293"
     ],
     "name": "TEAM RONI",
@@ -14070,6 +14134,14 @@
     "name": "Tennis Love",
     "points": 1,
     "image": "tennis-love-230831.webp"
+  },
+  {
+    "giftIds": [
+      "31764"
+    ],
+    "name": "The Jeffs",
+    "points": 1,
+    "image": "the-jeffs-31764.webp"
   },
   {
     "giftIds": [
@@ -14374,6 +14446,14 @@
     "name": "Viky",
     "points": 1,
     "image": "viky-361245.webp"
+  },
+  {
+    "giftIds": [
+      "1383264"
+    ],
+    "name": "Vilma Mbretëresh",
+    "points": 1,
+    "image": "vilma-mbreteresh-1383264.webp"
   },
   {
     "giftIds": [
@@ -16079,6 +16159,14 @@
     "name": "こうやレッド",
     "points": 1,
     "image": "gift-31550.webp"
+  },
+  {
+    "giftIds": [
+      "21774"
+    ],
+    "name": "スイートな宝物",
+    "points": 1,
+    "image": "gift-21774.webp"
   },
   {
     "giftIds": [
@@ -18159,6 +18247,14 @@
   },
   {
     "giftIds": [
+      "59294"
+    ],
+    "name": "Festival Fan",
+    "points": 199,
+    "image": "festival-fan-59294.webp"
+  },
+  {
+    "giftIds": [
       "8004"
     ],
     "name": "Gamer Cat",
@@ -18586,6 +18682,14 @@
     "name": "The Stealth Wand",
     "points": 199,
     "image": "the-stealth-wand-1329456.webp"
+  },
+  {
+    "giftIds": [
+      "1321909"
+    ],
+    "name": "TheJeffs",
+    "points": 199,
+    "image": "thejeffs-1321909.webp"
   },
   {
     "giftIds": [
@@ -20394,6 +20498,14 @@
     "name": "Snowfall",
     "points": 999,
     "image": "snowfall-17804.webp"
+  },
+  {
+    "giftIds": [
+      "9918"
+    ],
+    "name": "Snowfalls",
+    "points": 999,
+    "image": "snowfalls-9918.webp"
   },
   {
     "giftIds": [
@@ -22287,6 +22399,14 @@
   },
   {
     "giftIds": [
+      "57890"
+    ],
+    "name": "Fireworks Spectacular",
+    "points": 7000,
+    "image": "fireworks-spectacular-57890.webp"
+  },
+  {
+    "giftIds": [
       "1188512"
     ],
     "name": "Guanajuato",
@@ -22639,6 +22759,14 @@
     "name": "Lili and Sakura",
     "points": 12000,
     "image": "lili-and-sakura-55221.webp"
+  },
+  {
+    "giftIds": [
+      "1493505"
+    ],
+    "name": "Mountains",
+    "points": 12000,
+    "image": "mountains-1493505.webp"
   },
   {
     "giftIds": [
@@ -23161,7 +23289,8 @@
   },
   {
     "giftIds": [
-      "9803"
+      "9803",
+      "1493506"
     ],
     "name": "Ice Kingdom",
     "points": 20000,

@@ -210,6 +210,12 @@
     "image": "lara-leopard-27773.webp"
   },
   {
+    "giftId": "1308781",
+    "name": "Lilly",
+    "points": 1,
+    "image": "lilly-1308781.webp"
+  },
+  {
     "giftId": "1462838",
     "name": "Little Acorn",
     "points": 1,
@@ -6060,6 +6066,12 @@
     "image": "ari-1355373.webp"
   },
   {
+    "giftId": "39117",
+    "name": "Ari Polar",
+    "points": 1,
+    "image": "ari-polar-39117.webp"
+  },
+  {
     "giftId": "561251",
     "name": "Arias Rayo",
     "points": 1,
@@ -7102,6 +7114,12 @@
     "name": "Ece Rosen",
     "points": 1,
     "image": "ece-rosen-227156.webp"
+  },
+  {
+    "giftId": "302908",
+    "name": "Eduard",
+    "points": 1,
+    "image": "eduard-302908.webp"
   },
   {
     "giftId": "63330",
@@ -8274,6 +8292,12 @@
     "image": "licia-fist-530995.webp"
   },
   {
+    "giftId": "24825",
+    "name": "Licuricii Denisei",
+    "points": 1,
+    "image": "licuricii-denisei-24825.webp"
+  },
+  {
     "giftId": "37064",
     "name": "Liebe",
     "points": 1,
@@ -8470,6 +8494,12 @@
     "name": "Ma-Saレッド",
     "points": 1,
     "image": "ma-sa-28636.webp"
+  },
+  {
+    "giftId": "93488",
+    "name": "Maah Tropical",
+    "points": 1,
+    "image": "maah-tropical-93488.webp"
   },
   {
     "giftId": "236489",
@@ -9786,10 +9816,22 @@
     "image": "robert-ionescu-56284.webp"
   },
   {
+    "giftId": "1427285",
+    "name": "RoRo Schwan",
+    "points": 1,
+    "image": "roro-schwan-1427285.webp"
+  },
+  {
     "giftId": "363067",
     "name": "Rosie Bloom",
     "points": 1,
     "image": "rosie-bloom-363067.webp"
+  },
+  {
+    "giftId": "561733",
+    "name": "Rosita",
+    "points": 1,
+    "image": "rosita-561733.webp"
   },
   {
     "giftId": "48005",
@@ -10476,6 +10518,12 @@
     "image": "team-nina-165981.webp"
   },
   {
+    "giftId": "35301",
+    "name": "Team Rapunzel",
+    "points": 1,
+    "image": "team-rapunzel-35301.webp"
+  },
+  {
     "giftId": "301293",
     "name": "TEAM RONI",
     "points": 1,
@@ -10540,6 +10588,12 @@
     "name": "Tennis Love",
     "points": 1,
     "image": "tennis-love-230831.webp"
+  },
+  {
+    "giftId": "31764",
+    "name": "The Jeffs",
+    "points": 1,
+    "image": "the-jeffs-31764.webp"
   },
   {
     "giftId": "1222254",
@@ -10768,6 +10822,12 @@
     "name": "Viky",
     "points": 1,
     "image": "viky-361245.webp"
+  },
+  {
+    "giftId": "1383264",
+    "name": "Vilma Mbretëresh",
+    "points": 1,
+    "image": "vilma-mbreteresh-1383264.webp"
   },
   {
     "giftId": "215827",
@@ -12052,6 +12112,12 @@
     "name": "こうやレッド",
     "points": 1,
     "image": "gift-31550.webp"
+  },
+  {
+    "giftId": "21774",
+    "name": "スイートな宝物",
+    "points": 1,
+    "image": "gift-21774.webp"
   },
   {
     "giftId": "75889",
@@ -14166,6 +14232,12 @@
     "image": "eye-see-you-11526.webp"
   },
   {
+    "giftId": "59294",
+    "name": "Festival Fan",
+    "points": 199,
+    "image": "festival-fan-59294.webp"
+  },
+  {
     "giftId": "8004",
     "name": "Gamer Cat",
     "points": 199,
@@ -14872,6 +14944,12 @@
     "name": "The Stealth Wand",
     "points": 199,
     "image": "the-stealth-wand-1329456.webp"
+  },
+  {
+    "giftId": "1321909",
+    "name": "TheJeffs",
+    "points": 199,
+    "image": "thejeffs-1321909.webp"
   },
   {
     "giftId": "1331658",
@@ -17580,6 +17658,12 @@
     "image": "snowfall-17804.webp"
   },
   {
+    "giftId": "9918",
+    "name": "Snowfalls",
+    "points": 999,
+    "image": "snowfalls-9918.webp"
+  },
+  {
     "giftId": "12683",
     "name": "TikTok Air Drop",
     "points": 999,
@@ -19902,6 +19986,12 @@
     "image": "ferris-fireworks-17758.webp"
   },
   {
+    "giftId": "57890",
+    "name": "Fireworks Spectacular",
+    "points": 7000,
+    "image": "fireworks-spectacular-57890.webp"
+  },
+  {
     "giftId": "1188512",
     "name": "Guanajuato",
     "points": 7000,
@@ -20212,6 +20302,12 @@
     "name": "Lili and Sakura",
     "points": 12000,
     "image": "lili-and-sakura-55221.webp"
+  },
+  {
+    "giftId": "1493505",
+    "name": "Mountains",
+    "points": 12000,
+    "image": "mountains-1493505.webp"
   },
   {
     "giftId": "1447533",
@@ -20704,6 +20800,12 @@
     "name": "Ice Kingdom",
     "points": 20000,
     "image": "ice-kingdom-9803.webp"
+  },
+  {
+    "giftId": "1493506",
+    "name": "Ice Kingdom",
+    "points": 20000,
+    "image": "ice-kingdom-1493506.webp"
   },
   {
     "giftId": "10398",
