@@ -6534,6 +6534,12 @@
     "image": "camdade-roar-30043.webp"
   },
   {
+    "giftId": "37645",
+    "name": "Camille Azur",
+    "points": 1,
+    "image": "camille-azur-37645.webp"
+  },
+  {
     "giftId": "147849",
     "name": "Capi Furioso",
     "points": 1,
@@ -6972,6 +6978,12 @@
     "image": "dasha-1343927.webp"
   },
   {
+    "giftId": "53396",
+    "name": "Dein Onkel",
+    "points": 1,
+    "image": "dein-onkel-53396.webp"
+  },
+  {
     "giftId": "32883",
     "name": "Deni Blondie",
     "points": 1,
@@ -7392,6 +7404,12 @@
     "image": "flamingo-oleles-220651.webp"
   },
   {
+    "giftId": "296730",
+    "name": "Flor hermosa",
+    "points": 1,
+    "image": "flor-hermosa-296730.webp"
+  },
+  {
     "giftId": "1223322",
     "name": "Flori Zâmbăreața",
     "points": 1,
@@ -7642,6 +7660,12 @@
     "name": "Gözlüklü Haris",
     "points": 1,
     "image": "gozluklu-haris-57587.webp"
+  },
+  {
+    "giftId": "1233681",
+    "name": "Graceloves",
+    "points": 1,
+    "image": "graceloves-1233681.webp"
   },
   {
     "giftId": "17416",
@@ -7978,6 +8002,12 @@
     "name": "Jessy Sfrontata",
     "points": 1,
     "image": "jessy-sfrontata-85564.webp"
+  },
+  {
+    "giftId": "245529",
+    "name": "Jimmy Flash",
+    "points": 1,
+    "image": "jimmy-flash-245529.webp"
   },
   {
     "giftId": "247764",
@@ -8836,6 +8866,12 @@
     "name": "Metal Tulip",
     "points": 1,
     "image": "metal-tulip-1479744.webp"
+  },
+  {
+    "giftId": "344568",
+    "name": "Meu advogado",
+    "points": 1,
+    "image": "meu-advogado-344568.webp"
   },
   {
     "giftId": "81388",
@@ -10980,6 +11016,12 @@
     "image": "w-flash-1258590.webp"
   },
   {
+    "giftId": "28464",
+    "name": "W.N.P Raccoon",
+    "points": 1,
+    "image": "w-n-p-raccoon-28464.webp"
+  },
+  {
     "giftId": "1410189",
     "name": "WaZe",
     "points": 1,
@@ -11994,6 +12036,12 @@
     "image": "gift-20231.webp"
   },
   {
+    "giftId": "263882",
+    "name": "이규영 미소",
+    "points": 1,
+    "image": "gift-263882.webp"
+  },
+  {
     "giftId": "326776",
     "name": "인아냥",
     "points": 1,
@@ -12124,6 +12172,12 @@
     "name": "티요닝 파자마",
     "points": 1,
     "image": "gift-28332.webp"
+  },
+  {
+    "giftId": "28875",
+    "name": "팜트리 온기",
+    "points": 1,
+    "image": "gift-28875.webp"
   },
   {
     "giftId": "56225",
@@ -12316,6 +12370,12 @@
     "name": "みーたんママ",
     "points": 1,
     "image": "gift-20517.webp"
+  },
+  {
+    "giftId": "68032",
+    "name": "みら様",
+    "points": 1,
+    "image": "gift-68032.webp"
   },
   {
     "giftId": "22423",
@@ -13326,6 +13386,12 @@
     "image": "flight-ticket-1359369.webp"
   },
   {
+    "giftId": "1519040",
+    "name": "Fly - Travel",
+    "points": 30,
+    "image": "fly-travel-1519040.webp"
+  },
+  {
     "giftId": "1064366",
     "name": "Fondue",
     "points": 30,
@@ -14176,6 +14242,12 @@
     "name": "Alo Gang",
     "points": 199,
     "image": "alo-gang-1320628.webp"
+  },
+  {
+    "giftId": "1519041",
+    "name": "Bag - Travel",
+    "points": 199,
+    "image": "bag-travel-1519041.webp"
   },
   {
     "giftId": "1315812",
@@ -16932,6 +17004,12 @@
     "image": "surfing-penguin-17274.webp"
   },
   {
+    "giftId": "57000",
+    "name": "Travel Destination",
+    "points": 499,
+    "image": "travel-destination-57000.webp"
+  },
+  {
     "giftId": "1229451",
     "name": "Travel Vibes",
     "points": 499,
@@ -18822,6 +18900,12 @@
     "image": "battle-crush-55033.webp"
   },
   {
+    "giftId": "16026",
+    "name": "Airship",
+    "points": 1999,
+    "image": "airship-16026.webp"
+  },
+  {
     "giftId": "11079",
     "name": "Beach Cabin",
     "points": 1999,
@@ -19860,6 +19944,12 @@
     "image": "chopin-s-nocturne-17908.webp"
   },
   {
+    "giftId": "1519044",
+    "name": "Corgi-Travel",
+    "points": 5000,
+    "image": "corgi-travel-1519044.webp"
+  },
+  {
     "giftId": "11519",
     "name": "Diamond Gun",
     "points": 5000,
@@ -20638,6 +20728,12 @@
     "name": "Superstar",
     "points": 12000,
     "image": "superstar-57326.webp"
+  },
+  {
+    "giftId": "56191",
+    "name": "TikTok Flight",
+    "points": 12000,
+    "image": "tiktok-flight-56191.webp"
   },
   {
     "giftId": "10787",
