@@ -540,6 +540,12 @@
     "image": "gift-106370.webp"
   },
   {
+    "giftId": "122745",
+    "name": "عتيبه الحزم",
+    "points": 1,
+    "image": "gift-122745.webp"
+  },
+  {
     "giftId": "124932",
     "name": "عوووو هوتسي",
     "points": 1,
@@ -6294,6 +6300,12 @@
     "image": "beyza-diva-163220.webp"
   },
   {
+    "giftId": "1510751",
+    "name": "Bianca Glow",
+    "points": 1,
+    "image": "bianca-glow-1510751.webp"
+  },
+  {
     "giftId": "1498145",
     "name": "Bianka Bia",
     "points": 1,
@@ -6712,6 +6724,12 @@
     "name": "Coco SCB",
     "points": 1,
     "image": "coco-scb-58265.webp"
+  },
+  {
+    "giftId": "482723",
+    "name": "Coconut",
+    "points": 1,
+    "image": "coconut-482723.webp"
   },
   {
     "giftId": "281780",
@@ -10320,6 +10338,12 @@
     "image": "star-18673.webp"
   },
   {
+    "giftId": "20485",
+    "name": "Star Fam",
+    "points": 1,
+    "image": "star-fam-20485.webp"
+  },
+  {
     "giftId": "29356",
     "name": "Star Gaze",
     "points": 1,
@@ -10702,6 +10726,12 @@
     "name": "TIIROOFAMILY",
     "points": 1,
     "image": "tiiroofamily-127163.webp"
+  },
+  {
+    "giftId": "19650",
+    "name": "Tim Lion",
+    "points": 1,
+    "image": "tim-lion-19650.webp"
   },
   {
     "giftId": "1124058",
@@ -15022,6 +15052,12 @@
     "name": "Star Glasses",
     "points": 199,
     "image": "star-glasses-16833.webp"
+  },
+  {
+    "giftId": "1300585",
+    "name": "Star Wand",
+    "points": 199,
+    "image": "star-wand-1300585.webp"
   },
   {
     "giftId": "1320920",
