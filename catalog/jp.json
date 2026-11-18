@@ -573,14 +573,6 @@
   },
   {
     "giftIds": [
-      "29869"
-    ],
-    "name": "お嬢",
-    "points": 1,
-    "image": "gift-29869.webp"
-  },
-  {
-    "giftIds": [
       "35779"
     ],
     "name": "お揃いの赤",
@@ -725,6 +717,14 @@
   },
   {
     "giftIds": [
+      "22501"
+    ],
+    "name": "夜更かしの合図",
+    "points": 1,
+    "image": "gift-22501.webp"
+  },
+  {
+    "giftIds": [
       "28429"
     ],
     "name": "夢幻おにぎり",
@@ -802,14 +802,6 @@
     "name": "Team Bracelet",
     "points": 2,
     "image": "team-bracelet-9139.webp"
-  },
-  {
-    "giftIds": [
-      "121825"
-    ],
-    "name": "Baseball",
-    "points": 5,
-    "image": "baseball-121825.webp"
   },
   {
     "giftIds": [
@@ -1235,14 +1227,6 @@
     "name": "Style Me Up",
     "points": 10,
     "image": "style-me-up-18107.webp"
-  },
-  {
-    "giftIds": [
-      "1012732"
-    ],
-    "name": "Taiko no Tatujin",
-    "points": 10,
-    "image": "taiko-no-tatujin-1012732.webp"
   },
   {
     "giftIds": [
@@ -2098,14 +2082,6 @@
     "name": "Cruiser",
     "points": 150,
     "image": "cruiser-1322340.webp"
-  },
-  {
-    "giftIds": [
-      "1138045"
-    ],
-    "name": "Louis the Cardinal",
-    "points": 150,
-    "image": "louis-the-cardinal-1138045.webp"
   },
   {
     "giftIds": [
@@ -3018,14 +2994,6 @@
     "name": "Pony Lantern",
     "points": 299,
     "image": "pony-lantern-48231.webp"
-  },
-  {
-    "giftIds": [
-      "1012748"
-    ],
-    "name": "Pop, Don!?",
-    "points": 299,
-    "image": "pop-don-1012748.webp"
   },
   {
     "giftIds": [
@@ -4335,17 +4303,6 @@
   },
   {
     "giftIds": [
-      "13122",
-      "13726",
-      "13916",
-      "58353"
-    ],
-    "name": "Diamond Microphone",
-    "points": 500,
-    "image": "diamond-microphone-13122.webp"
-  },
-  {
-    "giftIds": [
       "11583"
     ],
     "name": "DJ Glasses",
@@ -4477,15 +4434,6 @@
     "name": "Jungle Tom",
     "points": 500,
     "image": "jungle-tom-56595.webp"
-  },
-  {
-    "giftIds": [
-      "49430",
-      "16233"
-    ],
-    "name": "Let's Be Friends",
-    "points": 500,
-    "image": "let-s-be-friends-49430.webp"
   },
   {
     "giftIds": [
@@ -4864,14 +4812,6 @@
   },
   {
     "giftIds": [
-      "1012744"
-    ],
-    "name": "Surprise!",
-    "points": 699,
-    "image": "surprise-1012744.webp"
-  },
-  {
-    "giftIds": [
       "5897"
     ],
     "name": "Swan",
@@ -5078,14 +5018,6 @@
     "name": "Blooming Ribbons",
     "points": 1000,
     "image": "blooming-ribbons-9498.webp"
-  },
-  {
-    "giftIds": [
-      "12196"
-    ],
-    "name": "Cooper Baseball",
-    "points": 1000,
-    "image": "cooper-baseball-12196.webp"
   },
   {
     "giftIds": [
@@ -5787,15 +5719,6 @@
     "name": "Getting Ready",
     "points": 1999,
     "image": "getting-ready-946652.webp"
-  },
-  {
-    "giftIds": [
-      "946676",
-      "1190505"
-    ],
-    "name": "Glam Up",
-    "points": 1999,
-    "image": "glam-up-946676.webp"
   },
   {
     "giftIds": [
@@ -6647,14 +6570,6 @@
   },
   {
     "giftIds": [
-      "1138046"
-    ],
-    "name": "Diamond Trophy",
-    "points": 5000,
-    "image": "diamond-trophy-1138046.webp"
-  },
-  {
-    "giftIds": [
       "9500"
     ],
     "name": "Flying Jets",
@@ -6860,14 +6775,6 @@
   },
   {
     "giftIds": [
-      "946678"
-    ],
-    "name": "Picture Perfect",
-    "points": 6000,
-    "image": "picture-perfect-946678.webp"
-  },
-  {
-    "giftIds": [
       "59884"
     ],
     "name": "Rust Reforged",
@@ -6953,14 +6860,6 @@
     "name": "Fireworks Spectacular",
     "points": 7000,
     "image": "fireworks-spectacular-57890.webp"
-  },
-  {
-    "giftIds": [
-      "1012736"
-    ],
-    "name": "It's a festival!",
-    "points": 7000,
-    "image": "it-s-a-festival-1012736.webp"
   },
   {
     "giftIds": [
@@ -7248,14 +7147,6 @@
     "name": "Daylight Debut",
     "points": 13999,
     "image": "daylight-debut-1190501.webp"
-  },
-  {
-    "giftIds": [
-      "946684"
-    ],
-    "name": "Ending Fairy",
-    "points": 13999,
-    "image": "ending-fairy-946684.webp"
   },
   {
     "giftIds": [
@@ -7698,14 +7589,6 @@
     "name": "TikTok Shuttle",
     "points": 20000,
     "image": "tiktok-shuttle-6751.webp"
-  },
-  {
-    "giftIds": [
-      "1012760"
-    ],
-    "name": "Dragon Gate",
-    "points": 20888,
-    "image": "dragon-gate-1012760.webp"
   },
   {
     "giftIds": [
@@ -8886,6 +8769,14 @@
   },
   {
     "giftIds": [
+      "1251689"
+    ],
+    "name": "Bomboneii",
+    "points": 1,
+    "image": "bomboneii-1251689.webp"
+  },
+  {
+    "giftIds": [
       "65367"
     ],
     "name": "Bonkers Tracy",
@@ -9323,6 +9214,14 @@
     "name": "Coco SCB",
     "points": 1,
     "image": "coco-scb-58265.webp"
+  },
+  {
+    "giftIds": [
+      "1043104"
+    ],
+    "name": "Coco Sphynx",
+    "points": 1,
+    "image": "coco-sphynx-1043104.webp"
   },
   {
     "giftIds": [
@@ -11602,6 +11501,14 @@
   },
   {
     "giftIds": [
+      "47879"
+    ],
+    "name": "Liljobiz Rawaya",
+    "points": 1,
+    "image": "liljobiz-rawaya-47879.webp"
+  },
+  {
+    "giftIds": [
       "1308781"
     ],
     "name": "Lilly",
@@ -13270,6 +13177,14 @@
   },
   {
     "giftIds": [
+      "40542"
+    ],
+    "name": "Pulgarcita Pili",
+    "points": 1,
+    "image": "pulgarcita-pili-40542.webp"
+  },
+  {
+    "giftIds": [
       "12569",
       "17571",
       "1432790"
@@ -13397,6 +13312,14 @@
     "name": "Rainbow Tulip",
     "points": 1,
     "image": "rainbow-tulip-1479742.webp"
+  },
+  {
+    "giftIds": [
+      "33008"
+    ],
+    "name": "Raja Stance",
+    "points": 1,
+    "image": "raja-stance-33008.webp"
   },
   {
     "giftIds": [
@@ -14487,6 +14410,14 @@
     "name": "TEAM KAYLA",
     "points": 1,
     "image": "team-kayla-304104.webp"
+  },
+  {
+    "giftIds": [
+      "63775"
+    ],
+    "name": "Team Liesa",
+    "points": 1,
+    "image": "team-liesa-63775.webp"
   },
   {
     "giftIds": [
@@ -16771,6 +16702,14 @@
   },
   {
     "giftIds": [
+      "47298"
+    ],
+    "name": "참치마요",
+    "points": 1,
+    "image": "gift-47298.webp"
+  },
+  {
+    "giftIds": [
       "28419"
     ],
     "name": "천사 현이",
@@ -17003,6 +16942,14 @@
   },
   {
     "giftIds": [
+      "29869"
+    ],
+    "name": "お嬢",
+    "points": 1,
+    "image": "gift-29869.webp"
+  },
+  {
+    "giftIds": [
       "24548"
     ],
     "name": "ヒョンソクチェック",
@@ -17048,6 +16995,14 @@
     "name": "Thumbs Up",
     "points": 2,
     "image": "thumbs-up-16709.webp"
+  },
+  {
+    "giftIds": [
+      "121825"
+    ],
+    "name": "Baseball",
+    "points": 5,
+    "image": "baseball-121825.webp"
   },
   {
     "giftIds": [
@@ -17766,6 +17721,14 @@
     "name": "Star",
     "points": 10,
     "image": "star-62837.webp"
+  },
+  {
+    "giftIds": [
+      "1012732"
+    ],
+    "name": "Taiko no Tatujin",
+    "points": 10,
+    "image": "taiko-no-tatujin-1012732.webp"
   },
   {
     "giftIds": [
@@ -18709,6 +18672,14 @@
   },
   {
     "giftIds": [
+      "1138045"
+    ],
+    "name": "Louis the Cardinal",
+    "points": 150,
+    "image": "louis-the-cardinal-1138045.webp"
+  },
+  {
+    "giftIds": [
       "1402659"
     ],
     "name": "Penlight",
@@ -19128,6 +19099,14 @@
     "name": "Lemonade",
     "points": 199,
     "image": "lemonade-1343022.webp"
+  },
+  {
+    "giftIds": [
+      "1314443"
+    ],
+    "name": "Liesa",
+    "points": 199,
+    "image": "liesa-1314443.webp"
   },
   {
     "giftIds": [
@@ -20065,6 +20044,14 @@
   },
   {
     "giftIds": [
+      "1012748"
+    ],
+    "name": "Pop, Don!?",
+    "points": 299,
+    "image": "pop-don-1012748.webp"
+  },
+  {
+    "giftIds": [
       "12499"
     ],
     "name": "Potato on a Vespa",
@@ -20741,6 +20728,17 @@
   },
   {
     "giftIds": [
+      "13122",
+      "13726",
+      "13916",
+      "58353"
+    ],
+    "name": "Diamond Microphone",
+    "points": 500,
+    "image": "diamond-microphone-13122.webp"
+  },
+  {
+    "giftIds": [
       "8892"
     ],
     "name": "Dream Team",
@@ -20833,6 +20831,15 @@
     "name": "Knight",
     "points": 500,
     "image": "knight-59113.webp"
+  },
+  {
+    "giftIds": [
+      "16233",
+      "49430"
+    ],
+    "name": "Let's Be Friends",
+    "points": 500,
+    "image": "let-s-be-friends-16233.webp"
   },
   {
     "giftIds": [
@@ -21075,6 +21082,14 @@
     "name": "Pinata",
     "points": 699,
     "image": "pinata-1188500.webp"
+  },
+  {
+    "giftIds": [
+      "1012744"
+    ],
+    "name": "Surprise!",
+    "points": 699,
+    "image": "surprise-1012744.webp"
   },
   {
     "giftIds": [
@@ -21356,6 +21371,14 @@
     "name": "Bigheads",
     "points": 1000,
     "image": "bigheads-1350132.webp"
+  },
+  {
+    "giftIds": [
+      "12196"
+    ],
+    "name": "Cooper Baseball",
+    "points": 1000,
+    "image": "cooper-baseball-12196.webp"
   },
   {
     "giftIds": [
@@ -21907,6 +21930,15 @@
   },
   {
     "giftIds": [
+      "946676",
+      "1190505"
+    ],
+    "name": "Glam Up",
+    "points": 1999,
+    "image": "glam-up-946676.webp"
+  },
+  {
+    "giftIds": [
       "1190484"
     ],
     "name": "Glam Up",
@@ -22346,6 +22378,14 @@
   },
   {
     "giftIds": [
+      "1516337"
+    ],
+    "name": "Shining Stage",
+    "points": 2999,
+    "image": "shining-stage-1516337.webp"
+  },
+  {
+    "giftIds": [
       "1064204"
     ],
     "name": "Balloon and Dart",
@@ -22727,6 +22767,14 @@
   },
   {
     "giftIds": [
+      "1138046"
+    ],
+    "name": "Diamond Trophy",
+    "points": 5000,
+    "image": "diamond-trophy-1138046.webp"
+  },
+  {
+    "giftIds": [
       "8988"
     ],
     "name": "DJ Alien",
@@ -22802,11 +22850,12 @@
   },
   {
     "giftIds": [
+      "12895",
       "1447385"
     ],
     "name": "Scarecrow",
     "points": 5000,
-    "image": "scarecrow-1447385.webp"
+    "image": "scarecrow-12895.webp"
   },
   {
     "giftIds": [
@@ -22964,6 +23013,14 @@
   },
   {
     "giftIds": [
+      "946678"
+    ],
+    "name": "Picture Perfect",
+    "points": 6000,
+    "image": "picture-perfect-946678.webp"
+  },
+  {
+    "giftIds": [
       "1190486"
     ],
     "name": "Picture Perfect",
@@ -23076,6 +23133,14 @@
     "name": "Guanajuato",
     "points": 7000,
     "image": "guanajuato-1188512.webp"
+  },
+  {
+    "giftIds": [
+      "1012736"
+    ],
+    "name": "It's a festival!",
+    "points": 7000,
+    "image": "it-s-a-festival-1012736.webp"
   },
   {
     "giftIds": [
@@ -23481,6 +23546,14 @@
     "name": "Voyage On",
     "points": 13500,
     "image": "voyage-on-17065.webp"
+  },
+  {
+    "giftIds": [
+      "946684"
+    ],
+    "name": "Ending Fairy",
+    "points": 13999,
+    "image": "ending-fairy-946684.webp"
   },
   {
     "giftIds": [
@@ -24004,6 +24077,14 @@
   },
   {
     "giftIds": [
+      "1012760"
+    ],
+    "name": "Dragon Gate",
+    "points": 20888,
+    "image": "dragon-gate-1012760.webp"
+  },
+  {
+    "giftIds": [
       "952974"
     ],
     "name": "Pop Out",
@@ -24082,6 +24163,14 @@
     "name": "Towards Future",
     "points": 28888,
     "image": "towards-future-1432295.webp"
+  },
+  {
+    "giftIds": [
+      "8563"
+    ],
+    "name": "Golden Car",
+    "points": 29999,
+    "image": "golden-car-8563.webp"
   },
   {
     "giftIds": [

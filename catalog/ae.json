@@ -8776,6 +8776,14 @@
   },
   {
     "giftIds": [
+      "1251689"
+    ],
+    "name": "Bomboneii",
+    "points": 1,
+    "image": "bomboneii-1251689.webp"
+  },
+  {
+    "giftIds": [
       "65367"
     ],
     "name": "Bonkers Tracy",
@@ -9221,6 +9229,14 @@
     "name": "Coco SCB",
     "points": 1,
     "image": "coco-scb-58265.webp"
+  },
+  {
+    "giftIds": [
+      "1043104"
+    ],
+    "name": "Coco Sphynx",
+    "points": 1,
+    "image": "coco-sphynx-1043104.webp"
   },
   {
     "giftIds": [
@@ -11436,6 +11452,14 @@
   },
   {
     "giftIds": [
+      "47879"
+    ],
+    "name": "Liljobiz Rawaya",
+    "points": 1,
+    "image": "liljobiz-rawaya-47879.webp"
+  },
+  {
+    "giftIds": [
       "424711"
     ],
     "name": "Lina Butterflies",
@@ -13087,6 +13111,14 @@
   },
   {
     "giftIds": [
+      "40542"
+    ],
+    "name": "Pulgarcita Pili",
+    "points": 1,
+    "image": "pulgarcita-pili-40542.webp"
+  },
+  {
+    "giftIds": [
       "12569",
       "17571",
       "1432790"
@@ -13214,6 +13246,14 @@
     "name": "Rainbow Tulip",
     "points": 1,
     "image": "rainbow-tulip-1479742.webp"
+  },
+  {
+    "giftIds": [
+      "33008"
+    ],
+    "name": "Raja Stance",
+    "points": 1,
+    "image": "raja-stance-33008.webp"
   },
   {
     "giftIds": [
@@ -14312,6 +14352,14 @@
     "name": "TEAM KAYLA",
     "points": 1,
     "image": "team-kayla-304104.webp"
+  },
+  {
+    "giftIds": [
+      "63775"
+    ],
+    "name": "Team Liesa",
+    "points": 1,
+    "image": "team-liesa-63775.webp"
   },
   {
     "giftIds": [
@@ -16357,6 +16405,14 @@
   },
   {
     "giftIds": [
+      "47298"
+    ],
+    "name": "참치마요",
+    "points": 1,
+    "image": "gift-47298.webp"
+  },
+  {
+    "giftIds": [
       "28419"
     ],
     "name": "천사 현이",
@@ -16770,6 +16826,14 @@
     "name": "偽あべし",
     "points": 1,
     "image": "gift-97760.webp"
+  },
+  {
+    "giftIds": [
+      "22501"
+    ],
+    "name": "夜更かしの合図",
+    "points": 1,
+    "image": "gift-22501.webp"
   },
   {
     "giftIds": [
@@ -18943,6 +19007,14 @@
     "name": "Lemonade",
     "points": 199,
     "image": "lemonade-1343022.webp"
+  },
+  {
+    "giftIds": [
+      "1314443"
+    ],
+    "name": "Liesa",
+    "points": 199,
+    "image": "liesa-1314443.webp"
   },
   {
     "giftIds": [
@@ -22293,6 +22365,14 @@
   },
   {
     "giftIds": [
+      "1516337"
+    ],
+    "name": "Shining Stage",
+    "points": 2999,
+    "image": "shining-stage-1516337.webp"
+  },
+  {
+    "giftIds": [
       "1064204"
     ],
     "name": "Balloon and Dart",
@@ -22785,11 +22865,12 @@
   },
   {
     "giftIds": [
+      "12895",
       "1447385"
     ],
     "name": "Scarecrow",
     "points": 5000,
-    "image": "scarecrow-1447385.webp"
+    "image": "scarecrow-12895.webp"
   },
   {
     "giftIds": [
@@ -24098,6 +24179,14 @@
     "name": "Towards Future",
     "points": 28888,
     "image": "towards-future-1432295.webp"
+  },
+  {
+    "giftIds": [
+      "8563"
+    ],
+    "name": "Golden Car",
+    "points": 29999,
+    "image": "golden-car-8563.webp"
   },
   {
     "giftIds": [
