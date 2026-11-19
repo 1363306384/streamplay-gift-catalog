@@ -558,6 +558,12 @@
     "image": "gift-122745.webp"
   },
   {
+    "giftId": "1182506",
+    "name": "عهود السعدي",
+    "points": 1,
+    "image": "gift-1182506.webp"
+  },
+  {
     "giftId": "124932",
     "name": "عوووو هوتسي",
     "points": 1,
@@ -5280,6 +5286,12 @@
     "image": "tidecaller-trident-54539.webp"
   },
   {
+    "giftId": "1470918",
+    "name": "Trident of Life",
+    "points": 14999,
+    "image": "trident-of-life-1470918.webp"
+  },
+  {
     "giftId": "1374230",
     "name": "A Fun House",
     "points": 15000,
@@ -5622,6 +5634,12 @@
     "image": "light-castle-59711.webp"
   },
   {
+    "giftId": "1470919",
+    "name": "Mother's Call",
+    "points": 25999,
+    "image": "mother-s-call-1470919.webp"
+  },
+  {
     "giftId": "7319",
     "name": "Phoenix",
     "points": 25999,
@@ -5764,6 +5782,12 @@
     "name": "Pegasus",
     "points": 42999,
     "image": "pegasus-9427.webp"
+  },
+  {
+    "giftId": "1470920",
+    "name": "Scion of the Sea",
+    "points": 42999,
+    "image": "scion-of-the-sea-1470920.webp"
   },
   {
     "giftId": "1377342",
@@ -6754,6 +6778,12 @@
     "name": "CHINO",
     "points": 1,
     "image": "chino-288752.webp"
+  },
+  {
+    "giftId": "95640",
+    "name": "Chubby al Mando",
+    "points": 1,
+    "image": "chubby-al-mando-95640.webp"
   },
   {
     "giftId": "33465",
@@ -8290,6 +8320,12 @@
     "name": "Kaziu Prezes",
     "points": 1,
     "image": "kaziu-prezes-29730.webp"
+  },
+  {
+    "giftId": "238275",
+    "name": "Kekko",
+    "points": 1,
+    "image": "kekko-238275.webp"
   },
   {
     "giftId": "63272",
@@ -10066,6 +10102,12 @@
     "name": "Rico Pop",
     "points": 1,
     "image": "rico-pop-1297967.webp"
+  },
+  {
+    "giftId": "213693",
+    "name": "Ricsi Póz",
+    "points": 1,
+    "image": "ricsi-poz-213693.webp"
   },
   {
     "giftId": "224536",
