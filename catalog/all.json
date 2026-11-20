@@ -624,6 +624,12 @@
     "image": "gift-24807.webp"
   },
   {
+    "giftId": "1196198",
+    "name": "نوج",
+    "points": 1,
+    "image": "gift-1196198.webp"
+  },
+  {
     "giftId": "210754",
     "name": "نودي",
     "points": 1,
@@ -5161,9 +5167,9 @@
   },
   {
     "giftId": "169261",
-    "name": "Verified Glider",
+    "name": "Glider",
     "points": 10999,
-    "image": "verified-glider-169261.webp"
+    "image": "glider-169261.webp"
   },
   {
     "giftId": "1493480",
@@ -6414,6 +6420,12 @@
     "image": "bibingka-16757.webp"
   },
   {
+    "giftId": "30101",
+    "name": "BIC Llama",
+    "points": 1,
+    "image": "bic-llama-30101.webp"
+  },
+  {
     "giftId": "297651",
     "name": "Big Skinny GOAT",
     "points": 1,
@@ -6658,6 +6670,12 @@
     "name": "Capi Furioso",
     "points": 1,
     "image": "capi-furioso-147849.webp"
+  },
+  {
+    "giftId": "92497",
+    "name": "Capri Charme",
+    "points": 1,
+    "image": "capri-charme-92497.webp"
   },
   {
     "giftId": "350500",
@@ -7114,6 +7132,12 @@
     "name": "Dasha",
     "points": 1,
     "image": "dasha-1343927.webp"
+  },
+  {
+    "giftId": "913746",
+    "name": "DAVIJOKI TEAM",
+    "points": 1,
+    "image": "davijoki-team-913746.webp"
   },
   {
     "giftId": "53396",
@@ -7866,6 +7890,12 @@
     "image": "gun-38566.webp"
   },
   {
+    "giftId": "26171",
+    "name": "Gurkenglas",
+    "points": 1,
+    "image": "gurkenglas-26171.webp"
+  },
+  {
     "giftId": "50023",
     "name": "Gyuszika AMG",
     "points": 1,
@@ -7972,6 +8002,12 @@
     "name": "Heni Szív",
     "points": 1,
     "image": "heni-sziv-248562.webp"
+  },
+  {
+    "giftId": "56688",
+    "name": "Heroes Shades",
+    "points": 1,
+    "image": "heroes-shades-56688.webp"
   },
   {
     "giftId": "15670",
@@ -8952,6 +8988,12 @@
     "image": "maroon-beth-46646.webp"
   },
   {
+    "giftId": "978156",
+    "name": "MarthaBartha",
+    "points": 1,
+    "image": "marthabartha-978156.webp"
+  },
+  {
     "giftId": "155113",
     "name": "Martina Chic",
     "points": 1,
@@ -9162,6 +9204,12 @@
     "image": "mint-chat-1239570.webp"
   },
   {
+    "giftId": "20705",
+    "name": "Mint Lottie",
+    "points": 1,
+    "image": "mint-lottie-20705.webp"
+  },
+  {
     "giftId": "37872",
     "name": "Mirada Tierna",
     "points": 1,
@@ -9190,6 +9238,12 @@
     "name": "MnM gng",
     "points": 1,
     "image": "mnm-gng-1306068.webp"
+  },
+  {
+    "giftId": "30434",
+    "name": "Moeda da Tropa",
+    "points": 1,
+    "image": "moeda-da-tropa-30434.webp"
   },
   {
     "giftId": "52609",
@@ -10692,6 +10746,12 @@
     "image": "street-legend-32342.webp"
   },
   {
+    "giftId": "63421",
+    "name": "Stud Surge",
+    "points": 1,
+    "image": "stud-surge-63421.webp"
+  },
+  {
     "giftId": "1150473",
     "name": "Studded Pose",
     "points": 1,
@@ -11052,6 +11112,12 @@
     "image": "tish-1124058.webp"
   },
   {
+    "giftId": "1424640",
+    "name": "Titan Heart",
+    "points": 1,
+    "image": "titan-heart-1424640.webp"
+  },
+  {
     "giftId": "55979",
     "name": "Titch Lion Roar",
     "points": 1,
@@ -11092,6 +11158,12 @@
     "name": "Travelove Love",
     "points": 1,
     "image": "travelove-love-118930.webp"
+  },
+  {
+    "giftId": "19519",
+    "name": "Trébol Lukys",
+    "points": 1,
+    "image": "trebol-lukys-19519.webp"
   },
   {
     "giftId": "38165",
@@ -11484,6 +11556,12 @@
     "image": "yovera-26991.webp"
   },
   {
+    "giftId": "27264",
+    "name": "Yukiクラウン",
+    "points": 1,
+    "image": "yuki-27264.webp"
+  },
+  {
     "giftId": "768854",
     "name": "Yvanna",
     "points": 1,
@@ -11812,6 +11890,12 @@
     "name": "حاجی سیاه سفید",
     "points": 1,
     "image": "gift-427348.webp"
+  },
+  {
+    "giftId": "48882",
+    "name": "خنسا رانی",
+    "points": 1,
+    "image": "gift-48882.webp"
   },
   {
     "giftId": "820102",
@@ -13672,6 +13756,12 @@
     "name": "Carnival Tent",
     "points": 20,
     "image": "carnival-tent-224540.webp"
+  },
+  {
+    "giftId": "1487605",
+    "name": "Carnival Tent",
+    "points": 20,
+    "image": "carnival-tent-1487605.webp"
   },
   {
     "giftId": "6426",
@@ -19494,6 +19584,12 @@
     "image": "baby-dragon-15418.webp"
   },
   {
+    "giftId": "9780",
+    "name": "Christmas Carousel",
+    "points": 2000,
+    "image": "christmas-carousel-9780.webp"
+  },
+  {
     "giftId": "6417",
     "name": "Club",
     "points": 2000,
@@ -20314,6 +20410,12 @@
     "name": "Chair Swing",
     "points": 4999,
     "image": "chair-swing-1064220.webp"
+  },
+  {
+    "giftId": "12744",
+    "name": "ChairSwing",
+    "points": 4999,
+    "image": "chairswing-12744.webp"
   },
   {
     "giftId": "14769",
@@ -21552,6 +21654,12 @@
     "image": "pk-star-10348.webp"
   },
   {
+    "giftId": "12743",
+    "name": "Rollercoaster",
+    "points": 15000,
+    "image": "rollercoaster-12743.webp"
+  },
+  {
     "giftId": "1124952",
     "name": "Savanna Elephants",
     "points": 15000,
@@ -21778,6 +21886,12 @@
     "name": "Black Tiger",
     "points": 22000,
     "image": "black-tiger-47646.webp"
+  },
+  {
+    "giftId": "1454002",
+    "name": "The King of Stage",
+    "points": 23000,
+    "image": "the-king-of-stage-1454002.webp"
   },
   {
     "giftId": "13352",
