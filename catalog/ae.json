@@ -557,6 +557,14 @@
   },
   {
     "giftIds": [
+      "30256"
+    ],
+    "name": "Wahba",
+    "points": 1,
+    "image": "wahba-30256.webp"
+  },
+  {
+    "giftIds": [
       "919346"
     ],
     "name": "Welcome Dallah",
@@ -17230,6 +17238,14 @@
   },
   {
     "giftIds": [
+      "20348"
+    ],
+    "name": "メェちゃん",
+    "points": 1,
+    "image": "gift-20348.webp"
+  },
+  {
+    "giftIds": [
       "37794"
     ],
     "name": "やまとペンギン",
@@ -19816,6 +19832,14 @@
     "name": "Suga Show",
     "points": 199,
     "image": "suga-show-1317677.webp"
+  },
+  {
+    "giftIds": [
+      "1340020"
+    ],
+    "name": "Sukuizu",
+    "points": 199,
+    "image": "sukuizu-1340020.webp"
   },
   {
     "giftIds": [

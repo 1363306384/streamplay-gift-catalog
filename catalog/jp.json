@@ -694,6 +694,14 @@
   },
   {
     "giftIds": [
+      "20348"
+    ],
+    "name": "メェちゃん",
+    "points": 1,
+    "image": "gift-20348.webp"
+  },
+  {
+    "giftIds": [
       "37794"
     ],
     "name": "やまとペンギン",
@@ -2424,6 +2432,14 @@
     "name": "Suitcase",
     "points": 199,
     "image": "suitcase-16275.webp"
+  },
+  {
+    "giftIds": [
+      "1340020"
+    ],
+    "name": "Sukuizu",
+    "points": 199,
+    "image": "sukuizu-1340020.webp"
   },
   {
     "giftIds": [
@@ -15419,6 +15435,14 @@
     "name": "W.N.P Raccoon",
     "points": 1,
     "image": "w-n-p-raccoon-28464.webp"
+  },
+  {
+    "giftIds": [
+      "30256"
+    ],
+    "name": "Wahba",
+    "points": 1,
+    "image": "wahba-30256.webp"
   },
   {
     "giftIds": [

@@ -16540,6 +16540,16 @@
     "source": "tiktools"
   },
   {
+    "giftId": "20348",
+    "name": "メェちゃん",
+    "points": 1,
+    "priceKnown": true,
+    "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/7ce0a6447d281af8bfae0ad1589d30f6723cbd495b663e744ffbc7520c9153f9.webp",
+    "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/7ce0a6447d281af8bfae0ad1589d30f6723cbd495b663e744ffbc7520c9153f9.webp",
+    "active": false,
+    "source": "tiktools"
+  },
+  {
     "giftId": "20363",
     "name": "Zino Ghostz",
     "points": 1,
@@ -17706,7 +17716,7 @@
     "priceKnown": true,
     "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/01c44ce176b11dbf91b25ed35c064563f4b0c71b83f8a999c7e66d7099048c8e.webp",
     "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/01c44ce176b11dbf91b25ed35c064563f4b0c71b83f8a999c7e66d7099048c8e.webp",
-    "active": true,
+    "active": false,
     "source": "tiktools"
   },
   {
@@ -18130,6 +18140,16 @@
     "source": "tiktools"
   },
   {
+    "giftId": "30256",
+    "name": "Wahba",
+    "points": 1,
+    "priceKnown": true,
+    "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/6041292df8dad6b6444d977a66af3fcff94ca9d588a51486e4558ad4a0c53661.webp",
+    "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/6041292df8dad6b6444d977a66af3fcff94ca9d588a51486e4558ad4a0c53661.webp",
+    "active": true,
+    "source": "tiktools"
+  },
+  {
     "giftId": "30434",
     "name": "Moeda da Tropa",
     "points": 1,
@@ -18296,7 +18316,7 @@
     "priceKnown": true,
     "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/b4caba266894cb3d661682929b9126c3676821bcb3053e8dd9431eb00d1f9fb5.webp",
     "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/b4caba266894cb3d661682929b9126c3676821bcb3053e8dd9431eb00d1f9fb5.webp",
-    "active": false,
+    "active": true,
     "source": "tiktools"
   },
   {
@@ -19236,7 +19256,7 @@
     "priceKnown": true,
     "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/315983605c70b9004e7fca03dc85015489bf94f6dd7dbd7ec6f10529193e36ce.webp",
     "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/315983605c70b9004e7fca03dc85015489bf94f6dd7dbd7ec6f10529193e36ce.webp",
-    "active": true,
+    "active": false,
     "source": "tiktools"
   },
   {
@@ -24694,8 +24714,8 @@
     "name": "Match Master",
     "points": 500,
     "priceKnown": true,
-    "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/9739691d76ef937d97240b5398e4e5d0168a73ee1d10e5f902c77ec883d83742.webp",
-    "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/9739691d76ef937d97240b5398e4e5d0168a73ee1d10e5f902c77ec883d83742.webp",
+    "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/264cb55d5efd25430127924cd01e8d949e9ac32f89b2a3ad9f756f965e3c1b19.webp",
+    "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/264cb55d5efd25430127924cd01e8d949e9ac32f89b2a3ad9f756f965e3c1b19.webp",
     "active": true,
     "source": "tiktools"
   },
@@ -24714,8 +24734,8 @@
     "name": "Match Maniac",
     "points": 2999,
     "priceKnown": true,
-    "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/ed19c831d511b4d437aab5132d897e91c6089d0f9ad9380cffed5a5b5fe0f780.webp",
-    "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/ed19c831d511b4d437aab5132d897e91c6089d0f9ad9380cffed5a5b5fe0f780.webp",
+    "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/32860b4afd265dfcac4ac8b5fb73cbb190cf30ce8673ef1992e4e69b9b61ca9f.webp",
+    "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/32860b4afd265dfcac4ac8b5fb73cbb190cf30ce8673ef1992e4e69b9b61ca9f.webp",
     "active": true,
     "source": "tiktools"
   },
@@ -33500,6 +33520,16 @@
     "source": "tiktools"
   },
   {
+    "giftId": "1340020",
+    "name": "Sukuizu",
+    "points": 199,
+    "priceKnown": true,
+    "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/66218e0287f33c350df44252103039f3b29869ff85380ec15276cba268d5d57f.webp",
+    "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/66218e0287f33c350df44252103039f3b29869ff85380ec15276cba268d5d57f.webp",
+    "active": true,
+    "source": "tiktools"
+  },
+  {
     "giftId": "1340223",
     "name": "Kaicho ga Subete",
     "points": 199,
@@ -35436,7 +35466,7 @@
     "priceKnown": true,
     "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/c8eb85e90396af31579c764fe991b4d767867604fb02c77f1c3ce884766c80e0.webp",
     "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/c8eb85e90396af31579c764fe991b4d767867604fb02c77f1c3ce884766c80e0.webp",
-    "active": true,
+    "active": false,
     "source": "tiktools"
   },
   {

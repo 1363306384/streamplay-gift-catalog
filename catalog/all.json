@@ -414,6 +414,12 @@
     "image": "umbrella-115510.webp"
   },
   {
+    "giftId": "30256",
+    "name": "Wahba",
+    "points": 1,
+    "image": "wahba-30256.webp"
+  },
+  {
     "giftId": "919346",
     "name": "Welcome Dallah",
     "points": 1,
@@ -12918,6 +12924,12 @@
     "image": "gift-22423.webp"
   },
   {
+    "giftId": "20348",
+    "name": "メェちゃん",
+    "points": 1,
+    "image": "gift-20348.webp"
+  },
+  {
     "giftId": "37794",
     "name": "やまとペンギン",
     "points": 1,
@@ -15814,6 +15826,12 @@
     "name": "Suitcase",
     "points": 199,
     "image": "suitcase-1244207.webp"
+  },
+  {
+    "giftId": "1340020",
+    "name": "Sukuizu",
+    "points": 199,
+    "image": "sukuizu-1340020.webp"
   },
   {
     "giftId": "1336572",
