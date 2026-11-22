@@ -726,6 +726,14 @@
   },
   {
     "giftIds": [
+      "41559"
+    ],
+    "name": "らぶうさたん",
+    "points": 1,
+    "image": "gift-41559.webp"
+  },
+  {
+    "giftIds": [
       "31577"
     ],
     "name": "るなぴぴ",
@@ -787,6 +795,14 @@
     "name": "洞窟のプリン",
     "points": 1,
     "image": "gift-26993.webp"
+  },
+  {
+    "giftIds": [
+      "33058"
+    ],
+    "name": "猫耳みれさま",
+    "points": 1,
+    "image": "gift-33058.webp"
   },
   {
     "giftIds": [
@@ -2512,6 +2528,14 @@
     "name": "最強ちょり軍団",
     "points": 199,
     "image": "gift-1335430.webp"
+  },
+  {
+    "giftIds": [
+      "1334730"
+    ],
+    "name": "守護神だ",
+    "points": 199,
+    "image": "gift-1334730.webp"
   },
   {
     "giftIds": [
@@ -17311,6 +17335,14 @@
   },
   {
     "giftIds": [
+      "160580"
+    ],
+    "name": "킴슈 손인사",
+    "points": 1,
+    "image": "gift-160580.webp"
+  },
+  {
+    "giftIds": [
       "19827"
     ],
     "name": "타투 마일로",
@@ -17508,6 +17540,14 @@
     "name": "お嬢",
     "points": 1,
     "image": "gift-29869.webp"
+  },
+  {
+    "giftIds": [
+      "29006"
+    ],
+    "name": "ちぇおんチーム",
+    "points": 1,
+    "image": "gift-29006.webp"
   },
   {
     "giftIds": [

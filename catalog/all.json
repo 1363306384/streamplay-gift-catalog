@@ -12684,6 +12684,12 @@
     "image": "kith-79481.webp"
   },
   {
+    "giftId": "160580",
+    "name": "킴슈 손인사",
+    "points": 1,
+    "image": "gift-160580.webp"
+  },
+  {
     "giftId": "19827",
     "name": "타투 마일로",
     "points": 1,
@@ -12888,6 +12894,12 @@
     "image": "gift-43125.webp"
   },
   {
+    "giftId": "29006",
+    "name": "ちぇおんチーム",
+    "points": 1,
+    "image": "gift-29006.webp"
+  },
+  {
     "giftId": "25391",
     "name": "ちょり軍団",
     "points": 1,
@@ -12966,6 +12978,12 @@
     "image": "gift-29521.webp"
   },
   {
+    "giftId": "41559",
+    "name": "らぶうさたん",
+    "points": 1,
+    "image": "gift-41559.webp"
+  },
+  {
     "giftId": "31577",
     "name": "るなぴぴ",
     "points": 1,
@@ -13030,6 +13048,12 @@
     "name": "熊猫电光",
     "points": 1,
     "image": "gift-546041.webp"
+  },
+  {
+    "giftId": "33058",
+    "name": "猫耳みれさま",
+    "points": 1,
+    "image": "gift-33058.webp"
   },
   {
     "giftId": "20474",
@@ -16048,6 +16072,12 @@
     "name": "最強ちょり軍団",
     "points": 199,
     "image": "gift-1335430.webp"
+  },
+  {
+    "giftId": "1334730",
+    "name": "守護神だ",
+    "points": 199,
+    "image": "gift-1334730.webp"
   },
   {
     "giftId": "12700",
