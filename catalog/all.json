@@ -6780,6 +6780,12 @@
     "image": "cery-1421238.webp"
   },
   {
+    "giftId": "38960",
+    "name": "Champion Du Monde",
+    "points": 1,
+    "image": "champion-du-monde-38960.webp"
+  },
+  {
     "giftId": "30248",
     "name": "Cheițe Sevi",
     "points": 1,
@@ -10122,6 +10128,12 @@
     "image": "queen-cherryz-113054.webp"
   },
   {
+    "giftId": "800638",
+    "name": "Queen Family",
+    "points": 1,
+    "image": "queen-family-800638.webp"
+  },
+  {
     "giftId": "657926",
     "name": "Rabaab Heart",
     "points": 1,
@@ -12702,6 +12714,12 @@
     "image": "gift-170852.webp"
   },
   {
+    "giftId": "1360398",
+    "name": "토냥이",
+    "points": 1,
+    "image": "gift-1360398.webp"
+  },
+  {
     "giftId": "28332",
     "name": "티요닝 파자마",
     "points": 1,
@@ -12844,6 +12862,12 @@
     "name": "こうやレッド",
     "points": 1,
     "image": "gift-31550.webp"
+  },
+  {
+    "giftId": "154046",
+    "name": "さいたん",
+    "points": 1,
+    "image": "gift-154046.webp"
   },
   {
     "giftId": "21774",
