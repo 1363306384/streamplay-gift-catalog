@@ -694,6 +694,14 @@
   },
   {
     "giftIds": [
+      "43361"
+    ],
+    "name": "ファビュラスサンタ",
+    "points": 1,
+    "image": "gift-43361.webp"
+  },
+  {
+    "giftIds": [
       "28992"
     ],
     "name": "ふわふわの相棒",
@@ -851,6 +859,14 @@
     "name": "白黒の悪魔",
     "points": 1,
     "image": "gift-32254.webp"
+  },
+  {
+    "giftIds": [
+      "20672"
+    ],
+    "name": "笑顔のドゥーン",
+    "points": 1,
+    "image": "gift-20672.webp"
   },
   {
     "giftIds": [
@@ -2275,6 +2291,14 @@
     "name": "Disco Capybara",
     "points": 199,
     "image": "disco-capybara-1428885.webp"
+  },
+  {
+    "giftIds": [
+      "1338697"
+    ],
+    "name": "Fabulous",
+    "points": 199,
+    "image": "fabulous-1338697.webp"
   },
   {
     "giftIds": [
@@ -10220,6 +10244,14 @@
   },
   {
     "giftIds": [
+      "1350533"
+    ],
+    "name": "Ella Bloom",
+    "points": 1,
+    "image": "ella-bloom-1350533.webp"
+  },
+  {
+    "giftIds": [
       "37667"
     ],
     "name": "Elma Shades",
@@ -10450,6 +10482,14 @@
     "name": "Fênix",
     "points": 1,
     "image": "fenix-74104.webp"
+  },
+  {
+    "giftIds": [
+      "1438702"
+    ],
+    "name": "Ferhat Flash",
+    "points": 1,
+    "image": "ferhat-flash-1438702.webp"
   },
   {
     "giftIds": [
@@ -12374,6 +12414,14 @@
   },
   {
     "giftIds": [
+      "49504"
+    ],
+    "name": "Marco Bleu",
+    "points": 1,
+    "image": "marco-bleu-49504.webp"
+  },
+  {
+    "giftIds": [
       "91211"
     ],
     "name": "Marco Real",
@@ -13287,6 +13335,14 @@
   },
   {
     "giftIds": [
+      "1186217"
+    ],
+    "name": "Pagnotta Segna",
+    "points": 1,
+    "image": "pagnotta-segna-1186217.webp"
+  },
+  {
+    "giftIds": [
       "63243"
     ],
     "name": "Pălăria DeeaS",
@@ -13428,6 +13484,14 @@
     "name": "Pendente Chat",
     "points": 1,
     "image": "pendente-chat-975884.webp"
+  },
+  {
+    "giftIds": [
+      "39644"
+    ],
+    "name": "Perisai Bossteam",
+    "points": 1,
+    "image": "perisai-bossteam-39644.webp"
   },
   {
     "giftIds": [
@@ -15735,6 +15799,14 @@
   },
   {
     "giftIds": [
+      "39340"
+    ],
+    "name": "Wizard King",
+    "points": 1,
+    "image": "wizard-king-39340.webp"
+  },
+  {
+    "giftIds": [
       "21353"
     ],
     "name": "Wolf Gang",
@@ -15876,6 +15948,14 @@
     "name": "yovera",
     "points": 1,
     "image": "yovera-26991.webp"
+  },
+  {
+    "giftIds": [
+      "25561"
+    ],
+    "name": "Yurena Violeta",
+    "points": 1,
+    "image": "yurena-violeta-25561.webp"
   },
   {
     "giftIds": [
@@ -16436,6 +16516,14 @@
     "name": "ربعي يلا",
     "points": 1,
     "image": "gift-158479.webp"
+  },
+  {
+    "giftIds": [
+      "1436597"
+    ],
+    "name": "رسم وَلْف",
+    "points": 1,
+    "image": "gift-1436597.webp"
   },
   {
     "giftIds": [
@@ -17092,6 +17180,14 @@
     "name": "보이스퀸",
     "points": 1,
     "image": "gift-98152.webp"
+  },
+  {
+    "giftIds": [
+      "43139"
+    ],
+    "name": "보초왕 헤드폰",
+    "points": 1,
+    "image": "gift-43139.webp"
   },
   {
     "giftIds": [
@@ -22557,6 +22653,14 @@
   },
   {
     "giftIds": [
+      "10699"
+    ],
+    "name": "Boxing Ring",
+    "points": 1500,
+    "image": "boxing-ring-10699.webp"
+  },
+  {
+    "giftIds": [
       "7894",
       "10557",
       "11857",
@@ -24105,6 +24209,14 @@
     "name": "Leon’s Journey",
     "points": 7999,
     "image": "leon-s-journey-14290.webp"
+  },
+  {
+    "giftIds": [
+      "11940"
+    ],
+    "name": "Champion Trophy",
+    "points": 8000,
+    "image": "champion-trophy-11940.webp"
   },
   {
     "giftIds": [
