@@ -790,6 +790,14 @@
   },
   {
     "giftIds": [
+      "45408"
+    ],
+    "name": "るなるリボン",
+    "points": 1,
+    "image": "gift-45408.webp"
+  },
+  {
+    "giftIds": [
       "29247"
     ],
     "name": "一応番犬",
@@ -1003,6 +1011,14 @@
     "name": "Seriously",
     "points": 5,
     "image": "seriously-13521.webp"
+  },
+  {
+    "giftIds": [
+      "1544499"
+    ],
+    "name": "South Coast Vibes",
+    "points": 5,
+    "image": "south-coast-vibes-1544499.webp"
   },
   {
     "giftIds": [
@@ -2070,6 +2086,14 @@
   },
   {
     "giftIds": [
+      "1544497"
+    ],
+    "name": "Wanted Stars",
+    "points": 100,
+    "image": "wanted-stars-1544497.webp"
+  },
+  {
+    "giftIds": [
       "1354584"
     ],
     "name": "Wooden Box",
@@ -2243,6 +2267,15 @@
     "name": "Bag - Travel",
     "points": 199,
     "image": "bag-travel-1519041.webp"
+  },
+  {
+    "giftIds": [
+      "17754",
+      "9589"
+    ],
+    "name": "Birthday Glasses",
+    "points": 199,
+    "image": "birthday-glasses-17754.webp"
   },
   {
     "giftIds": [
@@ -4520,6 +4553,14 @@
   },
   {
     "giftIds": [
+      "1544496"
+    ],
+    "name": "Corgi Lifeguard",
+    "points": 500,
+    "image": "corgi-lifeguard-1544496.webp"
+  },
+  {
+    "giftIds": [
       "1298065"
     ],
     "name": "Cosmic DJ",
@@ -5987,6 +6028,14 @@
   },
   {
     "giftIds": [
+      "17755"
+    ],
+    "name": "Super Cake",
+    "points": 1999,
+    "image": "super-cake-17755.webp"
+  },
+  {
+    "giftIds": [
       "1509161"
     ],
     "name": "TikTok Zeppelin",
@@ -7085,6 +7134,14 @@
     "name": "Lili the Leopard",
     "points": 6599,
     "image": "lili-the-leopard-9467.webp"
+  },
+  {
+    "giftIds": [
+      "17756"
+    ],
+    "name": "Birthday Party",
+    "points": 6999,
+    "image": "birthday-party-17756.webp"
   },
   {
     "giftIds": [
@@ -17151,6 +17208,14 @@
   },
   {
     "giftIds": [
+      "30863"
+    ],
+    "name": "동호 블랙",
+    "points": 1,
+    "image": "gift-30863.webp"
+  },
+  {
+    "giftIds": [
       "145883"
     ],
     "name": "디어이소",
@@ -19842,15 +19907,6 @@
   },
   {
     "giftIds": [
-      "9589",
-      "17754"
-    ],
-    "name": "Birthday Glasses",
-    "points": 199,
-    "image": "birthday-glasses-9589.webp"
-  },
-  {
-    "giftIds": [
       "9497",
       "14024",
       "14055",
@@ -22348,6 +22404,14 @@
   },
   {
     "giftIds": [
+      "1501229"
+    ],
+    "name": "Turkish Ice Cream",
+    "points": 900,
+    "image": "turkish-ice-cream-1501229.webp"
+  },
+  {
+    "giftIds": [
       "12984"
     ],
     "name": "Brave Wing",
@@ -22833,6 +22897,14 @@
   },
   {
     "giftIds": [
+      "1501230"
+    ],
+    "name": "Istanbul Cat",
+    "points": 1500,
+    "image": "istanbul-cat-1501230.webp"
+  },
+  {
+    "giftIds": [
       "9043"
     ],
     "name": "Pim Bear",
@@ -23091,14 +23163,6 @@
     "name": "Spooktacular",
     "points": 1999,
     "image": "spooktacular-1432808.webp"
-  },
-  {
-    "giftIds": [
-      "17755"
-    ],
-    "name": "Super Cake",
-    "points": 1999,
-    "image": "super-cake-17755.webp"
   },
   {
     "giftIds": [
@@ -24192,14 +24256,6 @@
     "name": "TikTok Red Carpet",
     "points": 6600,
     "image": "tiktok-red-carpet-18521.webp"
-  },
-  {
-    "giftIds": [
-      "17756"
-    ],
-    "name": "Birthday Party",
-    "points": 6999,
-    "image": "birthday-party-17756.webp"
   },
   {
     "giftIds": [

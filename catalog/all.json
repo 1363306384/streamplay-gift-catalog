@@ -732,6 +732,12 @@
     "image": "pumpkin-pie-12843.webp"
   },
   {
+    "giftId": "1544499",
+    "name": "South Coast Vibes",
+    "points": 5,
+    "image": "south-coast-vibes-1544499.webp"
+  },
+  {
     "giftId": "105781",
     "name": "Spinning Soccer",
     "points": 5,
@@ -1498,6 +1504,12 @@
     "name": "Tsar",
     "points": 100,
     "image": "tsar-5524.webp"
+  },
+  {
+    "giftId": "1544497",
+    "name": "Wanted Stars",
+    "points": 100,
+    "image": "wanted-stars-1544497.webp"
   },
   {
     "giftId": "1354584",
@@ -3312,6 +3324,12 @@
     "image": "chubby-hamster-1462843.webp"
   },
   {
+    "giftId": "1544496",
+    "name": "Corgi Lifeguard",
+    "points": 500,
+    "image": "corgi-lifeguard-1544496.webp"
+  },
+  {
     "giftId": "1298065",
     "name": "Cosmic DJ",
     "points": 500,
@@ -3756,6 +3774,12 @@
     "image": "funky-hatter-985636.webp"
   },
   {
+    "giftId": "1501229",
+    "name": "Turkish Ice Cream",
+    "points": 900,
+    "image": "turkish-ice-cream-1501229.webp"
+  },
+  {
     "giftId": "12984",
     "name": "Brave Wing",
     "points": 999,
@@ -4132,6 +4156,12 @@
     "name": "Ignition Check",
     "points": 1500,
     "image": "ignition-check-59883.webp"
+  },
+  {
+    "giftId": "1501230",
+    "name": "Istanbul Cat",
+    "points": 1500,
+    "image": "istanbul-cat-1501230.webp"
   },
   {
     "giftId": "12852",
@@ -12480,6 +12510,12 @@
     "image": "gift-70298.webp"
   },
   {
+    "giftId": "30863",
+    "name": "동호 블랙",
+    "points": 1,
+    "image": "gift-30863.webp"
+  },
+  {
     "giftId": "145883",
     "name": "디어이소",
     "points": 1,
@@ -13240,6 +13276,12 @@
     "name": "るなぴぴ",
     "points": 1,
     "image": "gift-31577.webp"
+  },
+  {
+    "giftId": "45408",
+    "name": "るなるリボン",
+    "points": 1,
+    "image": "gift-45408.webp"
   },
   {
     "giftId": "29247",
