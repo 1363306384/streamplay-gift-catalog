@@ -210,6 +210,12 @@
     "image": "jojo-157856.webp"
   },
   {
+    "giftId": "350865",
+    "name": "KLD",
+    "points": 1,
+    "image": "kld-350865.webp"
+  },
+  {
     "giftId": "7454",
     "name": "KSA",
     "points": 1,
@@ -8028,6 +8034,12 @@
     "image": "goat-medal-98472.webp"
   },
   {
+    "giftId": "165534",
+    "name": "Gogo NazKhan",
+    "points": 1,
+    "image": "gogo-nazkhan-165534.webp"
+  },
+  {
     "giftId": "1013444",
     "name": "Golden Glove",
     "points": 1,
@@ -13266,6 +13278,12 @@
     "image": "gift-65389.webp"
   },
   {
+    "giftId": "36774",
+    "name": "ぼくリス大筆",
+    "points": 1,
+    "image": "gift-36774.webp"
+  },
+  {
     "giftId": "20517",
     "name": "みーたんママ",
     "points": 1,
@@ -13318,6 +13336,12 @@
     "name": "らぶうさたん",
     "points": 1,
     "image": "gift-41559.webp"
+  },
+  {
+    "giftId": "45161",
+    "name": "リカみかん",
+    "points": 1,
+    "image": "gift-45161.webp"
   },
   {
     "giftId": "31577",
@@ -13636,6 +13660,12 @@
     "name": "Shelly's Hat",
     "points": 5,
     "image": "shelly-s-hat-1542075.webp"
+  },
+  {
+    "giftId": "12963",
+    "name": "Shining Starlight",
+    "points": 5,
+    "image": "shining-starlight-12963.webp"
   },
   {
     "giftId": "57327",
@@ -19080,6 +19110,12 @@
     "image": "ultra-fever-1182813.webp"
   },
   {
+    "giftId": "18537",
+    "name": "unity ballon",
+    "points": 800,
+    "image": "unity-ballon-18537.webp"
+  },
+  {
     "giftId": "6132",
     "name": "Beach Date",
     "points": 899,
@@ -22078,6 +22114,12 @@
     "name": "Winter Hallasan",
     "points": 12000,
     "image": "winter-hallasan-1509249.webp"
+  },
+  {
+    "giftId": "230821",
+    "name": "95 Fireworks",
+    "points": 13500,
+    "image": "95-fireworks-230821.webp"
   },
   {
     "giftId": "165416",

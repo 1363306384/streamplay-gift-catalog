@@ -726,6 +726,14 @@
   },
   {
     "giftIds": [
+      "36774"
+    ],
+    "name": "ぼくリス大筆",
+    "points": 1,
+    "image": "gift-36774.webp"
+  },
+  {
+    "giftIds": [
       "20517"
     ],
     "name": "みーたんママ",
@@ -787,6 +795,14 @@
     "name": "らぶうさたん",
     "points": 1,
     "image": "gift-41559.webp"
+  },
+  {
+    "giftIds": [
+      "45161"
+    ],
+    "name": "リカみかん",
+    "points": 1,
+    "image": "gift-45161.webp"
   },
   {
     "giftIds": [
@@ -11040,6 +11056,14 @@
   },
   {
     "giftIds": [
+      "165534"
+    ],
+    "name": "Gogo NazKhan",
+    "points": 1,
+    "image": "gogo-nazkhan-165534.webp"
+  },
+  {
+    "giftIds": [
       "1013444"
     ],
     "name": "Golden Glove",
@@ -11843,6 +11867,14 @@
     "name": "Klaudia Glow",
     "points": 1,
     "image": "klaudia-glow-1448921.webp"
+  },
+  {
+    "giftIds": [
+      "350865"
+    ],
+    "name": "KLD",
+    "points": 1,
+    "image": "kld-350865.webp"
   },
   {
     "giftIds": [
@@ -18332,11 +18364,12 @@
   },
   {
     "giftIds": [
+      "12963",
       "57327"
     ],
     "name": "Shining Starlight",
     "points": 5,
-    "image": "shining-starlight-57327.webp"
+    "image": "shining-starlight-12963.webp"
   },
   {
     "giftIds": [
@@ -22482,6 +22515,14 @@
   },
   {
     "giftIds": [
+      "18537"
+    ],
+    "name": "unity ballon",
+    "points": 800,
+    "image": "unity-ballon-18537.webp"
+  },
+  {
+    "giftIds": [
       "6132",
       "1232381"
     ],
@@ -24877,6 +24918,14 @@
     "name": "Winter Hallasan",
     "points": 12000,
     "image": "winter-hallasan-1509249.webp"
+  },
+  {
+    "giftIds": [
+      "230821"
+    ],
+    "name": "95 Fireworks",
+    "points": 13500,
+    "image": "95-fireworks-230821.webp"
   },
   {
     "giftIds": [
