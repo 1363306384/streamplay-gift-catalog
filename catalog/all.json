@@ -276,6 +276,12 @@
     "image": "love-you-so-much-15231.webp"
   },
   {
+    "giftId": "1120750",
+    "name": "LUV",
+    "points": 1,
+    "image": "luv-1120750.webp"
+  },
+  {
     "giftId": "1190496",
     "name": "LUVE Cheer",
     "points": 1,
@@ -6300,6 +6306,12 @@
     "image": "aron-1395206.webp"
   },
   {
+    "giftId": "1453824",
+    "name": "Arrow Hug",
+    "points": 1,
+    "image": "arrow-hug-1453824.webp"
+  },
+  {
     "giftId": "1328809",
     "name": "Aslan",
     "points": 1,
@@ -6960,6 +6972,12 @@
     "image": "clapperboard-6277.webp"
   },
   {
+    "giftId": "178931",
+    "name": "Claudi Glow",
+    "points": 1,
+    "image": "claudi-glow-178931.webp"
+  },
+  {
     "giftId": "162267",
     "name": "Claudia Párduc",
     "points": 1,
@@ -7306,6 +7324,12 @@
     "name": "Destroyer Blue",
     "points": 1,
     "image": "destroyer-blue-375744.webp"
+  },
+  {
+    "giftId": "137731",
+    "name": "DHARA",
+    "points": 1,
+    "image": "dhara-137731.webp"
   },
   {
     "giftId": "47652",
@@ -9306,6 +9330,12 @@
     "image": "md-throne-27414.webp"
   },
   {
+    "giftId": "64749",
+    "name": "Meatball Pup",
+    "points": 1,
+    "image": "meatball-pup-64749.webp"
+  },
+  {
     "giftId": "459285",
     "name": "Mehboulah",
     "points": 1,
@@ -9808,6 +9838,12 @@
     "name": "OBITO",
     "points": 1,
     "image": "obito-156741.webp"
+  },
+  {
+    "giftId": "67182",
+    "name": "Oeil dambre",
+    "points": 1,
+    "image": "oeil-dambre-67182.webp"
   },
   {
     "giftId": "32740",
@@ -10432,6 +10468,12 @@
     "name": "Rəşad",
     "points": 1,
     "image": "r-sad-214625.webp"
+  },
+  {
+    "giftId": "1533298",
+    "name": "Rice",
+    "points": 1,
+    "image": "rice-1533298.webp"
   },
   {
     "giftId": "1297967",
@@ -13218,6 +13260,12 @@
     "image": "gift-28992.webp"
   },
   {
+    "giftId": "65389",
+    "name": "ふわり招き猫",
+    "points": 1,
+    "image": "gift-65389.webp"
+  },
+  {
     "giftId": "20517",
     "name": "みーたんママ",
     "points": 1,
@@ -13584,6 +13632,12 @@
     "image": "seriously-13521.webp"
   },
   {
+    "giftId": "1542075",
+    "name": "Shelly's Hat",
+    "points": 5,
+    "image": "shelly-s-hat-1542075.webp"
+  },
+  {
     "giftId": "57327",
     "name": "Shining Starlight",
     "points": 5,
@@ -13728,6 +13782,12 @@
     "image": "bkb-1529423.webp"
   },
   {
+    "giftId": "1488383",
+    "name": "Black Panther",
+    "points": 10,
+    "image": "black-panther-1488383.webp"
+  },
+  {
     "giftId": "10439",
     "name": "Book",
     "points": 10,
@@ -13822,6 +13882,12 @@
     "name": "Gamer Pass",
     "points": 10,
     "image": "gamer-pass-1045430.webp"
+  },
+  {
+    "giftId": "1542084",
+    "name": "Gaming Console",
+    "points": 10,
+    "image": "gaming-console-1542084.webp"
   },
   {
     "giftId": "18290",
@@ -14044,6 +14110,12 @@
     "name": "Potato with ice cream",
     "points": 10,
     "image": "potato-with-ice-cream-10990.webp"
+  },
+  {
+    "giftId": "1542093",
+    "name": "Present Surprise",
+    "points": 10,
+    "image": "present-surprise-1542093.webp"
   },
   {
     "giftId": "884052",
@@ -16404,6 +16476,12 @@
     "image": "gift-1334730.webp"
   },
   {
+    "giftId": "1322250",
+    "name": "幸運の小槌",
+    "points": 199,
+    "image": "gift-1322250.webp"
+  },
+  {
     "giftId": "12700",
     "name": "Balloons",
     "points": 200,
@@ -16762,6 +16840,12 @@
     "name": "Midsummer Hair",
     "points": 249,
     "image": "midsummer-hair-16924.webp"
+  },
+  {
+    "giftId": "1542212",
+    "name": "Ostrich Attack",
+    "points": 249,
+    "image": "ostrich-attack-1542212.webp"
   },
   {
     "giftId": "1487486",
@@ -17212,6 +17296,12 @@
     "name": "Rising Key",
     "points": 299,
     "image": "rising-key-15404.webp"
+  },
+  {
+    "giftId": "1541079",
+    "name": "Safari Hat",
+    "points": 299,
+    "image": "safari-hat-1541079.webp"
   },
   {
     "giftId": "14787",
@@ -17850,6 +17940,12 @@
     "image": "terminator-face-17289.webp"
   },
   {
+    "giftId": "1541088",
+    "name": "Binoculars",
+    "points": 450,
+    "image": "binoculars-1541088.webp"
+  },
+  {
     "giftId": "14575",
     "name": "Winning Wednesday",
     "points": 450,
@@ -18420,6 +18516,12 @@
     "image": "mic-drop-9623.webp"
   },
   {
+    "giftId": "1542215",
+    "name": "Ostrich Stampede",
+    "points": 500,
+    "image": "ostrich-stampede-1542215.webp"
+  },
+  {
     "giftId": "11964",
     "name": "Oyen Kebaya",
     "points": 500,
@@ -18856,6 +18958,12 @@
     "name": "Hello Shaun",
     "points": 700,
     "image": "hello-shaun-16066.webp"
+  },
+  {
+    "giftId": "1542255",
+    "name": "Nigel's Bike",
+    "points": 700,
+    "image": "nigel-s-bike-1542255.webp"
   },
   {
     "giftId": "9650",

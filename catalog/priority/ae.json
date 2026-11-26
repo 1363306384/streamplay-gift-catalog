@@ -6,12 +6,12 @@
   ],
   "scope": "regional-catalog-membership-not-exclusive",
   "source": "https://api.tik.tools/webcast/gifts_by_country?country=AE",
-  "checkedAt": "2026-11-25T21:50:03.396Z",
+  "checkedAt": "2026-11-26T08:36:58.328Z",
   "samples": [
     {
       "region": "AE",
-      "count": 983,
-      "matchedCount": 983
+      "count": 984,
+      "matchedCount": 984
     }
   ],
   "giftIds": [
@@ -810,6 +810,7 @@
     "985702",
     "1035752",
     "1081788",
+    "1120750",
     "1137702",
     "1137705",
     "1137707",
