@@ -480,6 +480,12 @@
     "image": "yellow-lightning-59512.webp"
   },
   {
+    "giftId": "72188",
+    "name": "أسد بسمة",
+    "points": 1,
+    "image": "gift-72188.webp"
+  },
+  {
     "giftId": "39220",
     "name": "أناقة الذهب",
     "points": 1,
@@ -1764,6 +1770,12 @@
     "image": "flower-headband-14555.webp"
   },
   {
+    "giftId": "1370392",
+    "name": "Fluffy Swing",
+    "points": 199,
+    "image": "fluffy-swing-1370392.webp"
+  },
+  {
     "giftId": "440699",
     "name": "Forest Beginnings",
     "points": 199,
@@ -2226,6 +2238,12 @@
     "image": "corgi-6267.webp"
   },
   {
+    "giftId": "1517059",
+    "name": "Disco Top Hat",
+    "points": 299,
+    "image": "disco-top-hat-1517059.webp"
+  },
+  {
     "giftId": "1370390",
     "name": "Dreamy Penguin",
     "points": 299,
@@ -2410,6 +2428,12 @@
     "name": "Scroll",
     "points": 299,
     "image": "scroll-59318.webp"
+  },
+  {
+    "giftId": "1473072",
+    "name": "Sing Sushi",
+    "points": 299,
+    "image": "sing-sushi-1473072.webp"
   },
   {
     "giftId": "54562",
@@ -2700,6 +2724,12 @@
     "image": "beat-wings-170503.webp"
   },
   {
+    "giftId": "1453012",
+    "name": "Berry Hood",
+    "points": 399,
+    "image": "berry-hood-1453012.webp"
+  },
+  {
     "giftId": "54557",
     "name": "Blossom Fairy",
     "points": 399,
@@ -2734,6 +2764,12 @@
     "name": "Dreamy Hat",
     "points": 399,
     "image": "dreamy-hat-57010.webp"
+  },
+  {
+    "giftId": "1473070",
+    "name": "Dreamy Lamb",
+    "points": 399,
+    "image": "dreamy-lamb-1473070.webp"
   },
   {
     "giftId": "60555",
@@ -3006,10 +3042,22 @@
     "image": "moped-1322348.webp"
   },
   {
+    "giftId": "1517061",
+    "name": "Music Aerosol",
+    "points": 400,
+    "image": "music-aerosol-1517061.webp"
+  },
+  {
     "giftId": "842694",
     "name": "Neon Rockstar",
     "points": 400,
     "image": "neon-rockstar-842694.webp"
+  },
+  {
+    "giftId": "1473069",
+    "name": "Phin Bloom",
+    "points": 400,
+    "image": "phin-bloom-1473069.webp"
   },
   {
     "giftId": "437669",
@@ -4444,6 +4492,12 @@
     "name": "FANDOM Cheer",
     "points": 2500,
     "image": "fandom-cheer-60075.webp"
+  },
+  {
+    "giftId": "1485598",
+    "name": "Pool DJ",
+    "points": 2500,
+    "image": "pool-dj-1485598.webp"
   },
   {
     "giftId": "1402977",
@@ -6054,6 +6108,12 @@
     "image": "alba-glow-1141223.webp"
   },
   {
+    "giftId": "174570",
+    "name": "Ale",
+    "points": 1,
+    "image": "ale-174570.webp"
+  },
+  {
     "giftId": "63772",
     "name": "ALEONE",
     "points": 1,
@@ -6574,6 +6634,12 @@
     "name": "BIC Llama",
     "points": 1,
     "image": "bic-llama-30101.webp"
+  },
+  {
+    "giftId": "30599",
+    "name": "Big Love Nation",
+    "points": 1,
+    "image": "big-love-nation-30599.webp"
   },
   {
     "giftId": "297651",
@@ -7686,6 +7752,12 @@
     "image": "fabiana-chic-95787.webp"
   },
   {
+    "giftId": "21459",
+    "name": "Fada Radiante",
+    "points": 1,
+    "image": "fada-radiante-21459.webp"
+  },
+  {
     "giftId": "25781",
     "name": "Fairway Ace",
     "points": 1,
@@ -8344,6 +8416,12 @@
     "name": "House Whitewind",
     "points": 1,
     "image": "house-whitewind-12247.webp"
+  },
+  {
+    "giftId": "1363191",
+    "name": "HR12",
+    "points": 1,
+    "image": "hr12-1363191.webp"
   },
   {
     "giftId": "1467940",
@@ -10704,6 +10782,12 @@
     "image": "salut-lady-108971.webp"
   },
   {
+    "giftId": "1477313",
+    "name": "Sam Bolt Heart",
+    "points": 1,
+    "image": "sam-bolt-heart-1477313.webp"
+  },
+  {
     "giftId": "54975",
     "name": "Sam Gold",
     "points": 1,
@@ -11718,6 +11802,12 @@
     "image": "uroczy-niedzwiadek-23279.webp"
   },
   {
+    "giftId": "116043",
+    "name": "Valeria Dorada",
+    "points": 1,
+    "image": "valeria-dorada-116043.webp"
+  },
+  {
     "giftId": "46837",
     "name": "Valery Hero",
     "points": 1,
@@ -12370,6 +12460,12 @@
     "name": "ريري الراقصة",
     "points": 1,
     "image": "gift-820102.webp"
+  },
+  {
+    "giftId": "1543375",
+    "name": "زعيمة القبعة",
+    "points": 1,
+    "image": "gift-1543375.webp"
   },
   {
     "giftId": "44839",
@@ -13212,6 +13308,12 @@
     "image": "gift-42394.webp"
   },
   {
+    "giftId": "112052",
+    "name": "えいぢゃんCLUB",
+    "points": 1,
+    "image": "club-112052.webp"
+  },
+  {
     "giftId": "1240912",
     "name": "おはよう",
     "points": 1,
@@ -13390,6 +13492,12 @@
     "name": "ゆうちゃんフォト",
     "points": 1,
     "image": "gift-32184.webp"
+  },
+  {
+    "giftId": "45056",
+    "name": "ゆきかだよ",
+    "points": 1,
+    "image": "gift-45056.webp"
   },
   {
     "giftId": "29521",
@@ -16540,6 +16648,12 @@
     "name": "ZAKOTA",
     "points": 199,
     "image": "zakota-1315173.webp"
+  },
+  {
+    "giftId": "1335002",
+    "name": "えいぢゃんCLUB",
+    "points": 199,
+    "image": "club-1335002.webp"
   },
   {
     "giftId": "1337880",

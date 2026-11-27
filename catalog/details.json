@@ -7846,7 +7846,7 @@
     "priceKnown": true,
     "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/b936a4f5fed4909690bafdf09cbadcbe2cc8d365721d834fe518d77183da2208.webp",
     "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/b936a4f5fed4909690bafdf09cbadcbe2cc8d365721d834fe518d77183da2208.webp",
-    "active": false,
+    "active": true,
     "source": "tiktools"
   },
   {
@@ -16870,6 +16870,16 @@
     "source": "tiktools"
   },
   {
+    "giftId": "21459",
+    "name": "Fada Radiante",
+    "points": 1,
+    "priceKnown": true,
+    "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/ed14cdb771132600a7a683221394902f04a9b0b78b52b43d4db96d0e37cedad9.webp",
+    "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/ed14cdb771132600a7a683221394902f04a9b0b78b52b43d4db96d0e37cedad9.webp",
+    "active": false,
+    "source": "tiktools"
+  },
+  {
     "giftId": "21492",
     "name": "Team Slay",
     "points": 1,
@@ -17116,7 +17126,7 @@
     "priceKnown": true,
     "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/8506434d75803d1c1fe2dbd6db20b7330381b05e13182a1f7678d75dbe8d5649.webp",
     "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/8506434d75803d1c1fe2dbd6db20b7330381b05e13182a1f7678d75dbe8d5649.webp",
-    "active": false,
+    "active": true,
     "source": "tiktools"
   },
   {
@@ -18316,7 +18326,7 @@
     "priceKnown": true,
     "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/6041292df8dad6b6444d977a66af3fcff94ca9d588a51486e4558ad4a0c53661.webp",
     "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/6041292df8dad6b6444d977a66af3fcff94ca9d588a51486e4558ad4a0c53661.webp",
-    "active": false,
+    "active": true,
     "source": "tiktools"
   },
   {
@@ -18357,6 +18367,16 @@
     "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/8797a08f36eb657e28ede2f512fff49d3df3aaa62843c1c9ac818e0ef72b31ca.webp",
     "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/8797a08f36eb657e28ede2f512fff49d3df3aaa62843c1c9ac818e0ef72b31ca.webp",
     "active": false,
+    "source": "tiktools"
+  },
+  {
+    "giftId": "30599",
+    "name": "Big Love Nation",
+    "points": 1,
+    "priceKnown": true,
+    "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/e09240e50357b4fd02ba53f71a2f74285f28552605b447d99075482f7519e927.webp",
+    "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/e09240e50357b4fd02ba53f71a2f74285f28552605b447d99075482f7519e927.webp",
+    "active": true,
     "source": "tiktools"
   },
   {
@@ -18446,7 +18466,7 @@
     "priceKnown": true,
     "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/268be5b7fa5bf0f214ab20d835e4f51596a9fafbff6213824124bfebc131688d.webp",
     "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/268be5b7fa5bf0f214ab20d835e4f51596a9fafbff6213824124bfebc131688d.webp",
-    "active": false,
+    "active": true,
     "source": "tiktools"
   },
   {
@@ -18626,7 +18646,7 @@
     "priceKnown": true,
     "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/d29340a09ec57a2705f086dfeb4efacfb03793b661c525bbfcba983f4b9bec66.webp",
     "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/d29340a09ec57a2705f086dfeb4efacfb03793b661c525bbfcba983f4b9bec66.webp",
-    "active": true,
+    "active": false,
     "source": "tiktools"
   },
   {
@@ -19036,7 +19056,7 @@
     "priceKnown": true,
     "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/1edf3dc616342bec5203c614e8af48ccd11024265527da47f209bafe20e262fc.webp",
     "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/1edf3dc616342bec5203c614e8af48ccd11024265527da47f209bafe20e262fc.webp",
-    "active": true,
+    "active": false,
     "source": "tiktools"
   },
   {
@@ -19796,7 +19816,7 @@
     "priceKnown": true,
     "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/ff767ea09b05eedbf276c57715aef6f1920ba1bb1f577b36f2c76598a5ddbe16.webp",
     "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/ff767ea09b05eedbf276c57715aef6f1920ba1bb1f577b36f2c76598a5ddbe16.webp",
-    "active": false,
+    "active": true,
     "source": "tiktools"
   },
   {
@@ -19956,7 +19976,7 @@
     "priceKnown": true,
     "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/e271d0f0d6d211bd9eb5a97c40a67e26bcb4447d17dc89c523e28b9ee7f3d932.webp",
     "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/e271d0f0d6d211bd9eb5a97c40a67e26bcb4447d17dc89c523e28b9ee7f3d932.webp",
-    "active": true,
+    "active": false,
     "source": "tiktools"
   },
   {
@@ -20300,6 +20320,16 @@
     "source": "tiktools"
   },
   {
+    "giftId": "45056",
+    "name": "ゆきかだよ",
+    "points": 1,
+    "priceKnown": true,
+    "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/800d4774770111c5a641f6e36dede60bc6b332afb8687a453b6550629f857d8a.webp",
+    "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/800d4774770111c5a641f6e36dede60bc6b332afb8687a453b6550629f857d8a.webp",
+    "active": true,
+    "source": "tiktools"
+  },
+  {
     "giftId": "45161",
     "name": "リカみかん",
     "points": 1,
@@ -20396,7 +20426,7 @@
     "priceKnown": true,
     "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/4276ad51dcb21b31aa55a7dbaf24480648e0e90a4c4a130a59e9cf1e3867b0b4.webp",
     "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/4276ad51dcb21b31aa55a7dbaf24480648e0e90a4c4a130a59e9cf1e3867b0b4.webp",
-    "active": false,
+    "active": true,
     "source": "tiktools"
   },
   {
@@ -22136,7 +22166,7 @@
     "priceKnown": true,
     "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/c150f3ecee6bf412a99792a8c630d3eb4cd0358590280941f77081d74ae183c1.webp",
     "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/c150f3ecee6bf412a99792a8c630d3eb4cd0358590280941f77081d74ae183c1.webp",
-    "active": false,
+    "active": true,
     "source": "tiktools"
   },
   {
@@ -22316,7 +22346,7 @@
     "priceKnown": true,
     "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/b6a549ed995581f69fa0161f29f27bd470c4737212a584aedf98f4d71d199715.webp",
     "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/b6a549ed995581f69fa0161f29f27bd470c4737212a584aedf98f4d71d199715.webp",
-    "active": true,
+    "active": false,
     "source": "tiktools"
   },
   {
@@ -23387,6 +23417,16 @@
     "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/fa314a13ad93269cf45afb4914f8326f3c2b4da0e712c791b39c480440f86e1c.webp",
     "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/fa314a13ad93269cf45afb4914f8326f3c2b4da0e712c791b39c480440f86e1c.webp",
     "active": false,
+    "source": "tiktools"
+  },
+  {
+    "giftId": "72188",
+    "name": "أسد بسمة",
+    "points": 1,
+    "priceKnown": true,
+    "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/ab9108620d4a6aa9485550ed190b134d2baf5fd42f9e77d7c0f4ca25b1cc5c0e.webp",
+    "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/ab9108620d4a6aa9485550ed190b134d2baf5fd42f9e77d7c0f4ca25b1cc5c0e.webp",
+    "active": true,
     "source": "tiktools"
   },
   {
@@ -24530,6 +24570,16 @@
     "source": "tiktools"
   },
   {
+    "giftId": "112052",
+    "name": "えいぢゃんCLUB",
+    "points": 1,
+    "priceKnown": true,
+    "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/e23061ea944295f6017fad1ba4247acc7fe0bffbd383a6b57ba725751ccef76e.webp",
+    "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/e23061ea944295f6017fad1ba4247acc7fe0bffbd383a6b57ba725751ccef76e.webp",
+    "active": false,
+    "source": "tiktools"
+  },
+  {
     "giftId": "112117",
     "name": "Banana Bolt",
     "points": 1,
@@ -24690,6 +24740,16 @@
     "source": "tiktools"
   },
   {
+    "giftId": "116043",
+    "name": "Valeria Dorada",
+    "points": 1,
+    "priceKnown": true,
+    "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/00416fc138921b8e704f0d631b611afc033d3e9d7ec328cbc2449fc39b6c39ee.webp",
+    "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/00416fc138921b8e704f0d631b611afc033d3e9d7ec328cbc2449fc39b6c39ee.webp",
+    "active": false,
+    "source": "tiktools"
+  },
+  {
     "giftId": "116824",
     "name": "Moxie Media",
     "points": 1,
@@ -24824,8 +24884,8 @@
     "name": "Lost in Your Music",
     "points": 500,
     "priceKnown": true,
-    "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/127c67de62f32fad700554f3b46934e31a059f7356c84e83c858d13ac82ad018.webp",
-    "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/127c67de62f32fad700554f3b46934e31a059f7356c84e83c858d13ac82ad018.webp",
+    "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/39739f78112ba494c674416e9c84ba1b2e74b093d8e3728a7dcd865b7eb76da2.webp",
+    "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/39739f78112ba494c674416e9c84ba1b2e74b093d8e3728a7dcd865b7eb76da2.webp",
     "active": true,
     "source": "tiktools"
   },
@@ -25204,8 +25264,8 @@
     "name": "Match Master",
     "points": 500,
     "priceKnown": true,
-    "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/155fce7e6510e1a3e38b6f37a5c00019670f1179130af35dd27e72a31926c217.webp",
-    "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/155fce7e6510e1a3e38b6f37a5c00019670f1179130af35dd27e72a31926c217.webp",
+    "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/9739691d76ef937d97240b5398e4e5d0168a73ee1d10e5f902c77ec883d83742.webp",
+    "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/9739691d76ef937d97240b5398e4e5d0168a73ee1d10e5f902c77ec883d83742.webp",
     "active": true,
     "source": "tiktools"
   },
@@ -25224,8 +25284,8 @@
     "name": "Match Maniac",
     "points": 2999,
     "priceKnown": true,
-    "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/9bd5eeafa9f2b4392f6b7b728d7bef4e88e663feb94775b10a7280f9a58f4e92.webp",
-    "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/9bd5eeafa9f2b4392f6b7b728d7bef4e88e663feb94775b10a7280f9a58f4e92.webp",
+    "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/ed19c831d511b4d437aab5132d897e91c6089d0f9ad9380cffed5a5b5fe0f780.webp",
+    "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/ed19c831d511b4d437aab5132d897e91c6089d0f9ad9380cffed5a5b5fe0f780.webp",
     "active": true,
     "source": "tiktools"
   },
@@ -25656,7 +25716,7 @@
     "priceKnown": true,
     "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/d500af44e59031d1678ced536476fa0ab894fcea6908c2290f1e9aab9ed10062.webp",
     "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/d500af44e59031d1678ced536476fa0ab894fcea6908c2290f1e9aab9ed10062.webp",
-    "active": true,
+    "active": false,
     "source": "tiktools"
   },
   {
@@ -25866,7 +25926,7 @@
     "priceKnown": true,
     "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/1d47346b86ffc971ebb61240a01117300b1bd359362fd90a6d1724455e147511.webp",
     "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/1d47346b86ffc971ebb61240a01117300b1bd359362fd90a6d1724455e147511.webp",
-    "active": true,
+    "active": false,
     "source": "tiktools"
   },
   {
@@ -26320,6 +26380,16 @@
     "source": "tiktools"
   },
   {
+    "giftId": "174570",
+    "name": "Ale",
+    "points": 1,
+    "priceKnown": true,
+    "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/0f44a6dd7f13be572e9c917a38acbda3a7508f93b637561cf3bc0db8b58d585f.webp",
+    "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/0f44a6dd7f13be572e9c917a38acbda3a7508f93b637561cf3bc0db8b58d585f.webp",
+    "active": false,
+    "source": "tiktools"
+  },
+  {
     "giftId": "174763",
     "name": "Sarah Speaks",
     "points": 1,
@@ -26666,7 +26736,7 @@
     "priceKnown": true,
     "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/fc753823c3904a11f2d4230889312272340607caa9519f33690cfc256aec0837.webp",
     "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/fc753823c3904a11f2d4230889312272340607caa9519f33690cfc256aec0837.webp",
-    "active": true,
+    "active": false,
     "source": "tiktools"
   },
   {
@@ -28146,7 +28216,7 @@
     "priceKnown": true,
     "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/ddafda69b35e53de9a24191a4b85f0c02cff68d148cbd5ed9c133b15ea69d274.webp",
     "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/ddafda69b35e53de9a24191a4b85f0c02cff68d148cbd5ed9c133b15ea69d274.webp",
-    "active": true,
+    "active": false,
     "source": "tiktools"
   },
   {
@@ -28166,7 +28236,7 @@
     "priceKnown": true,
     "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/5d948201b29b4a7c2299c94cb0770223834cc27e58bdd5a210e00d1a3d487ad1.webp",
     "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/5d948201b29b4a7c2299c94cb0770223834cc27e58bdd5a210e00d1a3d487ad1.webp",
-    "active": true,
+    "active": false,
     "source": "tiktools"
   },
   {
@@ -30556,7 +30626,7 @@
     "priceKnown": true,
     "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/480c12fe36496a25cb446e9b94fee62cd8ea094deaffbea25a9fa511ca9c4688.webp",
     "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/480c12fe36496a25cb446e9b94fee62cd8ea094deaffbea25a9fa511ca9c4688.webp",
-    "active": true,
+    "active": false,
     "source": "tiktools"
   },
   {
@@ -30566,7 +30636,7 @@
     "priceKnown": true,
     "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/ad6cc5abe2eb2c0c9a590086a2dd39c5bbd383c7a83e38512e917e71118c80b0.webp",
     "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/ad6cc5abe2eb2c0c9a590086a2dd39c5bbd383c7a83e38512e917e71118c80b0.webp",
-    "active": false,
+    "active": true,
     "source": "tiktools"
   },
   {
@@ -34170,6 +34240,16 @@
     "source": "tiktools"
   },
   {
+    "giftId": "1335002",
+    "name": "えいぢゃんCLUB",
+    "points": 199,
+    "priceKnown": true,
+    "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/70758e9af34ac9be7808c9a417b3a09789326341e414064b5186d01023681b8c.webp",
+    "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/70758e9af34ac9be7808c9a417b3a09789326341e414064b5186d01023681b8c.webp",
+    "active": false,
+    "source": "tiktools"
+  },
+  {
     "giftId": "1335070",
     "name": "AKIRA LA LOBITA",
     "points": 199,
@@ -35000,6 +35080,16 @@
     "source": "tiktools"
   },
   {
+    "giftId": "1363191",
+    "name": "HR12",
+    "points": 1,
+    "priceKnown": true,
+    "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/22b77c3d5265ca393969ef9d4a252981d3814d8c711399a4a26fa94a82fbe12e.webp",
+    "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/22b77c3d5265ca393969ef9d4a252981d3814d8c711399a4a26fa94a82fbe12e.webp",
+    "active": true,
+    "source": "tiktools"
+  },
+  {
     "giftId": "1364525",
     "name": "Prinzessin",
     "points": 1,
@@ -35056,6 +35146,16 @@
     "priceKnown": true,
     "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/ea43b9068ccfb79d59db7bca4e5236baf7fcc2a59f51ba9e107e8435ba2d9057.webp",
     "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/ea43b9068ccfb79d59db7bca4e5236baf7fcc2a59f51ba9e107e8435ba2d9057.webp",
+    "active": true,
+    "source": "tiktools"
+  },
+  {
+    "giftId": "1370392",
+    "name": "Fluffy Swing",
+    "points": 199,
+    "priceKnown": true,
+    "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/fbd82ec36978ba4b7764b976088fa83e93d52fac7c6eb1bcb0e18f30f9e8f675.webp",
+    "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/fbd82ec36978ba4b7764b976088fa83e93d52fac7c6eb1bcb0e18f30f9e8f675.webp",
     "active": true,
     "source": "tiktools"
   },
@@ -36250,6 +36350,16 @@
     "source": "tiktools"
   },
   {
+    "giftId": "1453012",
+    "name": "Berry Hood",
+    "points": 399,
+    "priceKnown": true,
+    "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/1f134988a53b570ae92207629a33f70d720c174b190ac9e05234ad928f541738.webp",
+    "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/1f134988a53b570ae92207629a33f70d720c174b190ac9e05234ad928f541738.webp",
+    "active": true,
+    "source": "tiktools"
+  },
+  {
     "giftId": "1453722",
     "name": "Julie",
     "points": 1,
@@ -36690,6 +36800,36 @@
     "source": "tiktools"
   },
   {
+    "giftId": "1473069",
+    "name": "Phin Bloom",
+    "points": 400,
+    "priceKnown": true,
+    "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/8c3bf50296f0fefeaef405fdfdec3f3fd4396717d2a95706104ec489e36a3c17.webp",
+    "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/8c3bf50296f0fefeaef405fdfdec3f3fd4396717d2a95706104ec489e36a3c17.webp",
+    "active": true,
+    "source": "tiktools"
+  },
+  {
+    "giftId": "1473070",
+    "name": "Dreamy Lamb",
+    "points": 399,
+    "priceKnown": true,
+    "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/d7a15cffd18e4283f1f39bb4df1e108ef92e97372b27bc33a28623b79ba6a8e7.webp",
+    "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/d7a15cffd18e4283f1f39bb4df1e108ef92e97372b27bc33a28623b79ba6a8e7.webp",
+    "active": true,
+    "source": "tiktools"
+  },
+  {
+    "giftId": "1473072",
+    "name": "Sing Sushi",
+    "points": 299,
+    "priceKnown": true,
+    "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/5b99caedb504654ed428942ee5545360c892ddf2e59a6e2fd3e288d02c8d751c.webp",
+    "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/5b99caedb504654ed428942ee5545360c892ddf2e59a6e2fd3e288d02c8d751c.webp",
+    "active": true,
+    "source": "tiktools"
+  },
+  {
     "giftId": "1473091",
     "name": "No Comment",
     "points": 20,
@@ -36746,6 +36886,16 @@
     "priceKnown": true,
     "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/b687263830f6471db751d661ca1755077cd023b983491ad6c5b653ed8a9d0e78.webp",
     "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/b687263830f6471db751d661ca1755077cd023b983491ad6c5b653ed8a9d0e78.webp",
+    "active": false,
+    "source": "tiktools"
+  },
+  {
+    "giftId": "1477313",
+    "name": "Sam Bolt Heart",
+    "points": 1,
+    "priceKnown": true,
+    "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/358fef75d676f1e9f168d840fdd99e0801c20962b1c4d9db70cd1e61aaa2aa37.webp",
+    "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/358fef75d676f1e9f168d840fdd99e0801c20962b1c4d9db70cd1e61aaa2aa37.webp",
     "active": false,
     "source": "tiktools"
   },
@@ -36897,6 +37047,16 @@
     "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/ea2dd2c0570b6e427512fd380eba066d12dbda5b56d9907ae33efec3404ceea6.webp",
     "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/ea2dd2c0570b6e427512fd380eba066d12dbda5b56d9907ae33efec3404ceea6.webp",
     "active": false,
+    "source": "tiktools"
+  },
+  {
+    "giftId": "1485598",
+    "name": "Pool DJ",
+    "points": 2500,
+    "priceKnown": true,
+    "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/90b0ecede72d71b7b42927ae3228387fc402b1ab34bf3f603da6edd08a5b4734.webp",
+    "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/90b0ecede72d71b7b42927ae3228387fc402b1ab34bf3f603da6edd08a5b4734.webp",
+    "active": true,
     "source": "tiktools"
   },
   {
@@ -37730,6 +37890,26 @@
     "source": "tiktools"
   },
   {
+    "giftId": "1517059",
+    "name": "Disco Top Hat",
+    "points": 299,
+    "priceKnown": true,
+    "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/daa58be3f6b3eddaaf8616be8aa5e0ab3b1b68a7f9cc5b37a4f9048d750efe78.webp",
+    "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/daa58be3f6b3eddaaf8616be8aa5e0ab3b1b68a7f9cc5b37a4f9048d750efe78.webp",
+    "active": true,
+    "source": "tiktools"
+  },
+  {
+    "giftId": "1517061",
+    "name": "Music Aerosol",
+    "points": 400,
+    "priceKnown": true,
+    "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/68d1e84d953535312b5c7d83c0ece328c4f5833e173fed37d97973b18c8e2f2f.webp",
+    "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/68d1e84d953535312b5c7d83c0ece328c4f5833e173fed37d97973b18c8e2f2f.webp",
+    "active": true,
+    "source": "tiktools"
+  },
+  {
     "giftId": "1519040",
     "name": "Fly - Travel",
     "points": 30,
@@ -38047,6 +38227,16 @@
     "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/a58585a0758a750087f6ea1b2a8158cae559ef56c7bb487898f8436e3e2c5e9e.webp",
     "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/a58585a0758a750087f6ea1b2a8158cae559ef56c7bb487898f8436e3e2c5e9e.webp",
     "active": true,
+    "source": "tiktools"
+  },
+  {
+    "giftId": "1543375",
+    "name": "زعيمة القبعة",
+    "points": 1,
+    "priceKnown": true,
+    "image": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/c4dde1a932703b996f7bc63edd5ec2d82e3d1e9bc075fbfa8c75e0d797145d10.webp",
+    "giftImageUrl": "https://raw.githubusercontent.com/1363306384/streamplay-gift-catalog/main/images/c4dde1a932703b996f7bc63edd5ec2d82e3d1e9bc075fbfa8c75e0d797145d10.webp",
+    "active": false,
     "source": "tiktools"
   },
   {
