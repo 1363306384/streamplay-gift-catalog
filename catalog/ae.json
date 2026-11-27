@@ -1402,6 +1402,14 @@
   },
   {
     "giftIds": [
+      "17987"
+    ],
+    "name": "Silver Champopo",
+    "points": 20,
+    "image": "silver-champopo-17987.webp"
+  },
+  {
+    "giftIds": [
       "1473096"
     ],
     "name": "Tiny Blush",
@@ -5819,6 +5827,7 @@
   },
   {
     "giftIds": [
+      "16282",
       "18299",
       "16820",
       "17308",
@@ -5826,7 +5835,7 @@
     ],
     "name": "Viking Hammer",
     "points": 1500,
-    "image": "viking-hammer-18299.webp"
+    "image": "viking-hammer-16282.webp"
   },
   {
     "giftIds": [
@@ -6459,6 +6468,14 @@
   },
   {
     "giftIds": [
+      "1542544"
+    ],
+    "name": "Snowball game",
+    "points": 3999,
+    "image": "snowball-game-1542544.webp"
+  },
+  {
+    "giftIds": [
       "12977"
     ],
     "name": "Soaring Spirit",
@@ -6979,6 +6996,17 @@
     "name": "Championship Hall",
     "points": 6600,
     "image": "championship-hall-1137786.webp"
+  },
+  {
+    "giftIds": [
+      "17989",
+      "18521",
+      "18533",
+      "18550"
+    ],
+    "name": "TikTok Red Carpet",
+    "points": 6600,
+    "image": "tiktok-red-carpet-17989.webp"
   },
   {
     "giftIds": [
@@ -7784,6 +7812,14 @@
   },
   {
     "giftIds": [
+      "1542546"
+    ],
+    "name": "Rookie Tiger",
+    "points": 21000,
+    "image": "rookie-tiger-1542546.webp"
+  },
+  {
+    "giftIds": [
       "1241070"
     ],
     "name": "Siren's Aria",
@@ -7956,6 +7992,7 @@
   {
     "giftIds": [
       "8624",
+      "16284",
       "8456",
       "134396"
     ],
@@ -9024,6 +9061,14 @@
   },
   {
     "giftIds": [
+      "987708"
+    ],
+    "name": "Boba Angella",
+    "points": 1,
+    "image": "boba-angella-987708.webp"
+  },
+  {
+    "giftIds": [
       "36972"
     ],
     "name": "Bodenlos",
@@ -9397,6 +9442,14 @@
     "name": "Chestnut",
     "points": 1,
     "image": "chestnut-1272044.webp"
+  },
+  {
+    "giftIds": [
+      "34019"
+    ],
+    "name": "Chic Attitude",
+    "points": 1,
+    "image": "chic-attitude-34019.webp"
   },
   {
     "giftIds": [
@@ -10215,6 +10268,14 @@
     "name": "Elena Roz",
     "points": 1,
     "image": "elena-roz-87732.webp"
+  },
+  {
+    "giftIds": [
+      "189705"
+    ],
+    "name": "ELIF",
+    "points": 1,
+    "image": "elif-189705.webp"
   },
   {
     "giftIds": [
@@ -11223,6 +11284,14 @@
     "name": "Ioana Glow",
     "points": 1,
     "image": "ioana-glow-1378222.webp"
+  },
+  {
+    "giftIds": [
+      "152822"
+    ],
+    "name": "Isla Cocolandia",
+    "points": 1,
+    "image": "isla-cocolandia-152822.webp"
   },
   {
     "giftIds": [
@@ -17774,6 +17843,14 @@
   },
   {
     "giftIds": [
+      "32184"
+    ],
+    "name": "ゆうちゃんフォト",
+    "points": 1,
+    "image": "gift-32184.webp"
+  },
+  {
+    "giftIds": [
       "29521"
     ],
     "name": "ゆぴゴリラ",
@@ -20901,6 +20978,14 @@
   },
   {
     "giftIds": [
+      "1514723"
+    ],
+    "name": "Black Friday",
+    "points": 299,
+    "image": "black-friday-1514723.webp"
+  },
+  {
+    "giftIds": [
       "1509156"
     ],
     "name": "Bomberman Arrives",
@@ -23991,6 +24076,14 @@
   },
   {
     "giftIds": [
+      "1514726"
+    ],
+    "name": "Black Reindeer",
+    "points": 4999,
+    "image": "black-reindeer-1514726.webp"
+  },
+  {
+    "giftIds": [
       "1064220"
     ],
     "name": "Chair Swing",
@@ -24407,16 +24500,6 @@
     "name": "With you",
     "points": 6000,
     "image": "with-you-7841.webp"
-  },
-  {
-    "giftIds": [
-      "18521",
-      "18533",
-      "18550"
-    ],
-    "name": "TikTok Red Carpet",
-    "points": 6600,
-    "image": "tiktok-red-carpet-18521.webp"
   },
   {
     "giftIds": [
