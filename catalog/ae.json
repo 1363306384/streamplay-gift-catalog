@@ -4777,7 +4777,8 @@
   },
   {
     "giftIds": [
-      "17047"
+      "17047",
+      "16120"
     ],
     "name": "Goldfish Scooping",
     "points": 500,
@@ -5000,6 +5001,7 @@
       "16564",
       "16573",
       "16591",
+      "16595",
       "16706",
       "16819",
       "16827",
@@ -8379,6 +8381,14 @@
   },
   {
     "giftIds": [
+      "26604"
+    ],
+    "name": "Alexuța",
+    "points": 1,
+    "image": "alexuta-26604.webp"
+  },
+  {
+    "giftIds": [
       "556593"
     ],
     "name": "AlexVip Puls",
@@ -8969,6 +8979,14 @@
     "name": "Bé Hoả",
     "points": 1,
     "image": "be-hoa-140095.webp"
+  },
+  {
+    "giftIds": [
+      "39015"
+    ],
+    "name": "Bea",
+    "points": 1,
+    "image": "bea-39015.webp"
   },
   {
     "giftIds": [
@@ -10036,6 +10054,14 @@
     "name": "Dasha",
     "points": 1,
     "image": "dasha-1343927.webp"
+  },
+  {
+    "giftIds": [
+      "1550079"
+    ],
+    "name": "Dave",
+    "points": 1,
+    "image": "dave-1550079.webp"
   },
   {
     "giftIds": [
@@ -13837,6 +13863,14 @@
   },
   {
     "giftIds": [
+      "32186"
+    ],
+    "name": "Princesa Mimi",
+    "points": 1,
+    "image": "princesa-mimi-32186.webp"
+  },
+  {
+    "giftIds": [
       "43510"
     ],
     "name": "Princess Yassie",
@@ -14260,6 +14294,22 @@
     "name": "Robert Ionescu",
     "points": 1,
     "image": "robert-ionescu-56284.webp"
+  },
+  {
+    "giftIds": [
+      "122444"
+    ],
+    "name": "RoksiStar",
+    "points": 1,
+    "image": "roksistar-122444.webp"
+  },
+  {
+    "giftIds": [
+      "53309"
+    ],
+    "name": "Roro et Juju",
+    "points": 1,
+    "image": "roro-et-juju-53309.webp"
   },
   {
     "giftIds": [
@@ -15233,6 +15283,14 @@
   },
   {
     "giftIds": [
+      "125937"
+    ],
+    "name": "Team Ezther",
+    "points": 1,
+    "image": "team-ezther-125937.webp"
+  },
+  {
+    "giftIds": [
       "53124"
     ],
     "name": "Team Jungwoo",
@@ -15398,6 +15456,14 @@
     "name": "TeamRay",
     "points": 1,
     "image": "teamray-275850.webp"
+  },
+  {
+    "giftIds": [
+      "40743"
+    ],
+    "name": "TEAMSERKAN",
+    "points": 1,
+    "image": "teamserkan-40743.webp"
   },
   {
     "giftIds": [
@@ -15606,6 +15672,14 @@
     "name": "TROPA DA KETY",
     "points": 1,
     "image": "tropa-da-kety-108998.webp"
+  },
+  {
+    "giftIds": [
+      "75128"
+    ],
+    "name": "Tropa da TATA",
+    "points": 1,
+    "image": "tropa-da-tata-75128.webp"
   },
   {
     "giftIds": [
@@ -15862,6 +15936,14 @@
     "name": "W.N.P Raccoon",
     "points": 1,
     "image": "w-n-p-raccoon-28464.webp"
+  },
+  {
+    "giftIds": [
+      "71682"
+    ],
+    "name": "W2M en Force",
+    "points": 1,
+    "image": "w2m-en-force-71682.webp"
   },
   {
     "giftIds": [
@@ -16704,6 +16786,14 @@
     "name": "غضنفر رابض",
     "points": 1,
     "image": "gift-423836.webp"
+  },
+  {
+    "giftIds": [
+      "48356"
+    ],
+    "name": "کالا چشمہ",
+    "points": 1,
+    "image": "gift-48356.webp"
   },
   {
     "giftIds": [
@@ -17723,6 +17813,14 @@
   },
   {
     "giftIds": [
+      "24094"
+    ],
+    "name": "ありがとう将軍",
+    "points": 1,
+    "image": "gift-24094.webp"
+  },
+  {
+    "giftIds": [
       "32748"
     ],
     "name": "ウニちゃんブラック",
@@ -18416,6 +18514,7 @@
   {
     "giftIds": [
       "12963",
+      "14610",
       "57327"
     ],
     "name": "Shining Starlight",
@@ -19352,6 +19451,14 @@
     "name": "Cheese Donuts",
     "points": 30,
     "image": "cheese-donuts-6551.webp"
+  },
+  {
+    "giftIds": [
+      "13978"
+    ],
+    "name": "Choco Strawberries",
+    "points": 30,
+    "image": "choco-strawberries-13978.webp"
   },
   {
     "giftIds": [
@@ -20861,6 +20968,14 @@
   },
   {
     "giftIds": [
+      "1326953"
+    ],
+    "name": "志士隊の誓い",
+    "points": 199,
+    "image": "gift-1326953.webp"
+  },
+  {
+    "giftIds": [
       "12700",
       "13465",
       "13683",
@@ -21740,13 +21855,14 @@
   },
   {
     "giftIds": [
+      "15352",
       "16345",
       "16538",
       "16558"
     ],
     "name": "Taraxacum Corgi",
     "points": 400,
-    "image": "taraxacum-corgi-16345.webp"
+    "image": "taraxacum-corgi-15352.webp"
   },
   {
     "giftIds": [
